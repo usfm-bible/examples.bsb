@@ -1,14 +1,14 @@
-
 \id EZR - Berean Study Bible
 \h Ezra
 \toc1 Ezra
+\toc2 Ezra
+\toc3 Ezra
 \mt1 Ezra
 \c 1
 \s1 The Proclamation of Cyrus
 \r (2 Chronicles 36:22–23; Isaiah 45:1–25)
 \p
 \v 1 In the first year of Cyrus king of Persia, to fulfill the word of the LORD spoken through Jeremiah, the LORD stirred the spirit of Cyrus king of Persia to send a proclamation throughout his kingdom and to put it in writing as follows:
-\b
 \pmo
 \v 2 “This is what Cyrus king of Persia says:
 \b
@@ -26,18 +26,12 @@
 \v 7 King Cyrus also brought out the articles belonging to the house of the LORD that Nebuchadnezzar had carried away from Jerusalem and placed in the temple of his gods.
 \v 8 Cyrus king of Persia had them brought out by the hand of Mithredath the treasurer, who counted them out to Sheshbazzar the prince of Judah.\f + \fr 1:8 \ft That is, the leader of the exiles returning to Judah\f*
 \v 9 This was the inventory:
-\b
 \li1 30 gold dishes,\f + \fr 1:9 \ft Or basins; twice in this verse\f*
-\b
 \li1 1,000 silver dishes,
-\b
 \li1 29 silver utensils,
-\b
 \li1
 \v 10 30 gold bowls,
-\b
 \li1 410 matching silver bowls,
-\b
 \li1 and 1,000 other articles.
 \p
 \v 11 In all, there were 5,400 gold and silver articles. Sheshbazzar brought all these along when the exiles went up from Babylon to Jerusalem.
@@ -46,7 +40,7 @@
 \r (Nehemiah 7:4–69)
 \p
 \v 1 Now these are the people of the province who came up from the captivity of the exiles carried away to Babylon by Nebuchadnezzar its king. They returned to Jerusalem and Judah, each to his own town,
-\v 2 accompanied by Zerubbabel, Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum, and Baanah.\f + \fr 2:2 \ft Parallel text at Nehemiah 7:7 accompanied by Zerubbabel, Jeshua, Nehemiah, Azariah, Raamiah, Nahamani, Mordecai, Bilshan, Mispereth, Bigvai, Nehum, and Baanah\f*
+\v 2 accompanied by Zerubbabel, Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum, and Baanah.\f + \fr 2:2 \ft Parallel text at \+xt Nehemiah 7:7\+xt* accompanied by Zerubbabel, Jeshua, Nehemiah, Azariah, Raamiah, Nahamani, Mordecai, Bilshan, Mispereth, Bigvai, Nehum, and Baanah\f*
 \p This is the count of the men of Israel:
 \b
 \li1
@@ -71,7 +65,7 @@
 \v 9 the descendants of Zaccai, 760;
 \b
 \li1
-\v 10 the descendants of Bani,\f + \fr 2:10 \ft Bani is a variant of Binnui; see Nehemiah 7:15.\f* 642;
+\v 10 the descendants of Bani,\f + \fr 2:10 \ft Bani is a variant of Binnui; see \+xt Nehemiah 7:15\+xt*.\f* 642;
 \b
 \li1
 \v 11 the descendants of Bebai, 623;
@@ -95,16 +89,16 @@
 \v 17 the descendants of Bezai, 323;
 \b
 \li1
-\v 18 the descendants of Jorah,\f + \fr 2:18 \ft Jorah is a variant of Hariph; see Nehemiah 7:24.\f* 112;
+\v 18 the descendants of Jorah,\f + \fr 2:18 \ft Jorah is a variant of Hariph; see \+xt Nehemiah 7:24\+xt*.\f* 112;
 \b
 \li1
 \v 19 the descendants of Hashum, 223;
 \b
 \li1
-\v 20 the descendants of Gibbar,\f + \fr 2:20 \ft Gibbar is a variant of Gibeon; see Nehemiah 7:25.\f* 95;
+\v 20 the descendants of Gibbar,\f + \fr 2:20 \ft Gibbar is a variant of Gibeon; see \+xt Nehemiah 7:25\+xt*.\f* 95;
 \b
 \li1
-\v 21 the men \f + \fr 2:21 \ft Literally the sons; here and in verses 25, 26, 33, and 34\f* of Bethlehem, 123;
+\v 21 the men\f + \fr 2:21 \ft Literally the sons; here and in verses 25, 26, 33, and 34\f* of Bethlehem, 123;
 \b
 \li1
 \v 22 the men of Netophah, 56;
@@ -113,10 +107,10 @@
 \v 23 the men of Anathoth, 128;
 \b
 \li1
-\v 24 the descendants of Azmaveth,\f + \fr 2:24 \ft Azmaveth is a variant of Beth-azmaveth; see Nehemiah 7:28.\f* 42;
+\v 24 the descendants of Azmaveth,\f + \fr 2:24 \ft Azmaveth is a variant of Beth-azmaveth; see \+xt Nehemiah 7:28\+xt*.\f* 42;
 \b
 \li1
-\v 25 the men of Kiriath-jearim,\f + \fr 2:25 \ft LXX (see also Nehemiah 7:29); Hebrew Kiriath-arim\f* Chephirah, and Beeroth, 743;
+\v 25 the men of Kiriath-jearim,\f + \fr 2:25 \ft LXX (see also \+xt Nehemiah 7:29\+xt*); Hebrew Kiriath-arim\f* Chephirah, and Beeroth, 743;
 \b
 \li1
 \v 26 the men of Ramah and Geba, 621;
@@ -163,7 +157,7 @@
 \p
 \v 40 The Levites:
 \b
-\li1 the descendants of Jeshua and Kadmiel (through the line of Hodaviah \f + \fr 2:40 \ft Hodaviah is a variant of Hodevah; see Nehemiah 7:43.\f*), 74.
+\li1 the descendants of Jeshua and Kadmiel (through the line of Hodaviah\f + \fr 2:40 \ft Hodaviah is a variant of Hodevah; see \+xt Nehemiah 7:43\+xt*.\f*), 74.
 \p
 \v 41 The singers:
 \b
@@ -196,7 +190,7 @@
 \li1
 \v 44 the descendants of Keros,
 \b
-\li1 the descendants of Siaha,\f + \fr 2:44 \ft Siaha is a variant of Sia; see Nehemiah 7:47.\f*
+\li1 the descendants of Siaha,\f + \fr 2:44 \ft Siaha is a variant of Sia; see \+xt Nehemiah 7:47\+xt*.\f*
 \b
 \li1 the descendants of Padon,
 \b
@@ -210,7 +204,7 @@
 \li1
 \v 46 the descendants of Hagab,
 \b
-\li1 the descendants of Shalmai,\f + \fr 2:46 \ft Alternate MT reading (see also Nehemiah 7:48); the other alternate reads Shamlai\f*
+\li1 the descendants of Shalmai,\f + \fr 2:46 \ft Alternate MT reading (see also \+xt Nehemiah 7:48\+xt*); the other alternate reads Shamlai\f*
 \b
 \li1 the descendants of Hanan,
 \b
@@ -240,7 +234,7 @@
 \b
 \li1 the descendants of Meunim,
 \b
-\li1 the descendants of Nephusim,\f + \fr 2:50 \ft Nephusim is a variant of Nephushesim; see Nehemiah 7:52.\f*
+\li1 the descendants of Nephusim,\f + \fr 2:50 \ft Nephusim is a variant of Nephushesim; see \+xt Nehemiah 7:52\+xt*.\f*
 \b
 \li1
 \v 51 the descendants of Bakbuk,
@@ -250,7 +244,7 @@
 \li1 the descendants of Harhur,
 \b
 \li1
-\v 52 the descendants of Bazluth,\f + \fr 2:52 \ft Bazluth is a variant of Bazlith; see Nehemiah 7:54.\f*
+\v 52 the descendants of Bazluth,\f + \fr 2:52 \ft Bazluth is a variant of Bazlith; see \+xt Nehemiah 7:54\+xt*.\f*
 \b
 \li1 the descendants of Mehida,
 \b
@@ -274,7 +268,7 @@
 \b
 \li1 the descendants of Sophereth,
 \b
-\li1 the descendants of Peruda,\f + \fr 2:55 \ft Peruda is a variant of Perida; see Nehemiah 7:57.\f*
+\li1 the descendants of Peruda,\f + \fr 2:55 \ft Peruda is a variant of Perida; see \+xt Nehemiah 7:57\+xt*.\f*
 \b
 \li1
 \v 56 the descendants of Jaala,
@@ -290,12 +284,12 @@
 \b
 \li1 the descendants of Pochereth-hazzebaim,
 \b
-\li1 and the descendants of Ami.\f + \fr 2:57 \ft Ami is a variant of Amon; see Nehemiah 7:59.\f*
+\li1 and the descendants of Ami.\f + \fr 2:57 \ft Ami is a variant of Amon; see \+xt Nehemiah 7:59\+xt*.\f*
 \b
 \li1
 \v 58 The temple servants and descendants of the servants of Solomon numbered 392 in all.
 \p
-\v 59 The following came up from Tel-melah, Tel-harsha, Cherub, Addan,\f + \fr 2:59 \ft Addan is a variant of Addon; see Nehemiah 7:61.\f* and Immer, but could not prove that their families were descended from Israel:
+\v 59 The following came up from Tel-melah, Tel-harsha, Cherub, Addan,\f + \fr 2:59 \ft Addan is a variant of Addon; see \+xt Nehemiah 7:61\+xt*.\f* and Immer, but could not prove that their families were descended from Israel:
 \b
 \li1
 \v 60 the descendants of Delaiah,
@@ -327,16 +321,16 @@
 \v 68 When they arrived at the house of the LORD in Jerusalem, some of the heads of the families gave freewill offerings to rebuild the house of God on its original site.
 \v 69 According to their ability, they gave to the treasury for this work 61,000 darics of gold,\f + \fr 2:69 \ft Or 61,000 gold drachmas; that is, approximately 1,129.7 pounds or 512.4 kilograms of gold coins\f* 5,000 minas of silver,\f + \fr 2:69 \ft 5,000 minas is approximately 3.14 tons or 2.85 metric tons of silver.\f* and 100 priestly garments.
 \p
-\v 70 So the priests, the Levites, the singers, the gatekeepers, and the temple servants, along with some of the people, settled in their own towns; and the rest of the Israelites \f + \fr 2:70 \ft Or all Israel\f* settled in their towns.
+\v 70 So the priests, the Levites, the singers, the gatekeepers, and the temple servants, along with some of the people, settled in their own towns; and the rest of the Israelites\f + \fr 2:70 \ft Or all Israel\f* settled in their towns.
 \c 3
 \s1 Sacrifices Restored
 \p
 \v 1 By the seventh month, the Israelites had settled in their towns, and the people assembled as one man in Jerusalem.
 \p
-\v 2 Then Jeshua son of Jozadak \f + \fr 3:2 \ft Jozadak is a variant of Jehozadak; also in verse 8; see 1 Chronicles 6:14.\f* and his fellow priests, along with Zerubbabel son of Shealtiel and his associates, began to build the altar of the God of Israel to sacrifice burnt offerings on it, as it is written in the Law of Moses the man of God.
+\v 2 Then Jeshua son of Jozadak\f + \fr 3:2 \ft Jozadak is a variant of Jehozadak; also in verse 8; see \+xt 1 Chronicles 6:14\+xt*.\f* and his fellow priests, along with Zerubbabel son of Shealtiel and his associates, began to build the altar of the God of Israel to sacrifice burnt offerings on it, as it is written in the Law of Moses the man of God.
 \v 3 They set up the altar on its foundation and sacrificed burnt offerings on it to the LORD—both the morning and evening burnt offerings—even though they feared the people of the land.
 \p
-\v 4 They also celebrated the Feast of Tabernacles \f + \fr 3:4 \ft That is, Sukkot, the autumn feast of pilgrimage to Jerusalem; also translated as the Feast of Booths or the Feast of Shelters and originally called the Feast of Ingathering (see Exodus 23:16 and Exodus 34:22).\f* in accordance with what is written, and they offered burnt offerings daily based on the number prescribed for each day.
+\v 4 They also celebrated the Feast of Tabernacles\f + \fr 3:4 \ft That is, Sukkot, the autumn feast of pilgrimage to Jerusalem; also translated as the Feast of Booths or the Feast of Shelters and originally called the Feast of Ingathering (see \+xt Exodus 23:16\+xt* and \+xt Exodus 34:22\+xt*).\f* in accordance with what is written, and they offered burnt offerings daily based on the number prescribed for each day.
 \p
 \v 5 After that, they presented the regular burnt offerings and those for New Moons and for all the appointed sacred feasts of the LORD, as well as all the freewill offerings brought to the LORD.
 \p
@@ -345,13 +339,12 @@
 \s1 Temple Restoration Begins
 \p
 \v 8 In the second month of the second year after they had arrived at the house of God in Jerusalem, Zerubbabel son of Shealtiel, Jeshua son of Jozadak, and the rest of their associates including the priests, the Levites, and all who had returned to Jerusalem from the captivity, began the work. They appointed Levites twenty years of age or older to supervise the construction of the house of the LORD.
-\v 9 So Jeshua and his sons and brothers, Kadmiel and his sons (descendants of Yehudah),\f + \fr 3:9 \ft Hebrew sons of Judah; that is, most likely, sons of Yehudah, another name for Hodevah or Hodaviah; see Ezra 2:40 and Nehemiah 7:43.\f* and the sons of Henadad and their sons and brothers—all Levites—joined together to supervise those working on the house of God.
+\v 9 So Jeshua and his sons and brothers, Kadmiel and his sons (descendants of Yehudah),\f + \fr 3:9 \ft Hebrew sons of Judah; that is, most likely, sons of Yehudah, another name for Hodevah or Hodaviah; see \+xt Ezra 2:40\+xt* and \+xt Nehemiah 7:43\+xt*.\f* and the sons of Henadad and their sons and brothers—all Levites—joined together to supervise those working on the house of God.
 \p
 \v 10 When the builders had laid the foundation of the temple of the LORD, the priests in their apparel with trumpets, and the Levites (the sons of Asaph) with cymbals, took their positions to praise the LORD, as David king of Israel had prescribed.
 \v 11 And they sang responsively with praise and thanksgiving to the LORD:
-\b
 \q1 “For He is good;
-\q2 for His loving devotion \f + \fr 3:11 \ft Forms of the Hebrew chesed are translated here and in most cases throughout the Scriptures as loving devotion; the range of meaning includes love, goodness, kindness, faithfulness, and mercy, as well as loyalty to a covenant.\f* to Israel endures forever.”
+\q2 for His loving devotion\f + \fr 3:11 \ft Forms of the Hebrew chesed are translated here and in most cases throughout the Scriptures as loving devotion; the range of meaning includes love, goodness, kindness, faithfulness, and mercy, as well as loyalty to a covenant.\f* to Israel endures forever.”
 \p Then all the people gave a great shout of praise to the LORD, because the foundation of the house of the LORD had been laid.
 \p
 \v 12 But many of the older priests, Levites, and family heads who had seen the first temple wept loudly when they saw the foundation of this temple. Still, many others shouted joyfully.
@@ -370,13 +363,12 @@
 \p
 \v 6 At the beginning of the reign of Xerxes,\f + \fr 4:6 \ft Hebrew Ahasuerus\f* an accusation was lodged against the people of Judah and Jerusalem.
 \p
-\v 7 And in the days of Artaxerxes king of Persia, Bishlam, Mithredath, Tabeel, and the rest of his associates wrote a letter to Artaxerxes. It was written in Aramaic and then translated.\f + \fr 4:7 \ft The original text of Ezra 4:8 through Ezra 6:18 is in Aramaic.\f*
+\v 7 And in the days of Artaxerxes king of Persia, Bishlam, Mithredath, Tabeel, and the rest of his associates wrote a letter to Artaxerxes. It was written in Aramaic and then translated.\f + \fr 4:7 \ft The original text of \+xt Ezra 4:8\+xt* through \+xt Ezra 6:18\+xt* is in Aramaic.\f*
 \p
 \v 8 Rehum the commander and Shimshai the scribe wrote the letter against Jerusalem to King Artaxerxes as follows:
-\b
 \pmo
 \v 9 From Rehum the commander, Shimshai the scribe, and the rest of their associates—the judges and officials over Tripolis, Persia, Erech and Babylon, the Elamites of Susa,
-\v 10 and the rest of the peoples whom the great and honorable Ashurbanipal \f + \fr 4:10 \ft Aramaic Osnappar, another name for Ashurbanipal\f* deported and settled in the cities of Samaria and elsewhere west of the Euphrates.\f + \fr 4:10 \ft Aramaic beyond the River; also in verses 11, 16, 17, and 20\f*
+\v 10 and the rest of the peoples whom the great and honorable Ashurbanipal\f + \fr 4:10 \ft Aramaic Osnappar, another name for Ashurbanipal\f* deported and settled in the cities of Samaria and elsewhere west of the Euphrates.\f + \fr 4:10 \ft Aramaic beyond the River; also in verses 11, 16, 17, and 20\f*
 \b
 \pmo
 \v 11 (This is the text of the letter they sent to him.)
@@ -392,7 +384,7 @@
 \v 13 Let it now be known to the king that if that city is rebuilt and its walls are restored, they will not pay tribute, duty, or toll, and the royal treasury will suffer.
 \b
 \pmo
-\v 14 Now because we are in the service of the palace \f + \fr 4:14 \ft Literally because the salt of the palace is the salt we eat\f* and it is not fitting for us to allow the king to be dishonored, we have sent to inform the king
+\v 14 Now because we are in the service of the palace\f + \fr 4:14 \ft Literally because the salt of the palace is the salt we eat\f* and it is not fitting for us to allow the king to be dishonored, we have sent to inform the king
 \v 15 that a search should be made of the record books of your fathers. In these books you will discover and verify that the city is a rebellious city, harmful to kings and provinces, inciting sedition from ancient times. That is why this city was destroyed.
 \b
 \pmo
@@ -400,7 +392,6 @@
 \s1 The Decree of Artaxerxes
 \p
 \v 17 Then the king sent this reply:
-\b
 \pmo To Rehum the commander, Shimshai the scribe, and the rest of your associates living in Samaria and elsewhere in the region west of the Euphrates:
 \b
 \pmo Greetings.
@@ -422,7 +413,7 @@
 \r (Haggai 1:1–11)
 \p
 \v 1 Later, the prophets Haggai and Zechariah son of Iddo prophesied to the Jews in Judah and Jerusalem in the name of the God of Israel, who was over them.
-\v 2 Then Zerubbabel son of Shealtiel and Jeshua son of Jozadak \f + \fr 5:2 \ft Jozadak is a variant of Jehozadak; see 1 Chronicles 6:14.\f* rose up and began to rebuild the house of God in Jerusalem. And the prophets of God were with them, helping them.
+\v 2 Then Zerubbabel son of Shealtiel and Jeshua son of Jozadak\f + \fr 5:2 \ft Jozadak is a variant of Jehozadak; see \+xt 1 Chronicles 6:14\+xt*.\f* rose up and began to rebuild the house of God in Jerusalem. And the prophets of God were with them, helping them.
 \p
 \v 3 At that time Tattenai the governor of the region west of the Euphrates,\f + \fr 5:3 \ft Aramaic the governor beyond the River; also in verse 6\f* Shethar-bozenai, and their associates went to the Jews and asked, “Who authorized you to rebuild this temple and restore this structure?”
 \p
@@ -433,7 +424,6 @@
 \p
 \v 6 This is the text of the letter that Tattenai the governor of the region west of the Euphrates, Shethar-bozenai, and their associates, the officials in the region, sent to King Darius.
 \v 7 The report they sent him read as follows:
-\b
 \pmo To King Darius:
 \b
 \pmo All peace.
@@ -445,7 +435,7 @@
 \v 9 So we questioned the elders and asked, “Who authorized you to rebuild this temple and restore this structure?”
 \b
 \pmo
-\v 10 We also asked for their names, so that we could write down the names of their leaders \f + \fr 5:10 \ft Aramaic the names of the men at their heads\f* for your information.
+\v 10 We also asked for their names, so that we could write down the names of their leaders\f + \fr 5:10 \ft Aramaic the names of the men at their heads\f* for your information.
 \b
 \pmo
 \v 11 And this is the answer they returned:
@@ -455,7 +445,7 @@
 \b
 \pmo
 \v 13 In his first year, however, Cyrus king of Babylon issued a decree to rebuild this house of God.
-\v 14 He also removed from the temple \f + \fr 5:14 \ft Or palace\f* of Babylon the gold and silver articles belonging to the house of God, which Nebuchadnezzar had taken and carried there from the temple in Jerusalem. King Cyrus gave these articles to a man named Sheshbazzar, whom he appointed governor
+\v 14 He also removed from the temple\f + \fr 5:14 \ft Or palace\f* of Babylon the gold and silver articles belonging to the house of God, which Nebuchadnezzar had taken and carried there from the temple in Jerusalem. King Cyrus gave these articles to a man named Sheshbazzar, whom he appointed governor
 \v 15 and instructed, ‘Take these articles, put them in the temple in Jerusalem, and let the house of God be rebuilt on its original site.’
 \b
 \pmo
@@ -468,20 +458,18 @@
 \p
 \v 1 Thus King Darius ordered a search of the archives stored in the treasury of Babylon.
 \v 2 And a scroll was found in the fortress of Ecbatana, in the province of Media, with the following written on it:
-\b
 \pmo Memorandum:
 \b
 \pmo
 \v 3 In the first year of King Cyrus, he issued a decree concerning the house of God in Jerusalem:
 \b
-\pmo Let the house be rebuilt as a place for offering sacrifices, and let its foundations be firmly laid. It is to be sixty cubits high and sixty cubits wide,\f + \fr 6:3 \ft The house was to be approximately 90 feet or 27.4 meters in height and width; Syriac (see also 1 Kings 6:2) It is to be sixty cubits long, twenty cubits wide, and thirty cubits high.\f*
+\pmo Let the house be rebuilt as a place for offering sacrifices, and let its foundations be firmly laid. It is to be sixty cubits high and sixty cubits wide,\f + \fr 6:3 \ft The house was to be approximately 90 feet or 27.4 meters in height and width; Syriac (see also \+xt 1 Kings 6:2\+xt*) It is to be sixty cubits long, twenty cubits wide, and thirty cubits high.\f*
 \v 4 with three layers of cut stones and one of timbers. The costs are to be paid from the royal treasury.
 \b
 \pmo
 \v 5 Furthermore, the gold and silver articles of the house of God, which Nebuchadnezzar took from the temple in Jerusalem and carried to Babylon, must also be returned to the temple in Jerusalem and deposited in the house of God.
 \p
 \v 6 Therefore Darius decreed:
-\b
 \pmo To Tattenai governor of the region west of the Euphrates,\f + \fr 6:6 \ft Aramaic governor beyond the River; similarly in verses 8 and 13\f* Shethar-bozenai, and your associates and officials in the region:
 \b
 \pmo You must stay away from that place!
@@ -517,9 +505,9 @@
 \v 19 On the fourteenth day of the first month, the exiles kept the Passover.
 \v 20 All the priests and Levites had purified themselves and were ceremonially clean.
 \p And the Levites slaughtered the Passover lamb for all the exiles, for their priestly brothers, and for themselves.
-\v 21 The Israelites who had returned from exile ate it, together with all who had separated themselves from the uncleanness of the peoples \f + \fr 6:21 \ft Or nations\f* of the land to seek the LORD, the God of Israel.
+\v 21 The Israelites who had returned from exile ate it, together with all who had separated themselves from the uncleanness of the peoples\f + \fr 6:21 \ft Or nations\f* of the land to seek the LORD, the God of Israel.
 \p
-\v 22 For seven days they kept the Feast of Unleavened Bread \f + \fr 6:22 \ft That is, the seven-day period after the Passover during which no leaven may be eaten; see Exodus 12:14–20.\f* with joy, because the LORD had made them joyful and turned the heart of the king of Assyria toward them to strengthen their hands in the work on the house of the God of Israel.
+\v 22 For seven days they kept the Feast of Unleavened Bread\f + \fr 6:22 \ft That is, the seven-day period after the Passover during which no leaven may be eaten; see \+xt Exodus 12:14–20\+xt*.\f* with joy, because the LORD had made them joyful and turned the heart of the king of Assyria toward them to strengthen their hands in the work on the house of the God of Israel.
 \c 7
 \s1 Ezra Arrives in Jerusalem
 \p
@@ -537,8 +525,7 @@
 \v 10 For Ezra had set his heart to study the Law of the LORD, to practice it, and to teach its statutes and ordinances in Israel.
 \s1 Artaxerxes’ Letter for Ezra
 \p
-\v 11 This is the text of the letter King Artaxerxes had given to Ezra the priest and scribe, an expert in the commandments and statutes of the LORD to Israel:\f + \fr 7:11 \ft The original text of Ezra 7:12–26 is in Aramaic.\f*
-\b
+\v 11 This is the text of the letter King Artaxerxes had given to Ezra the priest and scribe, an expert in the commandments and statutes of the LORD to Israel:\f + \fr 7:11 \ft The original text of \+xt Ezra 7:12–26\+xt* is in Aramaic.\f*
 \pmo
 \v 12 Artaxerxes, king of kings.
 \b
@@ -617,7 +604,7 @@
 \v 12 from the descendants of Azgad, Johanan son of Hakkatan, and with him 110 men;
 \b
 \li1
-\v 13 from the later \f + \fr 8:13 \ft Or the last\f* descendants of Adonikam, these were their names: Eliphelet, Jeiel, and Shemaiah, and with them 60 men;
+\v 13 from the later\f + \fr 8:13 \ft Or the last\f* descendants of Adonikam, these were their names: Eliphelet, Jeiel, and Shemaiah, and with them 60 men;
 \b
 \li1
 \v 14 and from the descendants of Bigvai, both Uthai and Zaccur,\f + \fr 8:14 \ft LXX, Syriac, and an alternate MT reading; the other alternate reads Zabbud.\f* and with them 70 men.
@@ -626,7 +613,7 @@
 \v 15 Now I assembled these exiles at the canal that flows to Ahava, and we camped there three days. And when I searched among the people and priests, I found no Levites there.
 \p
 \v 16 Then I summoned the leaders: Eliezer, Ariel, Shemaiah, Elnathan,\f + \fr 8:16 \ft Elnathan appears three times in verse, either as a repetition for emphasis or as a record of multiple men with this name.\f* Jarib, Elnathan, Nathan, Zechariah, and Meshullam, as well as the teachers Joiarib and Elnathan.
-\v 17 And I sent them to Iddo, the leader at Casiphia, with a message for him and his kinsmen, the temple servants \f + \fr 8:17 \ft Hebrew the Nethinim; also in verse 20\f* at Casiphia, that they should bring to us ministers for the house of our God.
+\v 17 And I sent them to Iddo, the leader at Casiphia, with a message for him and his kinsmen, the temple servants\f + \fr 8:17 \ft Hebrew the Nethinim; also in verse 20\f* at Casiphia, that they should bring to us ministers for the house of our God.
 \p
 \v 18 And since the gracious hand of our God was upon us, they brought us Sherebiah—a man of insight from the descendants of Mahli son of Levi, the son of Israel—along with his sons and brothers, 18 men;
 \v 19 also Hashabiah, together with Jeshaiah, from the descendants of Merari, and his brothers and their sons, 20 men.
@@ -660,7 +647,7 @@
 \p
 \v 35 Then the exiles who had returned from captivity sacrificed burnt offerings to the God of Israel: 12 bulls for all Israel, 96 rams, 77 lambs, and a sin offering of 12 male goats. All this was a burnt offering to the LORD.
 \p
-\v 36 They also delivered the king’s edicts to the royal satraps \f + \fr 8:36 \ft A satrap was a Persian official.\f* and governors of the region west of the Euphrates,\f + \fr 8:36 \ft Hebrew governors beyond the River\f* who proceeded to assist the people and the house of God.
+\v 36 They also delivered the king’s edicts to the royal satraps\f + \fr 8:36 \ft A satrap was a Persian official.\f* and governors of the region west of the Euphrates,\f + \fr 8:36 \ft Hebrew governors beyond the River\f* who proceeded to assist the people and the house of God.
 \c 9
 \s1 Intermarriage with Neighboring Peoples
 \r (Nehemiah 13:23–31)
@@ -675,12 +662,11 @@
 \p
 \v 5 At the evening offering, I got up from my humiliation with my tunic and cloak torn, and I fell on my knees, spread out my hands to the LORD my God,
 \v 6 and said:
-\b
 \pmo “O my God, I am ashamed and embarrassed to lift up my face to You, my God, because our iniquities are higher than our heads, and our guilt has reached the heavens.
 \v 7 From the days of our fathers to this day, our guilt has been great. Because of our iniquities, we and our kings and priests have been delivered into the hands of the kings of the earth and put to the sword and captivity, to pillage and humiliation, as we are this day.
 \b
 \pmo
-\v 8 But now, for a brief moment, grace has come from the LORD our God to preserve for us a remnant and to give us a stake \f + \fr 9:8 \ft Or nail or foothold\f* in His holy place. Even in our bondage, our God has given us new life and light to our eyes.
+\v 8 But now, for a brief moment, grace has come from the LORD our God to preserve for us a remnant and to give us a stake\f + \fr 9:8 \ft Or nail or foothold\f* in His holy place. Even in our bondage, our God has given us new life and light to our eyes.
 \v 9 Though we are slaves, our God has not forsaken us in our bondage, but He has extended to us grace in the sight of the kings of Persia, giving us new life to rebuild the house of our God and repair its ruins, and giving us a wall of protection in Judah and Jerusalem.
 \b
 \pmo
@@ -706,7 +692,7 @@
 \v 5 So Ezra got up and made the leading priests, Levites, and all Israel take an oath to do what had been said. And they took the oath.
 \s1 The People’s Confession of Sin
 \p
-\v 6 Then Ezra withdrew from before the house of God and walked to the chamber of Jehohanan son of Eliashib. And while he stayed \f + \fr 10:6 \ft Or went\f* there, he ate no food and drank no water, because he was mourning over the unfaithfulness of the exiles.
+\v 6 Then Ezra withdrew from before the house of God and walked to the chamber of Jehohanan son of Eliashib. And while he stayed\f + \fr 10:6 \ft Or went\f* there, he ate no food and drank no water, because he was mourning over the unfaithfulness of the exiles.
 \p
 \v 7 And a proclamation was issued throughout Judah and Jerusalem that all the exiles should gather at Jerusalem.
 \v 8 Whoever failed to appear within three days would forfeit all his property, according to the counsel of the leaders and elders, and would himself be expelled from the assembly of the exiles.
@@ -726,7 +712,7 @@
 \v 17 and by the first day of the first month they had dealt with all the men who had married foreign women.
 \s1 Those Guilty of Intermarriage
 \p
-\v 18 Among the descendants of the priests who had married foreign women were found these descendants of Jeshua son of Jozadak \f + \fr 10:18 \ft Jozadak is a variant of Jehozadak; see 1 Chronicles 6:14.\f* and his brothers:
+\v 18 Among the descendants of the priests who had married foreign women were found these descendants of Jeshua son of Jozadak\f + \fr 10:18 \ft Jozadak is a variant of Jehozadak; see \+xt 1 Chronicles 6:14\+xt*.\f* and his brothers:
 \b
 \li1 Maaseiah, Eliezer, Jarib, and Gedaliah.
 \v 19 They pledged to send their wives away, and for their guilt they presented a ram from the flock as a guilt offering.

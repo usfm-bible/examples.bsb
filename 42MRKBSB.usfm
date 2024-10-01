@@ -1,7 +1,8 @@
-
 \id MRK - Berean Study Bible
 \h Mark
 \toc1 Mark
+\toc2 Mark
+\toc3 Mark
 \mt1 Mark
 \c 1
 \s1 The Mission of John the Baptist
@@ -9,13 +10,12 @@
 \p
 \v 1 This is the beginning of the gospel of Jesus Christ, the Son of God.\f + \fr 1:1 \ft SBL and WH the beginning of the gospel of Jesus Christ.\f*
 \v 2 As it is written in Isaiah the prophet:\f + \fr 1:2 \ft BYZ and TR in the prophets:\f*
-\b
 \q1 “Behold, I will send My messenger ahead of You,
-\q2 who will prepare Your way.”\f + \fr 1:2 \ft Malachi 3:1\f*
+\q2 who will prepare Your way.”\f + \fr 1:2 \ft \+xt Malachi 3:1\+xt*\f*
 \q1
 \v 3 “A voice of one calling in the wilderness,
 \q2 ‘Prepare the way for the Lord,
-\q2 make straight paths for Him.’”\f + \fr 1:3 \ft Isaiah 40:3 (see also LXX)\f*
+\q2 make straight paths for Him.’”\f + \fr 1:3 \ft \+xt Isaiah 40:3\+xt* (see also LXX)\f*
 \p
 \v 4 John the Baptist appeared in the wilderness, preaching a baptism of repentance for the forgiveness of sins.
 \v 5 People went out to him from all of Jerusalem and the countryside of Judea. Confessing their sins, they were baptized by him in the Jordan River.
@@ -25,7 +25,7 @@
 \v 8 I baptize you with water,\f + \fr 1:8 \ft Or in water\f* but He will baptize you with the Holy Spirit.\f + \fr 1:8 \ft Or in the Holy Spirit\f*”
 \p
 \v 9 In those days Jesus came from Nazareth in Galilee and was baptized by John in the Jordan.
-\v 10 As soon as Jesus came up out of the water, He saw \f + \fr 1:10 \ft Or he saw; see John 1:32–33\f* the heavens breaking open and the Spirit descending on Him like a dove.
+\v 10 As soon as Jesus came up out of the water, He saw\f + \fr 1:10 \ft Or he saw; see \+xt John 1:32–33\+xt*\f* the heavens breaking open and the Spirit descending on Him like a dove.
 \v 11 And a voice came from heaven: “You are My beloved Son; in You I am well pleased.”
 \s1 The Temptation and Preaching of Jesus
 \r (Matthew 4:1–17; Luke 4:1–15)
@@ -80,13 +80,13 @@
 \s1 The Leper’s Prayer
 \r (Leviticus 14:1–32; Matthew 8:1–4; Luke 5:12–16)
 \p
-\v 40 Then a leper \f + \fr 1:40 \ft A leper was one afflicted with a skin disease. See Leviticus 13.\f* came to Jesus, begging on his knees: “If You are willing, You can make me clean.”
+\v 40 Then a leper\f + \fr 1:40 \ft A leper was one afflicted with a skin disease. See Leviticus 13.\f* came to Jesus, begging on his knees: “If You are willing, You can make me clean.”
 \p
 \v 41 Moved with compassion,\f + \fr 1:41 \ft SBL Moved with indignation\f* Jesus reached out His hand and touched the man. “I am willing,” He said. “Be clean!”
 \v 42 And immediately the leprosy left him, and the man was cleansed.
 \p
 \v 43 Jesus promptly sent him away with a stern warning:
-\v 44 “See that you don’t tell anyone. But go, show yourself to the priest and present the offering Moses prescribed for your cleansing, as a testimony to them.”\f + \fr 1:44 \ft See Leviticus 14:1–32.\f*
+\v 44 “See that you don’t tell anyone. But go, show yourself to the priest and present the offering Moses prescribed for your cleansing, as a testimony to them.”\f + \fr 1:44 \ft See \+xt Leviticus 14:1–32\+xt*.\f*
 \p
 \v 45 But the man went out and openly began to proclaim and spread the news.
 \p Consequently, Jesus could no longer enter a town in plain view, but He stayed out in solitary places. Yet people came to Him from every quarter.
@@ -119,7 +119,7 @@
 \v 14 As He was walking along, He saw Levi son of Alphaeus sitting at the tax booth. “Follow Me,” He told him, and Levi got up and followed Him.
 \p
 \v 15 While Jesus was dining at Levi’s house, many tax collectors and sinners were eating with Him and His disciples—for there were many who followed Him.
-\v 16 When the scribes who were Pharisees saw Jesus eating with these people, they asked His disciples, “Why does He eat \f + \fr 2:16 \ft BYZ and TR include and drink; see Luke 5:30.\f* with tax collectors and sinners?”
+\v 16 When the scribes who were Pharisees saw Jesus eating with these people, they asked His disciples, “Why does He eat\f + \fr 2:16 \ft BYZ and TR include and drink; see \+xt Luke 5:30\+xt*.\f* with tax collectors and sinners?”
 \p
 \v 17 On hearing this, Jesus told them, “It is not the healthy who need a doctor, but the sick. I have not come to call the righteous, but sinners.”
 \s1 Questions about Fasting
@@ -205,7 +205,7 @@
 \r (Matthew 12:46–50; Luke 8:19–21)
 \p
 \v 31 Then Jesus’ mother and brothers came and stood outside. They sent someone in to summon Him,
-\v 32 and a crowd was sitting around Him. “Look,” He was told, “Your mother and brothers \f + \fr 3:32 \ft NE and NA include and Your sisters.\f* are outside, asking for You.”
+\v 32 and a crowd was sitting around Him. “Look,” He was told, “Your mother and brothers\f + \fr 3:32 \ft NE and NA include and Your sisters.\f* are outside, asking for You.”
 \p
 \v 33 But Jesus replied, “Who are My mother and My brothers?”
 \v 34 Looking at those seated in a circle around Him, He said, “Here are My mother and My brothers!
@@ -235,18 +235,17 @@
 \p
 \v 11 He replied, “The mystery of the kingdom of God has been given to you, but to those on the outside everything is expressed in parables,
 \v 12 so that,
-\b
 \q1 ‘they may be ever seeing but never perceiving,
 \q2 and ever hearing but never understanding;
 \q1 otherwise they might turn
-\q2 and be forgiven.’\f + \fr 4:12 \ft Isaiah 6:9–10 (see also LXX)\f*”
+\q2 and be forgiven.’\f + \fr 4:12 \ft \+xt Isaiah 6:9–10\+xt* (see also LXX)\f*”
 \s1 The Parable of the Sower Explained
 \r (Matthew 13:18–23; Luke 8:11–15)
 \p
 \v 13 Then Jesus said to them, “Do you not understand this parable? Then how will you understand any of the parables?
 \p
 \v 14 The farmer sows the word.
-\v 15 Some are like the seeds \f + \fr 4:15 \ft Or the word; similarly in verses 16, 18, and 20; literally Now these are the ones\f* along the path, where the word is sown. As soon as they hear it, Satan comes and takes away the word that was sown in them.
+\v 15 Some are like the seeds\f + \fr 4:15 \ft Or the word; similarly in verses 16, 18, and 20; literally Now these are the ones\f* along the path, where the word is sown. As soon as they hear it, Satan comes and takes away the word that was sown in them.
 \p
 \v 16 Some are like the seeds sown on rocky ground. They hear the word and at once receive it with joy.
 \v 17 But they themselves have no root, and they remain for only a season. When trouble or persecution comes because of the word, they quickly fall away.
@@ -270,7 +269,7 @@
 \v 26 Jesus also said, “The kingdom of God is like a man who scatters seed on the ground.
 \v 27 Night and day he sleeps and wakes, and the seed sprouts and grows, though he knows not how.
 \v 28 All by itself the earth produces a crop—first the stalk, then the head, then grain that ripens within.
-\v 29 And as soon as the grain is ripe, he swings the sickle, because the harvest has come.\f + \fr 4:29 \ft See Joel 3:13, including LXX.\f*”
+\v 29 And as soon as the grain is ripe, he swings the sickle, because the harvest has come.\f + \fr 4:29 \ft See \+xt Joel 3:13,\+xt* including LXX.\f*”
 \s1 The Parable of the Mustard Seed
 \r (Matthew 13:31–32; Luke 13:18–19)
 \p
@@ -326,7 +325,7 @@
 \v 18 As He was getting into the boat, the man who had been possessed by the demons begged to go with Him.
 \v 19 But Jesus would not allow him. “Go home to your own people,” He said, “and tell them how much the Lord has done for you, and what mercy He has shown you.”
 \p
-\v 20 So the man went away and began to proclaim throughout the Decapolis \f + \fr 5:20 \ft That is, the Ten Cities\f* how much Jesus had done for him. And everyone was amazed.
+\v 20 So the man went away and began to proclaim throughout the Decapolis\f + \fr 5:20 \ft That is, the Ten Cities\f* how much Jesus had done for him. And everyone was amazed.
 \s1 The Healing Touch of Jesus
 \r (Matthew 9:18–26; Luke 8:40–56)
 \p
@@ -353,7 +352,7 @@
 \p
 \v 35 While He was still speaking, messengers from the house of Jairus arrived and said, “Your daughter is dead; why bother the Teacher anymore?”
 \p
-\v 36 But Jesus overheard \f + \fr 5:36 \ft Or ignored\f* their conversation and said to Jairus, “Do not be afraid; just believe.”
+\v 36 But Jesus overheard\f + \fr 5:36 \ft Or ignored\f* their conversation and said to Jairus, “Do not be afraid; just believe.”
 \v 37 And He did not allow anyone to accompany Him except Peter, James, and John the brother of James.
 \p
 \v 38 When they arrived at the house of the synagogue leader, Jesus saw the commotion and the people weeping and wailing loudly.
@@ -369,7 +368,7 @@
 \p
 \v 1 Jesus went on from there and came to His hometown, accompanied by His disciples.
 \v 2 When the Sabbath came, He began to teach in the synagogue, and many who heard Him were astonished. “Where did this man get these ideas?” they asked. “What is this wisdom He has been given? And how can He perform such miracles?
-\v 3 Isn’t this the carpenter, the son of Mary and the brother of James, Joses,\f + \fr 6:3 \ft Joses is a variant of Joseph; see Matthew 13:55.\f* Judas, and Simon? Aren’t His sisters here with us as well?” And they took offense at Him.
+\v 3 Isn’t this the carpenter, the son of Mary and the brother of James, Joses,\f + \fr 6:3 \ft Joses is a variant of Joseph; see \+xt Matthew 13:55\+xt*.\f* Judas, and Simon? Aren’t His sisters here with us as well?” And they took offense at Him.
 \p
 \v 4 Then Jesus said to them, “Only in his hometown, among his relatives, and in his own household is a prophet without honor.”
 \v 5 So He could not perform any miracles there, except to lay His hands on a few of the sick and heal them.
@@ -379,11 +378,11 @@
 \r (Matthew 10:5–15; Luke 9:1–6)
 \p
 \v 7 Then Jesus called the Twelve to Him and began to send them out two by two, giving them authority over unclean spirits.
-\v 8 He instructed them to take nothing but a staff for the journey—no bread, no bag, no money \f + \fr 6:8 \ft Or copper coins\f* in their belts—
+\v 8 He instructed them to take nothing but a staff for the journey—no bread, no bag, no money\f + \fr 6:8 \ft Or copper coins\f* in their belts—
 \v 9 and to wear sandals, but not a second tunic.
 \p
 \v 10 And He told them, “When you enter a house, stay there until you leave that area.
-\v 11 If anyone will not welcome you or listen to you, shake the dust off your feet when you leave that place, as a testimony against them.”\f + \fr 6:11 \ft BYZ and TR include Truly I tell you, it will be more tolerable for Sodom and Gomorrah on the day of judgment than for that town; see Matthew 10:15.\f*
+\v 11 If anyone will not welcome you or listen to you, shake the dust off your feet when you leave that place, as a testimony against them.”\f + \fr 6:11 \ft BYZ and TR include Truly I tell you, it will be more tolerable for Sodom and Gomorrah on the day of judgment than for that town; see \+xt Matthew 10:15\+xt*.\f*
 \p
 \v 12 So they set out and preached that the people should repent.
 \v 13 They also drove out many demons and healed many of the sick, anointing them with oil.
@@ -401,7 +400,7 @@
 \v 20 because Herod feared John and protected him, knowing that he was a righteous and holy man. When he heard John’s words, he was greatly perplexed; yet he listened to him gladly.
 \p
 \v 21 On Herod’s birthday, her opportunity arose. Herod held a banquet for his nobles and military commanders and the leading men of Galilee.
-\v 22 When the daughter of Herodias \f + \fr 6:22 \ft Some early manuscripts When his daughter Herodias\f* came and danced, she pleased Herod and his guests, and the king said to the girl, “Ask me for whatever you wish, and I will give it to you.”
+\v 22 When the daughter of Herodias\f + \fr 6:22 \ft Some early manuscripts When his daughter Herodias\f* came and danced, she pleased Herod and his guests, and the king said to the girl, “Ask me for whatever you wish, and I will give it to you.”
 \v 23 And he swore to her, “Whatever you ask of me, I will give you, up to half my kingdom!”
 \p
 \v 24 Then she went out and asked her mother, “What should I request?”
@@ -428,7 +427,7 @@
 \v 36 Dismiss the crowd so they can go to the surrounding countryside and villages and buy themselves something to eat.”
 \p
 \v 37 But Jesus told them, “You give them something to eat.”
-\p They asked Him, “Should we go out and spend two hundred denarii \f + \fr 6:37 \ft A denarius was customarily a day’s wage for a laborer; see Matthew 20:2.\f* to give all of them bread to eat?”
+\p They asked Him, “Should we go out and spend two hundred denarii\f + \fr 6:37 \ft A denarius was customarily a day’s wage for a laborer; see \+xt Matthew 20:2\+xt*.\f* to give all of them bread to eat?”
 \p
 \v 38 “Go and see how many loaves you have,” He told them.
 \p And after checking, they said, “Five—and two fish.”
@@ -474,17 +473,16 @@
 \v 5 So the Pharisees and scribes questioned Jesus: “Why do Your disciples not walk according to the tradition of the elders? Instead, they eat with defiled hands.”
 \p
 \v 6 Jesus answered them, “Isaiah prophesied correctly about you hypocrites, as it is written:
-\b
 \q1 ‘These people honor Me with their lips,
 \q2 but their hearts are far from Me.
 \q1
 \v 7 They worship Me in vain;
-\q2 they teach as doctrine the precepts of men.’\f + \fr 7:7 \ft Isaiah 29:13 (see also LXX)\f*
+\q2 they teach as doctrine the precepts of men.’\f + \fr 7:7 \ft \+xt Isaiah 29:13\+xt* (see also LXX)\f*
 \p
 \v 8 You have disregarded the commandment of God to keep the tradition of men.\f + \fr 7:8 \ft BYZ and TR include—washings of pots and cups and many such things like these.\f*”
 \p
-\v 9 He went on to say, “You neatly set aside the command of God to maintain \f + \fr 7:9 \ft NA establish\f* your own tradition.
-\v 10 For Moses said, ‘Honor your father and your mother’\f + \fr 7:10 \ft Exodus 20:12; Deuteronomy 5:16\f* and ‘Anyone who curses his father or mother must be put to death.’\f + \fr 7:10 \ft Exodus 21:17; Leviticus 20:9\f*
+\v 9 He went on to say, “You neatly set aside the command of God to maintain\f + \fr 7:9 \ft NA establish\f* your own tradition.
+\v 10 For Moses said, ‘Honor your father and your mother’\f + \fr 7:10 \ft \+xt Exodus 20:12\+xt*; \+xt Deuteronomy 5:16\+xt*\f* and ‘Anyone who curses his father or mother must be put to death.’\f + \fr 7:10 \ft \+xt Exodus 21:17\+xt*; \+xt Leviticus 20:9\+xt*\f*
 \v 11 But you say that if a man says to his father or mother, ‘Whatever you would have received from me is Corban’ (that is, a gift devoted to God),
 \v 12 he is no longer permitted to do anything for his father or mother.
 \v 13 Thus you nullify the word of God by the tradition you have handed down. And you do so in many such matters.”
@@ -506,13 +504,13 @@
 \s1 The Faith of the Gentile Woman
 \r (Matthew 15:21–28)
 \p
-\v 24 Jesus left that place and went to the region of Tyre.\f + \fr 7:24 \ft WH, BYZ, and TR include and Sidon; see Matthew 15:21.\f* Not wanting anyone to know He was there, He entered a house, but was unable to escape their notice.
+\v 24 Jesus left that place and went to the region of Tyre.\f + \fr 7:24 \ft WH, BYZ, and TR include and Sidon; see \+xt Matthew 15:21\+xt*.\f* Not wanting anyone to know He was there, He entered a house, but was unable to escape their notice.
 \v 25 Instead, a woman whose little daughter had an unclean spirit soon heard about Jesus, and she came and fell at His feet.
 \v 26 Now she was a Greek woman of Syrophoenician origin, and she kept asking Jesus to drive the demon out of her daughter.
 \p
 \v 27 “First let the children have their fill,” He said. “For it is not right to take the children’s bread and toss it to the dogs.”
 \p
-\v 28 “Yes, Lord,” she replied, “even the dogs \f + \fr 7:28 \ft Or puppies\f* under the table eat the children’s crumbs.”
+\v 28 “Yes, Lord,” she replied, “even the dogs\f + \fr 7:28 \ft Or puppies\f* under the table eat the children’s crumbs.”
 \p
 \v 29 Then Jesus told her, “Because of this answer, you may go. The demon has left your daughter.”
 \v 30 And she went home and found her child lying on the bed, and the demon was gone.
@@ -545,7 +543,7 @@
 \v 7 They also had a few small fish, and Jesus blessed them and ordered that these be set before them as well.
 \p
 \v 8 The people ate and were satisfied, and the disciples picked up seven basketfuls of broken pieces that were left over.
-\v 9 And about four thousand men \f + \fr 8:9 \ft Men is implied here, that is, in addition to women and children; see Matthew 15:38.\f* were present.
+\v 9 And about four thousand men\f + \fr 8:9 \ft Men is implied here, that is, in addition to women and children; see \+xt Matthew 15:38\+xt*.\f* were present.
 \p As soon as Jesus had dismissed the crowd,
 \v 10 He got into the boat with His disciples and went to the district of Dalmanutha.
 \s1 The Demand for a Sign
@@ -564,7 +562,7 @@
 \v 16 So they began to discuss with one another the fact that they had no bread.
 \p
 \v 17 Aware of their conversation, Jesus asked them, “Why are you debating about having no bread? Do you still not see or understand? Do you have such hard hearts?
-\v 18 ‘Having eyes, do you not see? And having ears, do you not hear?’\f + \fr 8:18 \ft See Deuteronomy 29:4, Isaiah 42:20, Jeremiah 5:21, and Ezekiel 12:2.\f* And do you not remember?
+\v 18 ‘Having eyes, do you not see? And having ears, do you not hear?’\f + \fr 8:18 \ft See \+xt Deuteronomy 29:4,\+xt* \+xt Isaiah 42:20,\+xt* \+xt Jeremiah 5:21,\+xt* and \+xt Ezekiel 12:2\+xt*.\f* And do you not remember?
 \v 19 When I broke the five loaves for the five thousand, how many basketfuls of broken pieces did you collect?”
 \p “Twelve,” they answered.
 \p
@@ -618,7 +616,7 @@
 \v 3 His clothes became radiantly white, brighter than any launderer on earth could bleach them.
 \v 4 And Elijah and Moses appeared before them, talking with Jesus.
 \p
-\v 5 Peter said to Jesus, “Rabbi, it is good for us to be here. Let us put up three shelters \f + \fr 9:5 \ft Or three tabernacles\f*—one for You, one for Moses, and one for Elijah.”
+\v 5 Peter said to Jesus, “Rabbi, it is good for us to be here. Let us put up three shelters\f + \fr 9:5 \ft Or three tabernacles\f*—one for You, one for Moses, and one for Elijah.”
 \v 6 For they were all so terrified that Peter did not know what else to say.
 \p
 \v 7 Then a cloud appeared and enveloped them, and a voice came from the cloud: “This is My beloved Son. Listen to Him!”
@@ -688,10 +686,10 @@
 \p
 \v 42 But if anyone causes one of these little ones who believe in Me to stumble, it would be better for him to have a large millstone hung around his neck and to be thrown into the sea.
 \p
-\v 43 If your hand causes you to sin, cut it off. It is better for you to enter life crippled than to have two hands and go into hell,\f + \fr 9:43 \ft Greek Gehenna; also in verses 45 and 47\f* into the unquenchable fire.\f + \fr 9:43 \ft BYZ and TR include 44 where their worm never dies, and the fire is never quenched; see verse 48 and Isaiah 66:24.\f*
-\v 45 If your foot causes you to sin, cut it off. It is better for you to enter life lame than to have two feet and be thrown into hell.\f + \fr 9:45 \ft BYZ and TR include 46 where their worm never dies, and the fire is never quenched; see verse 48 and Isaiah 66:24.\f*
+\v 43 If your hand causes you to sin, cut it off. It is better for you to enter life crippled than to have two hands and go into hell,\f + \fr 9:43 \ft Greek Gehenna; also in verses 45 and 47\f* into the unquenchable fire.\f + \fr 9:43 \ft BYZ and TR include 44 where their worm never dies, and the fire is never quenched; see verse 48 and \+xt Isaiah 66:24\+xt*.\f*
+\v 45 If your foot causes you to sin, cut it off. It is better for you to enter life lame than to have two feet and be thrown into hell.\f + \fr 9:45 \ft BYZ and TR include 46 where their worm never dies, and the fire is never quenched; see verse 48 and \+xt Isaiah 66:24\+xt*.\f*
 \v 47 And if your eye causes you to sin, pluck it out. It is better for you to enter the kingdom of God with one eye than to have two eyes and be thrown into hell,
-\v 48 where ‘their worm never dies, and the fire is never quenched.’\f + \fr 9:48 \ft Isaiah 66:24\f*
+\v 48 where ‘their worm never dies, and the fire is never quenched.’\f + \fr 9:48 \ft \+xt Isaiah 66:24\+xt*\f*
 \s1 Good Salt
 \r (Matthew 5:13–16; Luke 14:34–35)
 \p
@@ -708,12 +706,12 @@
 \p
 \v 3 “What did Moses command you?” He replied.
 \p
-\v 4 They answered, “Moses permitted a man to write his wife a certificate of divorce and send her away.”\f + \fr 10:4 \ft See Deuteronomy 24:1.\f*
+\v 4 They answered, “Moses permitted a man to write his wife a certificate of divorce and send her away.”\f + \fr 10:4 \ft See \+xt Deuteronomy 24:1\+xt*.\f*
 \p
 \v 5 But Jesus told them, “Moses wrote this commandment for you because of your hardness of heart.
-\v 6 However, from the beginning of creation, ‘God made them male and female.’\f + \fr 10:6 \ft Genesis 1:27; Genesis 5:2\f*
+\v 6 However, from the beginning of creation, ‘God made them male and female.’\f + \fr 10:6 \ft \+xt Genesis 1:27\+xt*; \+xt Genesis 5:2\+xt*\f*
 \v 7 ‘For this reason a man will leave his father and mother and be united to his wife,\f + \fr 10:7 \ft NE and WH do not include and be united to his wife.\f*
-\v 8 and the two will become one flesh.’\f + \fr 10:8 \ft Genesis 2:24 (see also LXX)\f* So they are no longer two, but one flesh.
+\v 8 and the two will become one flesh.’\f + \fr 10:8 \ft \+xt Genesis 2:24\+xt* (see also LXX)\f* So they are no longer two, but one flesh.
 \v 9 Therefore what God has joined together, let man not separate.”
 \p
 \v 10 When they were back inside the house, the disciples asked Jesus about this matter.
@@ -733,7 +731,7 @@
 \v 17 As Jesus started on His way, a man ran up and knelt before Him. “Good Teacher,” he asked, “what must I do to inherit eternal life?”
 \p
 \v 18 “Why do you call Me good?” Jesus replied. “No one is good except God alone.
-\v 19 You know the commandments: ‘Do not murder, do not commit adultery, do not steal, do not bear false witness, do not cheat others, honor your father and mother.’\f + \fr 10:19 \ft Exodus 20:12–16; Deuteronomy 5:16–20\f*”
+\v 19 You know the commandments: ‘Do not murder, do not commit adultery, do not steal, do not bear false witness, do not cheat others, honor your father and mother.’\f + \fr 10:19 \ft \+xt Exodus 20:12–16\+xt*; \+xt Deuteronomy 5:16–20\+xt*\f*”
 \p
 \v 20 “Teacher,” he replied, “all these I have kept from my youth.”
 \p
@@ -744,7 +742,7 @@
 \v 23 Then Jesus looked around and said to His disciples, “How hard it is for the rich to enter the kingdom of God!”
 \p
 \v 24 And the disciples were amazed at His words.
-\p But Jesus said to them again, “Children, how hard it is to enter \f + \fr 10:24 \ft BYZ and TR how hard it is for those who trust in riches to enter\f* the kingdom of God!
+\p But Jesus said to them again, “Children, how hard it is to enter\f + \fr 10:24 \ft BYZ and TR how hard it is for those who trust in riches to enter\f* the kingdom of God!
 \v 25 It is easier for a camel to pass through the eye of a needle than for a rich man to enter the kingdom of God.”
 \p
 \v 26 They were even more astonished and said to one another, “Who then can be saved?”
@@ -775,7 +773,7 @@
 \p
 \v 39 “We can,” the brothers answered.
 \p “You will drink the cup that I drink,” Jesus said, “and you will be baptized with the baptism that I undergo.
-\v 40 But to sit at My right or left is not Mine to grant. These seats belong to those for whom \f + \fr 10:40 \ft Literally Mine to grant, but for whom\f* they have been prepared.”
+\v 40 But to sit at My right or left is not Mine to grant. These seats belong to those for whom\f + \fr 10:40 \ft Literally Mine to grant, but for whom\f* they have been prepared.”
 \p
 \v 41 When the ten heard about this, they became indignant with James and John.
 \v 42 So Jesus called them together and said, “You know that those regarded as rulers of the Gentiles lord it over them, and their superiors exercise authority over them.
@@ -815,15 +813,14 @@
 \p
 \v 8 Many in the crowd spread their cloaks on the road, while others spread branches they had cut from the fields.
 \v 9 The ones who went ahead and those who followed were shouting:
+\q1 “Hosanna!”\f + \fr 11:9 \ft Hosanna is a transliteration of the Hebrew Hosia-na, meaning Save, we pray or Save now, which became a shout of praise; see \+xt Psalm 118:25\+xt*.\f*
 \b
-\q1 “Hosanna!”\f + \fr 11:9 \ft Hosanna is a transliteration of the Hebrew Hosia-na, meaning Save, we pray or Save now, which became a shout of praise; see Psalm 118:25.\f*
-\b
-\q1 “Blessed is He who comes in the name of the Lord!”\f + \fr 11:9 \ft Psalm 118:26\f*
+\q1 “Blessed is He who comes in the name of the Lord!”\f + \fr 11:9 \ft \+xt Psalm 118:26\+xt*\f*
 \b
 \q1
 \v 10 “Blessed is the coming kingdom of our father David!”
 \b
-\q1 “Hosanna in the highest!”\f + \fr 11:10 \ft Or “Hosanna in the highest heaven!” See Psalm 118:25 and Psalm 148:1.\f*
+\q1 “Hosanna in the highest!”\f + \fr 11:10 \ft Or “Hosanna in the highest heaven!” See \+xt Psalm 118:25\+xt* and \+xt Psalm 148:1\+xt*.\f*
 \p
 \v 11 Then Jesus entered Jerusalem and went into the temple courts.\f + \fr 11:11 \ft Literally the temple; also in verses 15, 16, and 27\f* He looked around at everything, but since it was already late, He went out to Bethany with the Twelve.
 \s1 Jesus Curses the Fig Tree
@@ -837,11 +834,11 @@
 \p
 \v 15 When they arrived in Jerusalem, Jesus entered the temple courts and began to drive out those who were buying and selling there. He overturned the tables of the money changers and the seats of those selling doves.
 \v 16 And He would not allow anyone to carry merchandise through the temple courts.
-\v 17 Then Jesus began to teach them, and He declared, “Is it not written: ‘My house will be called a house of prayer for all the nations’\f + \fr 11:17 \ft Isaiah 56:7\f*? But you have made it ‘a den of robbers.’\f + \fr 11:17 \ft Jeremiah 7:11\f*”
+\v 17 Then Jesus began to teach them, and He declared, “Is it not written: ‘My house will be called a house of prayer for all the nations’\f + \fr 11:17 \ft \+xt Isaiah 56:7\+xt*\f*? But you have made it ‘a den of robbers.’\f + \fr 11:17 \ft \+xt Jeremiah 7:11\+xt*\f*”
 \p
 \v 18 When the chief priests and scribes heard this, they looked for a way to kill Him. For they were afraid of Him, because the whole crowd was astonished at His teaching.
 \p
-\v 19 And when evening came, Jesus and His disciples went \f + \fr 11:19 \ft Literally they went; BYZ and TR He went\f* out of the city.
+\v 19 And when evening came, Jesus and His disciples went\f + \fr 11:19 \ft Literally they went; BYZ and TR He went\f* out of the city.
 \s1 The Withered Fig Tree
 \r (Matthew 21:18–22; Mark 11:12–14)
 \p
@@ -852,7 +849,7 @@
 \v 23 “Truly I tell you that if anyone says to this mountain, ‘Be lifted up and thrown into the sea,’ and has no doubt in his heart but believes that it will happen, it will be done for him.
 \v 24 Therefore I tell you, whatever you ask for in prayer, believe that you have received it, and it will be yours.
 \p
-\v 25 And when you stand to pray, if you hold anything against another, forgive it, so that your Father in heaven will forgive your trespasses as well.\f + \fr 11:25 \ft BYZ and TR include 26 But if you do not forgive, neither will your Father in heaven forgive your trespasses; see Matthew 6:15.\f*”
+\v 25 And when you stand to pray, if you hold anything against another, forgive it, so that your Father in heaven will forgive your trespasses as well.\f + \fr 11:25 \ft BYZ and TR include 26 But if you do not forgive, neither will your Father in heaven forgive your trespasses; see \+xt Matthew 6:15\+xt*.\f*”
 \s1 Jesus’ Authority Challenged
 \r (Matthew 21:23–27; Luke 20:1–8)
 \p
@@ -887,21 +884,20 @@
 \p
 \v 9 What then will the owner of the vineyard do? He will come and kill those tenants, and will give the vineyard to others.
 \v 10 Have you never read this Scripture:
-\b
 \q1 ‘The stone the builders rejected
 \q2 has become the cornerstone.
 \q1
 \v 11 This is from the Lord,
-\q2 and it is marvelous in our eyes’\f + \fr 12:11 \ft Psalm 118:22–23\f*?”
+\q2 and it is marvelous in our eyes’\f + \fr 12:11 \ft \+xt Psalm 118:22–23\+xt*\f*?”
 \p
-\v 12 At this, the leaders sought \f + \fr 12:12 \ft Literally they sought\f* to arrest Jesus, for they knew that He had spoken this parable against them. But fearing the crowd, they left Him and went away.
+\v 12 At this, the leaders sought\f + \fr 12:12 \ft Literally they sought\f* to arrest Jesus, for they knew that He had spoken this parable against them. But fearing the crowd, they left Him and went away.
 \s1 Paying Taxes to Caesar
 \r (Matthew 22:15–22; Luke 20:19–26)
 \p
 \v 13 Later, they sent some of the Pharisees and Herodians to catch Jesus in His words.
 \v 14 “Teacher,” they said, “we know that You are honest and seek favor from no one. Indeed, You are impartial and teach the way of God in accordance with the truth. Is it lawful to pay taxes to Caesar or not? Should we pay them or not?”
 \p
-\v 15 But Jesus saw through their hypocrisy and said, “Why are you testing Me? Bring Me a denarius \f + \fr 12:15 \ft A denarius was customarily a day’s wage for a laborer; see Matthew 20:2.\f* to inspect.”
+\v 15 But Jesus saw through their hypocrisy and said, “Why are you testing Me? Bring Me a denarius\f + \fr 12:15 \ft A denarius was customarily a day’s wage for a laborer; see \+xt Matthew 20:2\+xt*.\f* to inspect.”
 \v 16 So they brought it, and He asked them, “Whose image is this? And whose inscription?”
 \p “Caesar’s,” they answered.
 \p
@@ -911,7 +907,7 @@
 \r (Matthew 22:23–33; Luke 20:27–40)
 \p
 \v 18 Then the Sadducees, who say there is no resurrection, came to Jesus and questioned Him:
-\v 19 “Teacher, Moses wrote for us that if a man’s brother dies and leaves a wife but no children, the man is to marry his brother’s widow and raise up offspring for him.\f + \fr 12:19 \ft Deuteronomy 25:5\f*
+\v 19 “Teacher, Moses wrote for us that if a man’s brother dies and leaves a wife but no children, the man is to marry his brother’s widow and raise up offspring for him.\f + \fr 12:19 \ft \+xt Deuteronomy 25:5\+xt*\f*
 \v 20 Now there were seven brothers. The first one married and died, leaving no children.
 \v 21 Then the second one married the widow, but he also died and left no children. And the third did likewise.
 \v 22 In this way, none of the seven left any children. And last of all, the woman died.
@@ -920,7 +916,7 @@
 \v 24 Jesus said to them, “Aren’t you mistaken, because you do not know the Scriptures or the power of God?
 \v 25 When the dead rise, they will neither marry nor be given in marriage. Instead, they will be like the angels in heaven.
 \p
-\v 26 But concerning the dead rising, have you not read about the burning bush in the Book of Moses, how God told him, ‘I am the God of Abraham, the God of Isaac, and the God of Jacob’\f + \fr 12:26 \ft Exodus 3:6\f*?
+\v 26 But concerning the dead rising, have you not read about the burning bush in the Book of Moses, how God told him, ‘I am the God of Abraham, the God of Isaac, and the God of Jacob’\f + \fr 12:26 \ft \+xt Exodus 3:6\+xt*\f*?
 \v 27 He is not the God of the dead, but of the living. You are badly mistaken!”
 \s1 The Greatest Commandment
 \r (Deuteronomy 6:1–19; Matthew 22:34–40)
@@ -928,8 +924,8 @@
 \v 28 Now one of the scribes had come up and heard their debate. Noticing how well Jesus had answered them, he asked Him, “Which commandment is the most important of all?”
 \p
 \v 29 Jesus replied, “This is the most important: ‘Hear O Israel, the Lord our God, the Lord is One.
-\v 30 Love the Lord your God with all your heart and with all your soul and with all your mind and with all your strength.’\f + \fr 12:30 \ft Deuteronomy 6:4–5\f*
-\v 31 The second is this: ‘Love your neighbor as yourself.’\f + \fr 12:31 \ft Leviticus 19:18\f* No other commandment is greater than these.”
+\v 30 Love the Lord your God with all your heart and with all your soul and with all your mind and with all your strength.’\f + \fr 12:30 \ft \+xt Deuteronomy 6:4–5\+xt*\f*
+\v 31 The second is this: ‘Love your neighbor as yourself.’\f + \fr 12:31 \ft \+xt Leviticus 19:18\+xt*\f* No other commandment is greater than these.”
 \p
 \v 32 “Right, Teacher,” the scribe replied. “You have stated correctly that God is One and there is no other but Him,
 \v 33 and to love Him with all your heart and with all your understanding and with all your strength, and to love your neighbor as yourself, which is more important than all burnt offerings and sacrifices.”
@@ -941,11 +937,10 @@
 \p
 \v 35 While Jesus was teaching in the temple courts,\f + \fr 12:35 \ft Literally the temple\f* He asked, “How can the scribes say that the Christ is the Son of David?
 \v 36 Speaking by the Holy Spirit, David himself declared:
-\b
 \q1 ‘The Lord said to my Lord,
 \q2 “Sit at My right hand
 \q1 until I put Your enemies
-\q2 under Your feet.”’\f + \fr 12:36 \ft Psalm 110:1\f*
+\q2 under Your feet.”’\f + \fr 12:36 \ft \+xt Psalm 110:1\+xt*\f*
 \p
 \v 37 David himself calls Him ‘Lord.’ So how can He be David’s son?”
 \p And the large crowd listened to Him with delight.
@@ -990,7 +985,7 @@
 \s1 The Abomination of Desolation
 \r (Matthew 24:15–25; Luke 21:20–24)
 \p
-\v 14 So when you see the abomination of desolation \f + \fr 13:14 \ft See Daniel 9:27, Daniel 11:31, and Daniel 12:11; BYZ and TR include spoken of by Daniel the prophet.\f* standing where it should not be \f + \fr 13:14 \ft Or where he should not be\f* (let the reader understand), then let those who are in Judea flee to the mountains.
+\v 14 So when you see the abomination of desolation\f + \fr 13:14 \ft See \+xt Daniel 9:27,\+xt* \+xt Daniel 11:31,\+xt* and \+xt Daniel 12:11\+xt*; BYZ and TR include spoken of by Daniel the prophet.\f* standing where it should not be\f + \fr 13:14 \ft Or where he should not be\f* (let the reader understand), then let those who are in Judea flee to the mountains.
 \v 15 Let no one on the housetop go back inside to retrieve anything from his house.
 \v 16 And let no one in the field return for his cloak.
 \p
@@ -1006,19 +1001,18 @@
 \r (Matthew 24:26–31; Luke 21:25–28)
 \p
 \v 24 But in those days, after that tribulation:
-\b
 \q1 ‘The sun will be darkened,
 \q2 and the moon will not give its light;
 \q1
 \v 25 the stars will fall from the sky,
-\q2 and the powers of the heavens will be shaken.’\f + \fr 13:25 \ft Or and the celestial bodies will be shaken; see Isaiah 13:10, Isaiah 34:4, and Joel 2:10.\f*
+\q2 and the powers of the heavens will be shaken.’\f + \fr 13:25 \ft Or and the celestial bodies will be shaken; see \+xt Isaiah 13:10,\+xt* \+xt Isaiah 34:4,\+xt* and \+xt Joel 2:10\+xt*.\f*
 \p
-\v 26 At that time they will see the Son of Man coming in the clouds with great power and glory.\f + \fr 13:26 \ft See Daniel 7:13–14.\f*
+\v 26 At that time they will see the Son of Man coming in the clouds with great power and glory.\f + \fr 13:26 \ft See \+xt Daniel 7:13–14\+xt*.\f*
 \v 27 And He will send out the angels to gather His elect from the four winds, from the ends of the earth to the ends of heaven.
 \s1 The Lesson of the Fig Tree
 \r (Matthew 24:32–35; Luke 21:29–33)
 \p
-\v 28 Now learn this lesson \f + \fr 13:28 \ft Or this parable\f* from the fig tree: As soon as its branches become tender and sprout leaves, you know that summer is near.
+\v 28 Now learn this lesson\f + \fr 13:28 \ft Or this parable\f* from the fig tree: As soon as its branches become tender and sprout leaves, you know that summer is near.
 \v 29 So also, when you see these things happening, know that He is near,\f + \fr 13:29 \ft Or it is near\f* right at the door.
 \v 30 Truly I tell you, this generation will not pass away until all these things have happened.
 \v 31 Heaven and earth will pass away, but My words will never pass away.
@@ -1036,7 +1030,7 @@
 \s1 The Plot to Kill Jesus
 \r (Matthew 26:1–5; Luke 22:1–2; John 11:45–57)
 \p
-\v 1 Now the Passover and the Feast of Unleavened Bread \f + \fr 14:1 \ft Literally and the Unleavened; see Exodus 12:14–20.\f* were two days away, and the chief priests and scribes were looking for a covert way to arrest Jesus and kill Him.
+\v 1 Now the Passover and the Feast of Unleavened Bread\f + \fr 14:1 \ft Literally and the Unleavened; see \+xt Exodus 12:14–20\+xt*.\f* were two days away, and the chief priests and scribes were looking for a covert way to arrest Jesus and kill Him.
 \v 2 “But not during the feast,” they said, “or there may be a riot among the people.”
 \s1 Jesus Anointed at Bethany
 \r (Matthew 26:6–13; Luke 7:36–50; John 12:1–8)
@@ -1044,10 +1038,10 @@
 \v 3 While Jesus was in Bethany reclining at the table in the home of Simon the Leper,\f + \fr 14:3 \ft Aramaic Simon the Potter or Simon the Jar Maker\f* a woman came with an alabaster jar of expensive perfume, made of pure nard. She broke open the jar and poured it on Jesus’ head.
 \p
 \v 4 Some of those present, however, expressed their indignation to one another: “Why this waste of perfume?
-\v 5 It could have been sold for over three hundred denarii \f + \fr 14:5 \ft A denarius was customarily a day’s wage for a laborer; see Matthew 20:2.\f* and the money given to the poor.” And they scolded her.
+\v 5 It could have been sold for over three hundred denarii\f + \fr 14:5 \ft A denarius was customarily a day’s wage for a laborer; see \+xt Matthew 20:2\+xt*.\f* and the money given to the poor.” And they scolded her.
 \p
 \v 6 But Jesus said, “Leave her alone; why are you bothering her? She has done a beautiful deed to Me.
-\v 7 The poor you will always have with you,\f + \fr 14:7 \ft See Deuteronomy 15:11.\f* and you can help them whenever you want. But you will not always have Me.
+\v 7 The poor you will always have with you,\f + \fr 14:7 \ft See \+xt Deuteronomy 15:11\+xt*.\f* and you can help them whenever you want. But you will not always have Me.
 \v 8 She has done what she could to anoint My body in advance of My burial.
 \v 9 And truly I tell you, wherever the gospel is preached in all the world, what she has done will also be told in memory of her.”
 \s1 Judas Agrees to Betray Jesus
@@ -1059,7 +1053,7 @@
 \s1 Preparing the Passover
 \r (Matthew 26:17–19; Luke 22:7–13)
 \p
-\v 12 On the first day of the Feast of Unleavened Bread,\f + \fr 14:12 \ft Literally On the first day of the Unleavened; see Exodus 12:14–20.\f* when the Passover lamb was to be sacrificed, Jesus’ disciples asked Him, “Where do You want us to prepare for You to eat the Passover?”
+\v 12 On the first day of the Feast of Unleavened Bread,\f + \fr 14:12 \ft Literally On the first day of the Unleavened; see \+xt Exodus 12:14–20\+xt*.\f* when the Passover lamb was to be sacrificed, Jesus’ disciples asked Him, “Where do You want us to prepare for You to eat the Passover?”
 \p
 \v 13 So He sent two of His disciples and told them, “Go into the city, and a man carrying a jug of water will meet you. Follow him,
 \v 14 and whichever house he enters, say to the owner, ‘The Teacher asks: Where is My guest room, where I may eat the Passover with My disciples?’
@@ -1074,7 +1068,7 @@
 \p
 \v 19 They began to be grieved and to ask Him one after another, “Surely not I?”
 \p
-\v 20 He answered, “It is one of the Twelve—the one who is dipping his hand \f + \fr 14:20 \ft Literally the one who is dipping\f* into the bowl with Me.
+\v 20 He answered, “It is one of the Twelve—the one who is dipping his hand\f + \fr 14:20 \ft Literally the one who is dipping\f* into the bowl with Me.
 \v 21 The Son of Man will go just as it is written about Him, but woe to that man by whom He is betrayed! It would be better for him if he had not been born.”
 \p
 \v 22 While they were eating, Jesus took bread, spoke a blessing and broke it, and gave it to the disciples, saying, “Take it; this is My body.”
@@ -1087,10 +1081,9 @@
 \s1 Jesus Predicts Peter’s Denial
 \r (Zechariah 13:7–9; Matthew 26:31–35; Luke 22:31–38; John 13:36–38)
 \p
-\v 27 Then Jesus said to them, “You will all fall away,\f + \fr 14:27 \ft BYZ and TR include on account of Me this night; see Matthew 26:31.\f* for it is written:
-\b
+\v 27 Then Jesus said to them, “You will all fall away,\f + \fr 14:27 \ft BYZ and TR include on account of Me this night; see \+xt Matthew 26:31\+xt*.\f* for it is written:
 \q1 ‘I will strike the Shepherd,
-\q2 and the sheep will be scattered.’\f + \fr 14:27 \ft Zechariah 13:7\f*
+\q2 and the sheep will be scattered.’\f + \fr 14:27 \ft \+xt Zechariah 13:7\+xt*\f*
 \p
 \v 28 But after I have risen, I will go ahead of you into Galilee.”
 \p
@@ -1141,7 +1134,7 @@
 \v 53 They led Jesus away to the high priest, and all the chief priests, elders, and scribes assembled.
 \v 54 Peter followed Him at a distance, right into the courtyard of the high priest. And he sat with the officers and warmed himself by the fire.
 \p
-\v 55 Now the chief priests and the whole Sanhedrin \f + \fr 14:55 \ft Or the whole Council\f* were seeking testimony against Jesus to put Him to death, but they did not find any.
+\v 55 Now the chief priests and the whole Sanhedrin\f + \fr 14:55 \ft Or the whole Council\f* were seeking testimony against Jesus to put Him to death, but they did not find any.
 \v 56 For many bore false witness against Jesus, but their testimony was inconsistent.
 \p
 \v 57 Then some men stood up and testified falsely against Him:
@@ -1153,7 +1146,7 @@
 \v 61 But Jesus remained silent and made no reply.
 \p Again the high priest questioned Him, “Are You the Christ, the Son of the Blessed One?”
 \p
-\v 62 “I am,” said Jesus, “and you will see the Son of Man sitting at the right hand of Power \f + \fr 14:62 \ft Or the right hand of the Mighty One\f* and coming with the clouds of heaven.”\f + \fr 14:62 \ft See Psalm 110:1 and Daniel 7:13.\f*
+\v 62 “I am,” said Jesus, “and you will see the Son of Man sitting at the right hand of Power\f + \fr 14:62 \ft Or the right hand of the Mighty One\f* and coming with the clouds of heaven.”\f + \fr 14:62 \ft See \+xt Psalm 110:1\+xt* and \+xt Daniel 7:13\+xt*.\f*
 \p
 \v 63 At this, the high priest tore his clothes and declared, “Why do we need any more witnesses?
 \v 64 You have heard the blasphemy. What is your verdict?”
@@ -1180,7 +1173,7 @@
 \s1 Jesus Delivered to Pilate
 \r (Matthew 27:1–2)
 \p
-\v 1 Early in the morning, the chief priests, elders, scribes, and the whole Sanhedrin \f + \fr 15:1 \ft Or the whole Council\f* devised a plan. They bound Jesus, led Him away, and handed Him over to Pilate.
+\v 1 Early in the morning, the chief priests, elders, scribes, and the whole Sanhedrin\f + \fr 15:1 \ft Or the whole Council\f* devised a plan. They bound Jesus, led Him away, and handed Him over to Pilate.
 \p
 \v 2 So Pilate questioned Him, “Are You the King of the Jews?”
 \p “You have said so,” Jesus replied.
@@ -1193,7 +1186,7 @@
 \s1 The Crowd Chooses Barabbas
 \r (Matthew 27:15–23; Luke 23:13–25)
 \p
-\v 6 Now it was Pilate’s custom at the feast to release to the people \f + \fr 15:6 \ft Literally Now at the feast he would release to them\f* a prisoner of their choosing.
+\v 6 Now it was Pilate’s custom at the feast to release to the people\f + \fr 15:6 \ft Literally Now at the feast he would release to them\f* a prisoner of their choosing.
 \v 7 And a man named Barabbas was imprisoned with the rebels who had committed murder during the insurrection.
 \v 8 So the crowd went up and began asking Pilate to keep his custom.
 \p
@@ -1230,14 +1223,14 @@
 \v 23 There they offered Him wine mixed with myrrh, but He did not take it.
 \p
 \v 24 And they crucified Him.
-\p They also divided His garments by casting lots to decide what each of them would take.\f + \fr 15:24 \ft See Psalm 22:18.\f*
+\p They also divided His garments by casting lots to decide what each of them would take.\f + \fr 15:24 \ft See \+xt Psalm 22:18\+xt*.\f*
 \p
-\v 25 It was the third hour \f + \fr 15:25 \ft That is, nine in the morning\f* when they crucified Him.
+\v 25 It was the third hour\f + \fr 15:25 \ft That is, nine in the morning\f* when they crucified Him.
 \v 26 And the charge inscribed against Him read:
 \b
 \pc THE KING OF THE JEWS.
 \p
-\v 27 Along with Jesus, they crucified two robbers,\f + \fr 15:27 \ft Or insurrectionists\f* one on His right and one on His left.\f + \fr 15:27 \ft BYZ and TR include 28 So the Scripture was fulfilled that says, “And He was numbered with the transgressors.” See Isaiah 53:12 and Luke 22:37.\f*
+\v 27 Along with Jesus, they crucified two robbers,\f + \fr 15:27 \ft Or insurrectionists\f* one on His right and one on His left.\f + \fr 15:27 \ft BYZ and TR include 28 So the Scripture was fulfilled that says, “And He was numbered with the transgressors.” See \+xt Isaiah 53:12\+xt* and \+xt Luke 22:37\+xt*.\f*
 \p
 \v 29 And those who passed by heaped abuse on Him, shaking their heads and saying, “Aha! You who are going to destroy the temple and rebuild it in three days,
 \v 30 come down from the cross and save Yourself!”
@@ -1247,19 +1240,19 @@
 \s1 The Death of Jesus
 \r (Psalm 22:1–31; Matthew 27:45–56; Luke 23:44–49; John 19:28–30)
 \p
-\v 33 From the sixth hour until the ninth hour \f + \fr 15:33 \ft That is, from noon until three in the afternoon\f* darkness came over all the land.
-\v 34 At the ninth hour, Jesus cried out in a loud voice, “Eloi, Eloi, lema sabachthani?” which means, “My God, My God, why have You forsaken Me?”\f + \fr 15:34 \ft Psalm 22:1\f*
+\v 33 From the sixth hour until the ninth hour\f + \fr 15:33 \ft That is, from noon until three in the afternoon\f* darkness came over all the land.
+\v 34 At the ninth hour, Jesus cried out in a loud voice, “Eloi, Eloi, lema sabachthani?” which means, “My God, My God, why have You forsaken Me?”\f + \fr 15:34 \ft \+xt Psalm 22:1\+xt*\f*
 \p
 \v 35 When some of those standing nearby heard this, they said, “Behold, He is calling Elijah.”
 \p
-\v 36 And someone ran and filled a sponge with sour wine.\f + \fr 15:36 \ft Or a sponge with wine vinegar\f* He put it on a reed and held it up for Jesus to drink,\f + \fr 15:36 \ft See Psalm 69:21.\f* saying, “Leave Him alone. Let us see if Elijah comes to take Him down.”
+\v 36 And someone ran and filled a sponge with sour wine.\f + \fr 15:36 \ft Or a sponge with wine vinegar\f* He put it on a reed and held it up for Jesus to drink,\f + \fr 15:36 \ft See \+xt Psalm 69:21\+xt*.\f* saying, “Leave Him alone. Let us see if Elijah comes to take Him down.”
 \p
 \v 37 But Jesus let out a loud cry and breathed His last.
 \v 38 And the veil of the temple was torn in two from top to bottom.
 \p
 \v 39 When the centurion standing there in front of Jesus saw how He had breathed His last,\f + \fr 15:39 \ft BYZ and TR saw how, having cried out, He had breathed His last\f* he said, “Truly this man was the Son of God!”
 \p
-\v 40 And there were also women watching from a distance. Among them were Mary Magdalene, Mary the mother of James the younger and of Joses,\f + \fr 15:40 \ft Joses is a variant of Joseph; see Matthew 27:56.\f* and Salome.
+\v 40 And there were also women watching from a distance. Among them were Mary Magdalene, Mary the mother of James the younger and of Joses,\f + \fr 15:40 \ft Joses is a variant of Joseph; see \+xt Matthew 27:56\+xt*.\f* and Salome.
 \v 41 These women had followed Jesus and ministered to Him while He was in Galilee, and there were many other women who had come up to Jerusalem with Him.
 \s1 The Burial of Jesus
 \r (Isaiah 53:9–12; Matthew 27:57–61; Luke 23:50–56; John 19:38–42)
@@ -1271,7 +1264,7 @@
 \v 45 When Pilate had confirmed it with the centurion, he granted the body to Joseph.
 \p
 \v 46 So Joseph bought a linen cloth, took down the body of Jesus, wrapped it in the cloth, and placed it in a tomb that had been cut out of the rock. Then he rolled a stone against the entrance to the tomb.
-\v 47 Mary Magdalene and Mary the mother of Joseph \f + \fr 15:47 \ft Or Joses\f* saw where His body was placed.
+\v 47 Mary Magdalene and Mary the mother of Joseph\f + \fr 15:47 \ft Or Joses\f* saw where His body was placed.
 \c 16
 \s1 The Resurrection
 \r (Matthew 28:1–10; Luke 24:1–12; John 20:1–9)

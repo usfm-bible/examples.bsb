@@ -1,7 +1,8 @@
-
 \id DEU - Berean Study Bible
 \h Deuteronomy
 \toc1 Deuteronomy
+\toc2 Deuteronomy
+\toc3 Deuteronomy
 \mt1 Deuteronomy
 \c 1
 \s1 The Command to Leave Horeb
@@ -9,11 +10,11 @@
 \p
 \v 1 These are the words that Moses spoke to all Israel in the wilderness east of the Jordan—in the Arabah opposite Suph—between Paran and Tophel, Laban, Hazeroth, and Dizahab.
 \p
-\v 2 It is an eleven-day journey from Horeb \f + \fr 1:2 \ft That is, Mount Sinai, or possibly a mountain in the range containing Mount Sinai; also in verses 6 and 19\f* to Kadesh-barnea by way of Mount Seir.
+\v 2 It is an eleven-day journey from Horeb\f + \fr 1:2 \ft That is, Mount Sinai, or possibly a mountain in the range containing Mount Sinai; also in verses 6 and 19\f* to Kadesh-barnea by way of Mount Seir.
 \v 3 In the fortieth year, on the first day of the eleventh month, Moses proclaimed to the Israelites all that the LORD had commanded him concerning them.
 \v 4 This was after he had defeated Sihon king of the Amorites, who lived in Heshbon, and then at Edrei had defeated Og king of Bashan, who lived in Ashtaroth.
 \p
-\v 5 On the east side of the Jordan in the land of Moab, Moses began to explain this law, saying:\f + \fr 1:5 \ft Note that Deuteronomy 1:6 through Deuteronomy 4:40 may be presented as a continuous section of unbroken speech by Moses. In place of multiple levels of nested quotes, this section has been set apart with a double space.\f*
+\v 5 On the east side of the Jordan in the land of Moab, Moses began to explain this law, saying:\f + \fr 1:5 \ft Note that \+xt Deuteronomy 1:6\+xt* through \+xt Deuteronomy 4:40\+xt* may be presented as a continuous section of unbroken speech by Moses. In place of multiple levels of nested quotes, this section has been set apart with a double space.\f*
 \p
 \v 6 The LORD our God said to us at Horeb: “You have stayed at this mountain long enough.
 \v 7 Resume your journey and go to the hill country of the Amorites; go to all the neighboring peoples in the Arabah, in the hill country, in the foothills,\f + \fr 1:7 \ft Hebrew Shephelah or lowlands; that is, the western foothills of Judea\f* in the Negev, and along the seacoast to the land of the Canaanites and to Lebanon, as far as the great River Euphrates.
@@ -119,7 +120,7 @@
 \v 20 (That too was regarded as the land of the Rephaim, who used to live there, though the Ammonites called them Zamzummites.
 \v 21 They were a people great and many, as tall as the Anakites. But the LORD destroyed them from before the Ammonites, who drove them out and settled in their place,
 \v 22 just as He had done for the descendants of Esau who lived in Seir, when He destroyed the Horites from before them. They drove them out and have lived in their place to this day.
-\v 23 And the Avvim, who lived in villages as far as Gaza, were destroyed by the Caphtorites, who came out of Caphtor \f + \fr 2:23 \ft That is, Crete\f* and settled in their place.)
+\v 23 And the Avvim, who lived in villages as far as Gaza, were destroyed by the Caphtorites, who came out of Caphtor\f + \fr 2:23 \ft That is, Crete\f* and settled in their place.)
 \s1 The Defeat of Sihon
 \r (Numbers 21:21–30)
 \p
@@ -138,7 +139,7 @@
 \v 32 So Sihon and his whole army came out for battle against us at Jahaz.
 \v 33 And the LORD our God delivered him over to us, and we defeated him and his sons and his whole army.
 \p
-\v 34 At that time we captured all his cities and devoted to destruction \f + \fr 2:34 \ft Forms of the Hebrew cherem refer to the giving over of things or persons to the LORD, either by destroying them or by giving them as an offering.\f* the people of every city, including women and children. We left no survivors.
+\v 34 At that time we captured all his cities and devoted to destruction\f + \fr 2:34 \ft Forms of the Hebrew cherem refer to the giving over of things or persons to the LORD, either by destroying them or by giving them as an offering.\f* the people of every city, including women and children. We left no survivors.
 \v 35 We carried off for ourselves only the livestock and the plunder from the cities we captured.
 \p
 \v 36 From Aroer on the rim of the Arnon Valley, along with the city in the valley, even as far as Gilead, not one city had walls too high for us. The LORD our God gave us all of them.
@@ -173,7 +174,7 @@
 \p
 \v 15 To Machir I gave Gilead,
 \v 16 and to the Reubenites and Gadites I gave the territory from Gilead to the Arnon Valley (the middle of the valley was the border) and up to the Jabbok River, the border of the Ammonites.
-\v 17 The Jordan River in the Arabah bordered it from Chinnereth to the Sea of the Arabah (the Salt Sea \f + \fr 3:17 \ft That is, the Dead Sea\f*) with the slopes of Pisgah to the east.
+\v 17 The Jordan River in the Arabah bordered it from Chinnereth to the Sea of the Arabah (the Salt Sea\f + \fr 3:17 \ft That is, the Dead Sea\f*) with the slopes of Pisgah to the east.
 \p
 \v 18 At that time I commanded you: “The LORD your God has given you this land to possess. All your men of valor are to cross over, armed for battle, ahead of your brothers, the Israelites.
 \v 19 But your wives, your children, and your livestock—I know that you have much livestock—may remain in the cities I have given you,
@@ -214,7 +215,7 @@
 \p
 \v 11 You came near and stood at the base of the mountain, a mountain blazing with fire to the heavens, with black clouds and deep darkness.
 \v 12 And the LORD spoke to you out of the fire. You heard the sound of the words, but saw no form; there was only a voice.
-\v 13 He declared to you His covenant, which He commanded you to follow—the Ten Commandments \f + \fr 4:13 \ft Hebrew the Ten Words\f* that He wrote on two tablets of stone.
+\v 13 He declared to you His covenant, which He commanded you to follow—the Ten Commandments\f + \fr 4:13 \ft Hebrew the Ten Words\f* that He wrote on two tablets of stone.
 \p
 \v 14 At that time the LORD commanded me to teach you the statutes and ordinances you are to follow in the land that you are crossing the Jordan to possess.
 \s1 A Warning against Idolatry
@@ -232,7 +233,7 @@
 \v 22 For I will not be crossing the Jordan, because I must die in this land. But you shall cross over and take possession of that good land.
 \p
 \v 23 Be careful that you do not forget the covenant of the LORD your God that He made with you; do not make an idol for yourselves in the form of anything He has forbidden you.
-\v 24 For the LORD your God is a consuming fire,\f + \fr 4:24 \ft Cited in Hebrews 12:29\f* a jealous God.
+\v 24 For the LORD your God is a consuming fire,\f + \fr 4:24 \ft Cited in \+xt Hebrews 12:29\+xt*\f* a jealous God.
 \p
 \v 25 After you have children and grandchildren and you have been in the land a long time, if you then act corruptly and make an idol of any form—doing evil in the sight of the LORD your God and provoking Him to anger—
 \v 26 I call heaven and earth as witnesses against you this day that you will quickly perish from the land that you are crossing the Jordan to possess. You will not live long upon it, but will be utterly destroyed.
@@ -246,7 +247,7 @@
 \s1 The LORD Alone Is God
 \p
 \v 32 Indeed, ask now from one end of the heavens to the other about the days that long preceded you, from the day that God created man on earth: Has anything as great as this ever happened or been reported?
-\v 33 Has a people ever heard the voice of God \f + \fr 4:33 \ft Or of a god\f* speaking out of the fire, as you have, and lived?
+\v 33 Has a people ever heard the voice of God\f + \fr 4:33 \ft Or of a god\f* speaking out of the fire, as you have, and lived?
 \v 34 Or has any god tried to take as his own a nation out of another nation—by trials, signs, wonders, and war, by a strong hand and an outstretched arm, and by great terrors—as the LORD your God did for you in Egypt, before your eyes?
 \p
 \v 35 You were shown these things so that you would know that the LORD is God; there is no other besides Him.
@@ -271,12 +272,12 @@
 \v 46 while they were in the valley across the Jordan facing Beth-peor in the land of Sihon king of the Amorites, who lived in Heshbon and was defeated by Moses and the Israelites after they had come out of Egypt.
 \p
 \v 47 They took possession of the land belonging to Sihon and to Og king of Bashan—the two Amorite kings across the Jordan to the east—
-\v 48 extending from Aroer on the rim of the Arnon Valley as far as Mount Siyon \f + \fr 4:48 \ft Or Sion; Syriac Sirion\f* (that is, Hermon),
+\v 48 extending from Aroer on the rim of the Arnon Valley as far as Mount Siyon\f + \fr 4:48 \ft Or Sion; Syriac Sirion\f* (that is, Hermon),
 \v 49 including all the Arabah on the east side of the Jordan and as far as the Sea of the Arabah,\f + \fr 4:49 \ft That is, the Dead Sea\f* below the slopes of Pisgah.
 \c 5
 \s1 The Covenant at Horeb
 \p
-\v 1 Then Moses summoned all Israel and said to them:\f + \fr 5:1 \ft Note that Deuteronomy 5:1 through Deuteronomy 26:19 may be presented as a continuous section of unbroken speech by Moses. In place of multiple levels of nested quotes, this section has been set apart with a double space.\f*
+\v 1 Then Moses summoned all Israel and said to them:\f + \fr 5:1 \ft Note that \+xt Deuteronomy 5:1\+xt* through \+xt Deuteronomy 26:19\+xt* may be presented as a continuous section of unbroken speech by Moses. In place of multiple levels of nested quotes, this section has been set apart with a double space.\f*
 \p Hear, O Israel, the statutes and ordinances that I declare in your hearing this day. Learn them and observe them carefully.
 \v 2 The LORD our God made a covenant with us at Horeb.\f + \fr 5:2 \ft That is, Mount Sinai, or possibly a mountain in the range containing Mount Sinai\f*
 \p
@@ -294,7 +295,7 @@
 \li1
 \v 8 You shall not make for yourself an idol in the form of anything in the heavens above, on the earth below, or in the waters beneath.
 \v 9 You shall not bow down to them or worship them; for I, the LORD your God, am a jealous God, visiting the iniquity of the fathers on their children to the third and fourth generations of those who hate Me,
-\v 10 but showing loving devotion to a thousand generations \f + \fr 5:10 \ft Hebrew loving devotion to thousands; forms of the Hebrew chesed are translated here and in most cases throughout the Scriptures as loving devotion; the range of meaning includes love, goodness, kindness, faithfulness, and mercy, as well as loyalty to a covenant.\f* of those who love Me and keep My commandments.
+\v 10 but showing loving devotion to a thousand generations\f + \fr 5:10 \ft Hebrew loving devotion to thousands; forms of the Hebrew chesed are translated here and in most cases throughout the Scriptures as loving devotion; the range of meaning includes love, goodness, kindness, faithfulness, and mercy, as well as loyalty to a covenant.\f* of those who love Me and keep My commandments.
 \b
 \li1
 \v 11 You shall not take the name of the LORD your God in vain, for the LORD will not leave anyone unpunished who takes His name in vain.
@@ -306,22 +307,22 @@
 \v 15 Remember that you were a slave in the land of Egypt, and that the LORD your God brought you out of there with a mighty hand and an outstretched arm. That is why the LORD your God has commanded you to keep the Sabbath day.
 \b
 \li1
-\v 16 Honor your father and your mother, as the LORD your God has commanded you, so that your days may be long and that it may go well with you in the land that the LORD your God is giving you.\f + \fr 5:16 \ft Cited in Matthew 15:4, Matthew 19:19, Mark 7:10, Luke 18:20, and Ephesians 6:2–3\f*
+\v 16 Honor your father and your mother, as the LORD your God has commanded you, so that your days may be long and that it may go well with you in the land that the LORD your God is giving you.\f + \fr 5:16 \ft Cited in \+xt Matthew 15:4,\+xt* \+xt Matthew 19:19,\+xt* \+xt Mark 7:10,\+xt* \+xt Luke 18:20,\+xt* and \+xt Ephesians 6:2–3\+xt*\f*
 \b
 \li1
-\v 17 You shall not murder.\f + \fr 5:17 \ft Cited in Matthew 5:21, Matthew 19:18, Mark 10:19, Luke 18:20, Romans 13:9, and James 2:11\f*
+\v 17 You shall not murder.\f + \fr 5:17 \ft Cited in \+xt Matthew 5:21,\+xt* \+xt Matthew 19:18,\+xt* \+xt Mark 10:19,\+xt* \+xt Luke 18:20,\+xt* \+xt Romans 13:9,\+xt* and \+xt James 2:11\+xt*\f*
 \b
 \li1
-\v 18 You shall not commit adultery.\f + \fr 5:18 \ft Cited in Matthew 5:27, Matthew 19:18, Mark 10:19, Luke 18:20, Romans 13:9, and James 2:11\f*
+\v 18 You shall not commit adultery.\f + \fr 5:18 \ft Cited in \+xt Matthew 5:27,\+xt* \+xt Matthew 19:18,\+xt* \+xt Mark 10:19,\+xt* \+xt Luke 18:20,\+xt* \+xt Romans 13:9,\+xt* and \+xt James 2:11\+xt*\f*
 \b
 \li1
-\v 19 You shall not steal.\f + \fr 5:19 \ft Cited in Matthew 19:18, Mark 10:19, Luke 18:20, and Romans 13:9\f*
+\v 19 You shall not steal.\f + \fr 5:19 \ft Cited in \+xt Matthew 19:18,\+xt* \+xt Mark 10:19,\+xt* \+xt Luke 18:20,\+xt* and \+xt Romans 13:9\+xt*\f*
 \b
 \li1
-\v 20 You shall not bear false witness against your neighbor.\f + \fr 5:20 \ft Cited in Matthew 19:18, Mark 10:19, and Luke 18:20\f*
+\v 20 You shall not bear false witness against your neighbor.\f + \fr 5:20 \ft Cited in \+xt Matthew 19:18,\+xt* \+xt Mark 10:19,\+xt* and \+xt Luke 18:20\+xt*\f*
 \b
 \li1
-\v 21 You shall not covet \f + \fr 5:21 \ft Cited in Romans 7:7 and Romans 13:9\f* your neighbor’s wife. You shall not covet your neighbor’s house or field, or his manservant or maidservant, or his ox or donkey, or anything that belongs to your neighbor.”
+\v 21 You shall not covet\f + \fr 5:21 \ft Cited in \+xt Romans 7:7\+xt* and \+xt Romans 13:9\+xt*\f* your neighbor’s wife. You shall not covet your neighbor’s house or field, or his manservant or maidservant, or his ox or donkey, or anything that belongs to your neighbor.”
 \s1 Moses Intercedes for the People
 \r (Exodus 20:18–21; Hebrews 12:18–29)
 \p
@@ -348,8 +349,8 @@
 \v 2 so that you and your children and grandchildren may fear the LORD your God all the days of your lives by keeping all His statutes and commandments that I give you, and so that your days may be prolonged.
 \v 3 Hear, O Israel, and be careful to observe them, so that you may prosper and multiply greatly in a land flowing with milk and honey, just as the LORD, the God of your fathers, has promised you.
 \p
-\v 4 Hear, O Israel: The LORD our God, the LORD is One.\f + \fr 6:4 \ft Or The LORD our God is One LORD or The LORD is our God, the LORD is One or The LORD is our God, the LORD alone; cited in Mark 12:29\f*
-\v 5 And you shall love the LORD your God with all your heart and with all your soul and with all your strength.\f + \fr 6:5 \ft Cited in Matthew 22:37, Mark 12:30, and Luke 10:27\f*
+\v 4 Hear, O Israel: The LORD our God, the LORD is One.\f + \fr 6:4 \ft Or The LORD our God is One LORD or The LORD is our God, the LORD is One or The LORD is our God, the LORD alone; cited in \+xt Mark 12:29\+xt*\f*
+\v 5 And you shall love the LORD your God with all your heart and with all your soul and with all your strength.\f + \fr 6:5 \ft Cited in \+xt Matthew 22:37,\+xt* \+xt Mark 12:30,\+xt* and \+xt Luke 10:27\+xt*\f*
 \p
 \v 6 These words I am commanding you today are to be upon your hearts.
 \v 7 And you shall teach them diligently to your children and speak of them when you sit at home and when you walk along the road, when you lie down and when you get up.
@@ -360,11 +361,11 @@
 \v 11 with houses full of every good thing with which you did not fill them, with wells that you did not dig, and with vineyards and olive groves that you did not plant—and when you eat and are satisfied,
 \v 12 be careful not to forget the LORD who brought you out of the land of Egypt, out of the house of slavery.
 \p
-\v 13 Fear the LORD your God, serve Him only, and take your oaths in His name.\f + \fr 6:13 \ft Or serve Him, and take your oaths only in His name; cited in Matthew 4:10 and Luke 4:8\f*
+\v 13 Fear the LORD your God, serve Him only, and take your oaths in His name.\f + \fr 6:13 \ft Or serve Him, and take your oaths only in His name; cited in \+xt Matthew 4:10\+xt* and \+xt Luke 4:8\+xt*\f*
 \v 14 Do not follow other gods, the gods of the peoples around you.
 \v 15 For the LORD your God, who is among you, is a jealous God. Otherwise the anger of the LORD your God will be kindled against you, and He will wipe you off the face of the earth.
 \p
-\v 16 Do not test the LORD your God as you tested Him at Massah.\f + \fr 6:16 \ft Massah means testing; see Exodus 17:7; cited in Matthew 4:7 and Luke 4:12.\f*
+\v 16 Do not test the LORD your God as you tested Him at Massah.\f + \fr 6:16 \ft Massah means testing; see \+xt Exodus 17:7\+xt*; cited in \+xt Matthew 4:7\+xt* and \+xt Luke 4:12\+xt*.\f*
 \v 17 You are to diligently keep the commandments of the LORD your God and the testimonies and statutes He has given you.
 \v 18 Do what is right and good in the sight of the LORD, so that it may be well with you and that you may enter and possess the good land that the LORD your God swore to give your fathers,
 \v 19 driving out all your enemies before you, as the LORD has said.
@@ -381,7 +382,7 @@
 \s1 Drive Out the Nations
 \p
 \v 1 When the LORD your God brings you into the land that you are entering to possess, and He drives out before you many nations—the Hittites, Girgashites, Amorites, Canaanites, Perizzites, Hivites, and Jebusites, seven nations larger and stronger than you—
-\v 2 and when the LORD your God has delivered them over to you to defeat them, then you must devote them to complete destruction.\f + \fr 7:2 \ft Forms of the Hebrew cherem refer to the giving over of things or persons to the LORD, either by destroying them or by giving them as an offering; also twice in verse 26.\f* Make no treaty \f + \fr 7:2 \ft Forms of the Hebrew berit are translated in most passages as covenant.\f* with them and show them no mercy.
+\v 2 and when the LORD your God has delivered them over to you to defeat them, then you must devote them to complete destruction.\f + \fr 7:2 \ft Forms of the Hebrew cherem refer to the giving over of things or persons to the LORD, either by destroying them or by giving them as an offering; also twice in verse 26.\f* Make no treaty\f + \fr 7:2 \ft Forms of the Hebrew berit are translated in most passages as covenant.\f* with them and show them no mercy.
 \p
 \v 3 Do not intermarry with them. Do not give your daughters to their sons or take their daughters for your sons,
 \v 4 because they will turn your sons away from following Me to serve other gods. Then the anger of the LORD will burn against you, and He will swiftly destroy you.
@@ -398,7 +399,6 @@
 \v 11 So keep the commandments and statutes and ordinances that I am giving you to follow this day.
 \s1 The Promises of God
 \r (Exodus 23:20–33)
-\p
 \p
 \v 12 If you listen to these ordinances and keep them carefully, then the LORD your God will keep His covenant and the loving devotion that He swore to your fathers.
 \v 13 He will love you and bless you and multiply you. He will bless the fruit of your womb and the produce of your land—your grain, new wine, and oil, the young of your herds and the lambs of your flocks—in the land that He swore to your fathers to give you.
@@ -426,7 +426,7 @@
 \v 1 You must carefully follow every commandment I am giving you today, so that you may live and multiply, and enter and possess the land that the LORD swore to give your fathers.
 \v 2 Remember that these forty years the LORD your God led you all the way in the wilderness, so that He might humble you and test you in order to know what was in your heart, whether or not you would keep His commandments.
 \p
-\v 3 He humbled you, and in your hunger He gave you manna to eat, which neither you nor your fathers had known, so that you might understand that man does not live on bread alone, but on every word that comes from the mouth of the LORD.\f + \fr 8:3 \ft Cited in Matthew 4:4 and Luke 4:4\f*
+\v 3 He humbled you, and in your hunger He gave you manna to eat, which neither you nor your fathers had known, so that you might understand that man does not live on bread alone, but on every word that comes from the mouth of the LORD.\f + \fr 8:3 \ft Cited in \+xt Matthew 4:4\+xt* and \+xt Luke 4:4\+xt*\f*
 \v 4 Your clothing did not wear out and your feet did not swell during these forty years.
 \p
 \v 5 So know in your heart that just as a man disciplines his son, so the LORD your God disciplines you.
@@ -466,7 +466,7 @@
 \p
 \v 7 Remember this, and never forget how you provoked the LORD your God in the wilderness. From the day you left the land of Egypt until you reached this place, you have been rebelling against the LORD.
 \p
-\v 8 At Horeb \f + \fr 9:8 \ft That is, Mount Sinai, or possibly a mountain in the range containing Mount Sinai\f* you provoked the LORD, and He was angry enough to destroy you.
+\v 8 At Horeb\f + \fr 9:8 \ft That is, Mount Sinai, or possibly a mountain in the range containing Mount Sinai\f* you provoked the LORD, and He was angry enough to destroy you.
 \v 9 When I went up on the mountain to receive the tablets of stone, the tablets of the covenant that the LORD made with you, I stayed on the mountain forty days and forty nights. I ate no bread and drank no water.
 \p
 \v 10 Then the LORD gave me the two stone tablets, inscribed by the finger of God with the exact words that the LORD spoke to you out of the fire on the mountain on the day of the assembly.
@@ -481,12 +481,12 @@
 \v 17 So I took the two tablets and threw them out of my hands, shattering them before your eyes.
 \p
 \v 18 Then I fell down before the LORD for forty days and forty nights, as I had done the first time. I did not eat bread or drink water because of all the sin you had committed in doing what was evil in the sight of the LORD and provoking Him to anger.
-\v 19 For I was afraid \f + \fr 9:19 \ft LXX And I am greatly terrified; cited in Hebrews 12:21\f* of the anger and wrath that the LORD had directed against you, enough to destroy you. But the LORD listened to me this time as well.
+\v 19 For I was afraid\f + \fr 9:19 \ft LXX And I am greatly terrified; cited in \+xt Hebrews 12:21\+xt*\f* of the anger and wrath that the LORD had directed against you, enough to destroy you. But the LORD listened to me this time as well.
 \p
 \v 20 The LORD was angry enough with Aaron to destroy him, but at that time I also prayed for Aaron.
 \v 21 And I took that sinful thing, the calf you had made, and burned it in the fire. Then I crushed it and ground it to powder as fine as dust, and I cast it into the stream that came down from the mountain.
 \p
-\v 22 You continued to provoke the LORD at Taberah,\f + \fr 9:22 \ft Taberah means burning; see Numbers 11:3.\f* at Massah,\f + \fr 9:22 \ft Massah means testing; see Exodus 17:7.\f* and at Kibroth-hattaavah.\f + \fr 9:22 \ft Kibroth-hattaavah means graves of craving; see Numbers 11:34.\f*
+\v 22 You continued to provoke the LORD at Taberah,\f + \fr 9:22 \ft Taberah means burning; see \+xt Numbers 11:3\+xt*.\f* at Massah,\f + \fr 9:22 \ft Massah means testing; see \+xt Exodus 17:7\+xt*.\f* and at Kibroth-hattaavah.\f + \fr 9:22 \ft Kibroth-hattaavah means graves of craving; see \+xt Numbers 11:34\+xt*.\f*
 \v 23 And when the LORD sent you out from Kadesh-barnea, He said, “Go up and possess the land that I have given you.”
 \p But you rebelled against the command of the LORD your God. You neither believed Him nor obeyed Him.
 \v 24 You have been rebelling against the LORD since the day I came to know you.
@@ -504,10 +504,10 @@
 \v 2 And I will write on the tablets the words that were on the first tablets, which you broke; and you are to place them in the ark.”
 \p
 \v 3 So I made an ark of acacia wood, chiseled out two stone tablets like the originals, and went up the mountain with the two tablets in my hands.
-\v 4 And the LORD wrote on the tablets what had been written previously, the Ten Commandments \f + \fr 10:4 \ft Hebrew the Ten Words\f* that He had spoken to you on the mountain out of the fire on the day of the assembly. The LORD gave them to me,
+\v 4 And the LORD wrote on the tablets what had been written previously, the Ten Commandments\f + \fr 10:4 \ft Hebrew the Ten Words\f* that He had spoken to you on the mountain out of the fire on the day of the assembly. The LORD gave them to me,
 \v 5 and I went back down the mountain and placed the tablets in the ark I had made, as the LORD had commanded me; and there they have remained.
 \p
-\v 6 The Israelites traveled from Beeroth Bene-jaakan \f + \fr 10:6 \ft Or from the wells of the Bene-jaakan\f* to Moserah, where Aaron died and was buried, and Eleazar his son succeeded him as priest.
+\v 6 The Israelites traveled from Beeroth Bene-jaakan\f + \fr 10:6 \ft Or from the wells of the Bene-jaakan\f* to Moserah, where Aaron died and was buried, and Eleazar his son succeeded him as priest.
 \v 7 From there they traveled to Gudgodah, and from Gudgodah to Jotbathah, a land with streams of water.
 \p
 \v 8 At that time the LORD set apart the tribe of Levi to carry the ark of the covenant of the LORD, to stand before the LORD to serve Him, and to pronounce blessings in His name, as they do to this day.
@@ -541,7 +541,7 @@
 \p
 \v 2 Know this day that it is not your children who have known and seen the discipline of the LORD your God: His greatness, His mighty hand, and His outstretched arm;
 \v 3 the signs and works He did in Egypt to Pharaoh king of Egypt and all his land;
-\v 4 what He did to the Egyptian army and horses and chariots when He made the waters of the Red Sea \f + \fr 11:4 \ft Or the Sea of Reeds\f* engulf them as they pursued you, and how He destroyed them completely, even to this day;
+\v 4 what He did to the Egyptian army and horses and chariots when He made the waters of the Red Sea\f + \fr 11:4 \ft Or the Sea of Reeds\f* engulf them as they pursued you, and how He destroyed them completely, even to this day;
 \v 5 what He did for you in the wilderness until you reached this place;
 \v 6 and what He did in the midst of all the Israelites to Dathan and Abiram, the sons of Eliab the Reubenite, when the earth opened its mouth and swallowed them, their households, their tents, and every living thing that belonged to them.
 \p
@@ -557,7 +557,7 @@
 \v 12 It is a land for which the LORD your God cares; the eyes of the LORD your God are always on it, from the beginning to the end of the year.
 \p
 \v 13 So if you carefully obey the commandments I am giving you today, to love the LORD your God and to serve Him with all your heart and with all your soul,
-\v 14 then I will provide \f + \fr 11:14 \ft Hebrew; SP, LXX, and Vulgate He will provide; also in verse 15\f* rain for your land in season, the autumn and spring rains, that you may gather your grain, new wine, and oil.
+\v 14 then I will provide\f + \fr 11:14 \ft Hebrew; SP, LXX, and Vulgate He will provide; also in verse 15\f* rain for your land in season, the autumn and spring rains, that you may gather your grain, new wine, and oil.
 \v 15 And I will provide grass in the fields for your livestock, and you will eat and be satisfied.
 \p
 \v 16 But be careful that you are not enticed to turn aside to worship and bow down to other gods,
@@ -580,7 +580,7 @@
 \v 28 but a curse if you disobey the commandments of the LORD your God and turn aside from the path I command you today by following other gods, which you have not known.
 \p
 \v 29 When the LORD your God brings you into the land you are entering to possess, you are to proclaim the blessing on Mount Gerizim and the curse on Mount Ebal.
-\v 30 Are not these mountains across the Jordan, west of the road toward the sunset, in the land of the Canaanites who live in the Arabah opposite Gilgal near the Oak \f + \fr 11:30 \ft SP, LXX, and Syriac (see Genesis 12:6); Hebrew Oaks or Terebinths or Great Trees\f* of Moreh?
+\v 30 Are not these mountains across the Jordan, west of the road toward the sunset, in the land of the Canaanites who live in the Arabah opposite Gilgal near the Oak\f + \fr 11:30 \ft SP, LXX, and Syriac (see \+xt Genesis 12:6\+xt*); Hebrew Oaks or Terebinths or Great Trees\f* of Moreh?
 \p
 \v 31 For you are about to cross the Jordan to enter and possess the land that the LORD your God is giving you. When you take possession of it and settle in it,
 \v 32 be careful to follow all the statutes and ordinances that I am setting before you today.
@@ -641,7 +641,7 @@
 \v 3 you must not listen to the words of that prophet or dreamer. For the LORD your God is testing you to find out whether you love Him with all your heart and with all your soul.
 \v 4 You are to follow the LORD your God and fear Him. Keep His commandments and listen to His voice; serve Him and hold fast to Him.
 \p
-\v 5 Such a prophet or dreamer must be put to death, because he has advocated rebellion against the LORD your God, who brought you out of the land of Egypt and redeemed you from the house of slavery; he has tried to turn you from the way in which the LORD your God has commanded you to walk. So you must purge the evil from among you.\f + \fr 13:5 \ft Cited in 1 Corinthians 5:13\f*
+\v 5 Such a prophet or dreamer must be put to death, because he has advocated rebellion against the LORD your God, who brought you out of the land of Egypt and redeemed you from the house of slavery; he has tried to turn you from the way in which the LORD your God has commanded you to walk. So you must purge the evil from among you.\f + \fr 13:5 \ft Cited in \+xt 1 Corinthians 5:13\+xt*\f*
 \p
 \v 6 If your very own brother, or your son or daughter, or the wife you embrace,\f + \fr 13:6 \ft Hebrew the wife of your bosom\f* or your closest friend secretly entices you, saying, “Let us go and worship other gods” (which neither you nor your fathers have known,
 \v 7 the gods of the peoples around you, whether near or far, whether from one end of the earth or the other),
@@ -655,7 +655,7 @@
 \v 12 If, regarding one of the cities the LORD your God is giving you to inhabit, you hear it said
 \v 13 that wicked men have arisen from among you and have led the people of their city astray, saying, “Let us go and serve other gods” (which you have not known),
 \v 14 then you must inquire, investigate, and interrogate thoroughly. And if it is established with certainty that this abomination has been committed among you,
-\v 15 you must surely put the inhabitants of that city to the sword. Devote to destruction \f + \fr 13:15 \ft Forms of the Hebrew cherem refer to the giving over of things or persons to the LORD, either by destroying them or by giving them as an offering; similarly in verse 17.\f* all its people and livestock.
+\v 15 you must surely put the inhabitants of that city to the sword. Devote to destruction\f + \fr 13:15 \ft Forms of the Hebrew cherem refer to the giving over of things or persons to the LORD, either by destroying them or by giving them as an offering; similarly in verse 17.\f* all its people and livestock.
 \p
 \v 16 And you are to gather all its plunder in the middle of the public square, and completely burn the city and all its plunder as a whole burnt offering to the LORD your God. The city must remain a mound of ruins forever, never to be rebuilt.
 \p
@@ -753,7 +753,7 @@
 \s1 Generosity in Lending and Giving
 \r (Matthew 6:1–4)
 \p
-\v 7 If there is a poor man among your brothers within any of the gates in the land that the LORD your God is giving you, then you are not to harden \f + \fr 15:7 \ft Or make strong or make courageous\f* your heart or shut your hand from your poor brother.
+\v 7 If there is a poor man among your brothers within any of the gates in the land that the LORD your God is giving you, then you are not to harden\f + \fr 15:7 \ft Or make strong or make courageous\f* your heart or shut your hand from your poor brother.
 \v 8 Instead, you are to open your hand to him and freely loan him whatever he needs.
 \p
 \v 9 Be careful not to harbor this wicked thought in your heart: “The seventh year, the year of release, is near,” so that you look upon your poor brother begrudgingly and give him nothing. He will cry out to the LORD against you, and you will be guilty of sin.
@@ -763,7 +763,7 @@
 \s1 Hebrew Servants
 \r (Exodus 21:1–11)
 \p
-\v 12 If a fellow Hebrew, a man or a woman, is sold \f + \fr 15:12 \ft Or sells himself\f* to you and serves you six years, then in the seventh year you must set him free.
+\v 12 If a fellow Hebrew, a man or a woman, is sold\f + \fr 15:12 \ft Or sells himself\f* to you and serves you six years, then in the seventh year you must set him free.
 \p
 \v 13 And when you release him, do not send him away empty-handed.
 \v 14 You are to furnish him liberally from your flock, your threshing floor, and your winepress. You shall give to him as the LORD your God has blessed you.
@@ -786,7 +786,7 @@
 \s1 Passover and the Feast of Unleavened Bread
 \r (Exodus 12:14–28; Leviticus 23:4–8; Numbers 28:16–25)
 \p
-\v 1 Observe the month of Abib \f + \fr 16:1 \ft Abib was the first month of the ancient Hebrew lunar calendar, usually occurring within the months of March and April; twice in this verse.\f* and celebrate the Passover to the LORD your God, because in the month of Abib the LORD your God brought you out of Egypt by night.
+\v 1 Observe the month of Abib\f + \fr 16:1 \ft Abib was the first month of the ancient Hebrew lunar calendar, usually occurring within the months of March and April; twice in this verse.\f* and celebrate the Passover to the LORD your God, because in the month of Abib the LORD your God brought you out of Egypt by night.
 \p
 \v 2 You are to offer to the LORD your God the Passover sacrifice from the herd or flock in the place the LORD will choose as a dwelling for His Name.
 \v 3 You must not eat leavened bread with it; for seven days you are to eat with it unleavened bread, the bread of affliction, because you left the land of Egypt in haste—so that you may remember for the rest of your life the day you left the land of Egypt.
@@ -802,19 +802,19 @@
 \r (Numbers 28:26–31)
 \p
 \v 9 You are to count off seven weeks from the time you first put the sickle to the standing grain.
-\v 10 And you shall celebrate the Feast of Weeks \f + \fr 16:10 \ft That is, Shavuot; see footnotes for verse 16.\f* to the LORD your God with a freewill offering that you give in proportion to how the LORD your God has blessed you,
+\v 10 And you shall celebrate the Feast of Weeks\f + \fr 16:10 \ft That is, Shavuot; see footnotes for verse 16.\f* to the LORD your God with a freewill offering that you give in proportion to how the LORD your God has blessed you,
 \v 11 and you shall rejoice before the LORD your God in the place He will choose as a dwelling for His Name—you, your sons and daughters, your menservants and maidservants, and the Levite within your gates, as well as the foreigner, the fatherless, and the widows among you.
 \p
 \v 12 Remember that you were slaves in Egypt, and carefully follow these statutes.
 \s1 The Feast of Tabernacles
 \r (Numbers 29:12–40)
 \p
-\v 13 You are to celebrate the Feast of Tabernacles \f + \fr 16:13 \ft Or Booths or Shelters; see footnotes for verse 16.\f* for seven days after you have gathered the produce of your threshing floor and your winepress.
+\v 13 You are to celebrate the Feast of Tabernacles\f + \fr 16:13 \ft Or Booths or Shelters; see footnotes for verse 16.\f* for seven days after you have gathered the produce of your threshing floor and your winepress.
 \v 14 And you shall rejoice in your feast—you, your sons and daughters, your menservants and maidservants, and the Levite, as well as the foreigner, the fatherless, and the widows among you.
 \p
 \v 15 For seven days you shall celebrate a feast to the LORD your God in the place He will choose, because the LORD your God will bless you in all your produce and in all the work of your hands, so that your joy will be complete.
 \p
-\v 16 Three times a year all your men are to appear before the LORD your God in the place He will choose: at the Feast of Unleavened Bread,\f + \fr 16:16 \ft That is, the seven-day period after the Passover during which no leaven may be eaten; see Exodus 12:14–20.\f* the Feast of Weeks,\f + \fr 16:16 \ft That is, Shavuot, the late spring feast of pilgrimage to Jerusalem; it is also known as the Feast of Harvest (see Exodus 23:16) or the Feast of Pentecost (see Acts 2:1).\f* and the Feast of Tabernacles.\f + \fr 16:16 \ft That is, Sukkot, the autumn feast of pilgrimage to Jerusalem; also translated as the Feast of Booths or the Feast of Shelters and originally called the Feast of Ingathering (see Exodus 23:16 and Exodus 34:22).\f* No one should appear before the LORD empty-handed.
+\v 16 Three times a year all your men are to appear before the LORD your God in the place He will choose: at the Feast of Unleavened Bread,\f + \fr 16:16 \ft That is, the seven-day period after the Passover during which no leaven may be eaten; see \+xt Exodus 12:14–20\+xt*.\f* the Feast of Weeks,\f + \fr 16:16 \ft That is, Shavuot, the late spring feast of pilgrimage to Jerusalem; it is also known as the Feast of Harvest (see \+xt Exodus 23:16\+xt*) or the Feast of Pentecost (see \+xt Acts 2:1\+xt*).\f* and the Feast of Tabernacles.\f + \fr 16:16 \ft That is, Sukkot, the autumn feast of pilgrimage to Jerusalem; also translated as the Feast of Booths or the Feast of Shelters and originally called the Feast of Ingathering (see \+xt Exodus 23:16\+xt* and \+xt Exodus 34:22\+xt*).\f* No one should appear before the LORD empty-handed.
 \v 17 Everyone must appear with a gift as he is able, according to the blessing the LORD your God has given you.
 \s1 Judges and Justice
 \p
@@ -839,7 +839,7 @@
 \p If the report is true and such an abomination has happened in Israel,
 \v 5 you must bring out to your gates the man or woman who has done this evil thing, and you must stone that person to death.
 \v 6 On the testimony of two or three witnesses a man shall be put to death, but he shall not be executed on the testimony of a lone witness.
-\v 7 The hands of the witnesses shall be the first in putting him to death, and after that, the hands of all the people. So you must purge the evil from among you.\f + \fr 17:7 \ft Cited in 1 Corinthians 5:13\f*
+\v 7 The hands of the witnesses shall be the first in putting him to death, and after that, the hands of all the people. So you must purge the evil from among you.\f + \fr 17:7 \ft Cited in \+xt 1 Corinthians 5:13\+xt*\f*
 \s1 Courts of Law
 \p
 \v 8 If a case is too difficult for you to judge, whether the controversy within your gates is regarding bloodshed, lawsuits, or assaults, you must go up to the place the LORD your God will choose.
@@ -889,12 +889,12 @@
 \s1 A Prophet Like Moses
 \r (Acts 3:11–26)
 \p
-\v 15 The LORD your God will raise up for you a prophet like me from among your brothers. You must listen to him.\f + \fr 18:15 \ft Cited in Acts 3:22\f*
-\v 16 This is what you asked of the LORD your God at Horeb \f + \fr 18:16 \ft That is, Mount Sinai, or possibly a mountain in the range containing Mount Sinai\f* on the day of the assembly, when you said, “Let us not hear the voice of the LORD our God or see this great fire anymore, so that we will not die!”
+\v 15 The LORD your God will raise up for you a prophet like me from among your brothers. You must listen to him.\f + \fr 18:15 \ft Cited in \+xt Acts 3:22\+xt*\f*
+\v 16 This is what you asked of the LORD your God at Horeb\f + \fr 18:16 \ft That is, Mount Sinai, or possibly a mountain in the range containing Mount Sinai\f* on the day of the assembly, when you said, “Let us not hear the voice of the LORD our God or see this great fire anymore, so that we will not die!”
 \p
 \v 17 Then the LORD said to me, “They have spoken well.
 \v 18 I will raise up for them a prophet like you from among their brothers. I will put My words in his mouth, and he will tell them everything I command him.
-\v 19 And I will hold accountable anyone who does not listen to My words that the prophet speaks in My name.\f + \fr 18:19 \ft See Acts 3:23.\f*
+\v 19 And I will hold accountable anyone who does not listen to My words that the prophet speaks in My name.\f + \fr 18:19 \ft See \+xt Acts 3:23\+xt*.\f*
 \v 20 But if any prophet dares to speak a message in My name that I have not commanded him to speak, or to speak in the name of other gods, that prophet must be put to death.”
 \p
 \v 21 You may ask in your heart, “How can we recognize a message that the LORD has not spoken?”
@@ -905,7 +905,7 @@
 \p
 \v 1 When the LORD your God has cut off the nations whose land He is giving you, and when you have driven them out and settled in their cities and houses,
 \v 2 then you are to set apart for yourselves three cities within the land that the LORD your God is giving you to possess.
-\v 3 You are to build roads for yourselves \f + \fr 19:3 \ft Or You are to survey the way\f* and divide into three regions the land that the LORD your God is giving you as an inheritance, so that any manslayer can flee to these cities.
+\v 3 You are to build roads for yourselves\f + \fr 19:3 \ft Or You are to survey the way\f* and divide into three regions the land that the LORD your God is giving you as an inheritance, so that any manslayer can flee to these cities.
 \p
 \v 4 Now this is the situation regarding the manslayer who flees to one of these cities to save his life, having killed his neighbor accidentally, without intending to harm him:
 \v 5 If he goes into the forest with his neighbor to cut timber and swings his axe to chop down a tree, but the blade flies off the handle and strikes and kills his neighbor, he may flee to one of these cities to save his life.
@@ -926,14 +926,14 @@
 \s1 The Testimony of Two or Three Witnesses
 \r (Matthew 18:15–20)
 \p
-\v 15 A lone witness is not sufficient to establish any wrongdoing or sin against a man, regardless of what offense he may have committed. A matter must be established by the testimony of two or three witnesses.\f + \fr 19:15 \ft Cited in Matthew 18:16 and 2 Corinthians 13:1\f*
+\v 15 A lone witness is not sufficient to establish any wrongdoing or sin against a man, regardless of what offense he may have committed. A matter must be established by the testimony of two or three witnesses.\f + \fr 19:15 \ft Cited in \+xt Matthew 18:16\+xt* and \+xt 2 Corinthians 13:1\+xt*\f*
 \p
 \v 16 If a false witness testifies against someone, accusing him of a crime,
 \v 17 both parties to the dispute must stand in the presence of the LORD, before the priests and judges who are in office at that time.
 \v 18 The judges shall investigate thoroughly, and if the witness is proven to be a liar who has falsely accused his brother,
-\v 19 you must do to him as he intended to do to his brother. So you must purge the evil from among you.\f + \fr 19:19 \ft Cited in 1 Corinthians 5:13\f*
+\v 19 you must do to him as he intended to do to his brother. So you must purge the evil from among you.\f + \fr 19:19 \ft Cited in \+xt 1 Corinthians 5:13\+xt*\f*
 \v 20 Then the rest of the people will hear and be afraid, and they will never again do anything so evil among you.
-\v 21 You must show no pity: life for life, eye for eye, tooth for tooth,\f + \fr 19:21 \ft Cited in Matthew 5:38\f* hand for hand, and foot for foot.
+\v 21 You must show no pity: life for life, eye for eye, tooth for tooth,\f + \fr 19:21 \ft Cited in \+xt Matthew 5:38\+xt*\f* hand for hand, and foot for foot.
 \c 20
 \s1 Laws of Warfare
 \p
@@ -959,7 +959,7 @@
 \v 15 This is how you are to treat all the cities that are far away from you and do not belong to the nations nearby.
 \p
 \v 16 However, in the cities of the nations that the LORD your God is giving you as an inheritance, you must not leave alive anything that breathes.
-\v 17 For you must devote them to complete destruction \f + \fr 20:17 \ft Forms of the Hebrew cherem refer to the giving over of things or persons to the LORD, either by destroying them or by giving them as an offering.\f*—the Hittites, Amorites, Canaanites, Perizzites, Hivites, and Jebusites—as the LORD your God has commanded you,
+\v 17 For you must devote them to complete destruction\f + \fr 20:17 \ft Forms of the Hebrew cherem refer to the giving over of things or persons to the LORD, either by destroying them or by giving them as an offering.\f*—the Hittites, Amorites, Canaanites, Perizzites, Hivites, and Jebusites—as the LORD your God has commanded you,
 \v 18 so that they cannot teach you to do all the detestable things they do for their gods, and so cause you to sin against the LORD your God.
 \p
 \v 19 When you lay siege to a city for an extended time while fighting against it to capture it, you must not destroy its trees by putting an axe to them, because you can eat their fruit. You must not cut them down. Are the trees of the field human, that you should besiege them?
@@ -1000,11 +1000,11 @@
 \v 19 his father and mother are to lay hold of him and bring him to the elders of his city, to the gate of his hometown,
 \v 20 and say to the elders, “This son of ours is stubborn and rebellious; he does not obey us. He is a glutton and a drunkard.”
 \p
-\v 21 Then all the men of his city will stone him to death. So you must purge the evil from among you,\f + \fr 21:21 \ft Cited in 1 Corinthians 5:13\f* and all Israel will hear and be afraid.
+\v 21 Then all the men of his city will stone him to death. So you must purge the evil from among you,\f + \fr 21:21 \ft Cited in \+xt 1 Corinthians 5:13\+xt*\f* and all Israel will hear and be afraid.
 \s1 Cursed Is Anyone Hung on a Tree
 \p
 \v 22 If a man has committed a sin worthy of death, and he is executed, and you hang his body on a tree,\f + \fr 21:22 \ft Or impale his body on a pole; similarly in verse 23\f*
-\v 23 you must not leave the body on the tree overnight, but you must be sure to bury him that day, because anyone who is hung on a tree is under God’s curse.\f + \fr 21:23 \ft LXX; Hebrew anyone who is hanged is under God’s curse; cited in Galatians 3:13\f* You must not defile the land that the LORD your God is giving you as an inheritance.
+\v 23 you must not leave the body on the tree overnight, but you must be sure to bury him that day, because anyone who is hung on a tree is under God’s curse.\f + \fr 21:23 \ft LXX; Hebrew anyone who is hanged is under God’s curse; cited in \+xt Galatians 3:13\+xt*\f* You must not defile the land that the LORD your God is giving you as an inheritance.
 \c 22
 \s1 Various Laws
 \p
@@ -1021,7 +1021,7 @@
 \p
 \v 8 If you build a new house, you are to construct a railing around your roof, so that you do not bring bloodguilt on your house if someone falls from it.
 \p
-\v 9 Do not plant your vineyard with two types of seed; if you do, the entire harvest will be defiled \f + \fr 22:9 \ft Or will be forfeited to the sanctuary\f*—both the crop you plant and the fruit of your vineyard.
+\v 9 Do not plant your vineyard with two types of seed; if you do, the entire harvest will be defiled\f + \fr 22:9 \ft Or will be forfeited to the sanctuary\f*—both the crop you plant and the fruit of your vineyard.
 \p
 \v 10 Do not plow with an ox and a donkey yoked together.
 \p
@@ -1038,10 +1038,10 @@
 \v 17 And now he has accused her of shameful conduct, saying, ‘I discovered that your daughter was not a virgin.’ But here is the proof of her virginity.” And they shall spread out the cloth before the city elders.
 \p
 \v 18 Then the elders of that city shall take the man and punish him.
-\v 19 They are also to fine him a hundred shekels of silver \f + \fr 22:19 \ft 100 shekels is approximately 2.5 pounds or 1.1 kilograms of silver.\f* and give them to the young woman’s father, because this man has given a virgin of Israel a bad name. And she shall remain his wife; he must not divorce her as long as he lives.
+\v 19 They are also to fine him a hundred shekels of silver\f + \fr 22:19 \ft 100 shekels is approximately 2.5 pounds or 1.1 kilograms of silver.\f* and give them to the young woman’s father, because this man has given a virgin of Israel a bad name. And she shall remain his wife; he must not divorce her as long as he lives.
 \p
 \v 20 If, however, this accusation is true, and no proof of the young woman’s virginity can be found,
-\v 21 she shall be brought to the door of her father’s house, and there the men of her city will stone her to death. For she has committed an outrage in Israel by being promiscuous in her father’s house. So you must purge the evil from among you.\f + \fr 22:21 \ft Here and in verse 24; cited in 1 Corinthians 5:13\f*
+\v 21 she shall be brought to the door of her father’s house, and there the men of her city will stone her to death. For she has committed an outrage in Israel by being promiscuous in her father’s house. So you must purge the evil from among you.\f + \fr 22:21 \ft Here and in verse 24; cited in \+xt 1 Corinthians 5:13\+xt*\f*
 \p
 \v 22 If a man is found lying with another man’s wife, both the man who slept with her and the woman must die. You must purge the evil from Israel.
 \p
@@ -1064,7 +1064,7 @@
 \v 2 No one of illegitimate birth may enter the assembly of the LORD, nor may any of his descendants, even to the tenth generation.
 \p
 \v 3 No Ammonite or Moabite or any of their descendants may enter the assembly of the LORD, even to the tenth generation.
-\v 4 For they did not meet you with food and water on your way out of Egypt, and they hired Balaam son of Beor from Pethor in Aram-naharaim \f + \fr 23:4 \ft That is, Mesopotamia; Aram-naharaim means Aram of the two rivers, likely the region between the Euphrates and Balih Rivers in northwestern Mesopotamia.\f* to curse you.
+\v 4 For they did not meet you with food and water on your way out of Egypt, and they hired Balaam son of Beor from Pethor in Aram-naharaim\f + \fr 23:4 \ft That is, Mesopotamia; Aram-naharaim means Aram of the two rivers, likely the region between the Euphrates and Balih Rivers in northwestern Mesopotamia.\f* to curse you.
 \v 5 Yet the LORD your God would not listen to Balaam, and the LORD your God turned the curse into a blessing for you, because the LORD your God loves you.
 \v 6 You are not to seek peace or prosperity from them as long as you live.
 \p
@@ -1103,7 +1103,7 @@
 \s1 Marriage and Divorce Laws
 \r (Matthew 5:31–32; Luke 16:18)
 \p
-\v 1 If a man marries a woman, but she becomes displeasing to him because he finds some indecency in her, he may write her a certificate of divorce,\f + \fr 24:1 \ft Cited in Matthew 5:31; see also Mark 10:4.\f* hand it to her, and send her away from his house.
+\v 1 If a man marries a woman, but she becomes displeasing to him because he finds some indecency in her, he may write her a certificate of divorce,\f + \fr 24:1 \ft Cited in \+xt Matthew 5:31\+xt*; see also \+xt Mark 10:4\+xt*.\f* hand it to her, and send her away from his house.
 \p
 \v 2 If, after leaving his house, she goes and becomes another man’s wife,
 \v 3 and the second man hates her, writes her a certificate of divorce, hands it to her, and sends her away from his house, or if he dies,
@@ -1114,7 +1114,7 @@
 \p
 \v 6 Do not take a pair of millstones or even an upper millstone as security for a debt, because that would be taking one’s livelihood as security.
 \p
-\v 7 If a man is caught kidnapping one of his Israelite brothers, whether he treats him as a slave or sells him, the kidnapper must die. So you must purge the evil from among you.\f + \fr 24:7 \ft Cited in 1 Corinthians 5:13\f*
+\v 7 If a man is caught kidnapping one of his Israelite brothers, whether he treats him as a slave or sells him, the kidnapper must die. So you must purge the evil from among you.\f + \fr 24:7 \ft Cited in \+xt 1 Corinthians 5:13\+xt*\f*
 \p
 \v 8 In cases of infectious skin diseases,\f + \fr 24:8 \ft Forms of the Hebrew tzaraath, traditionally translated as leprosy, were used for various skin diseases; see Leviticus 13.\f* be careful to diligently follow everything the Levitical priests instruct you. Be careful to do as I have commanded them.
 \v 9 Remember what the LORD your God did to Miriam on the journey after you came out of Egypt.
@@ -1127,7 +1127,7 @@
 \v 14 Do not oppress a hired hand who is poor and needy, whether he is a brother or a foreigner residing in one of your towns.
 \v 15 You are to pay his wages each day before sunset, because he is poor and depends on them. Otherwise he may cry out to the LORD against you, and you will be guilty of sin.
 \p
-\v 16 Fathers shall not be put to death for their children, nor children for their fathers; each is to die for his own sin.\f + \fr 24:16 \ft Cited in 2 Kings 14:6 and 2 Chronicles 25:4\f*
+\v 16 Fathers shall not be put to death for their children, nor children for their fathers; each is to die for his own sin.\f + \fr 24:16 \ft Cited in \+xt 2 Kings 14:6\+xt* and \+xt 2 Chronicles 25:4\+xt*\f*
 \p
 \v 17 Do not deny justice to the foreigner or the fatherless, and do not take a widow’s cloak as security.
 \v 18 Remember that you were slaves in Egypt, and the LORD your God redeemed you from that place. Therefore I am commanding you to do this.
@@ -1146,10 +1146,10 @@
 \v 2 If the guilty man deserves to be beaten, the judge shall have him lie down and be flogged in his presence with the number of lashes his crime warrants.
 \v 3 He may receive no more than forty lashes, lest your brother be beaten any more than that and be degraded in your sight.
 \p
-\v 4 Do not muzzle an ox while it is treading out the grain.\f + \fr 25:4 \ft Cited in 1 Corinthians 9:9 and 1 Timothy 5:18\f*
+\v 4 Do not muzzle an ox while it is treading out the grain.\f + \fr 25:4 \ft Cited in \+xt 1 Corinthians 9:9\+xt* and \+xt 1 Timothy 5:18\+xt*\f*
 \s1 Widowhood and Marriage
 \p
-\v 5 When brothers dwell together and one of them dies without a son, the widow must not marry outside the family. Her husband’s brother is to take her as his wife and fulfill the duty of a brother-in-law for her.\f + \fr 25:5 \ft Cited in Matthew 22:24, Mark 12:19, and Luke 20:28\f*
+\v 5 When brothers dwell together and one of them dies without a son, the widow must not marry outside the family. Her husband’s brother is to take her as his wife and fulfill the duty of a brother-in-law for her.\f + \fr 25:5 \ft Cited in \+xt Matthew 22:24,\+xt* \+xt Mark 12:19,\+xt* and \+xt Luke 20:28\+xt*\f*
 \v 6 The first son she bears will carry on the name of the dead brother, so that his name will not be blotted out from Israel.
 \p
 \v 7 But if the man does not want to marry his brother’s widow, she is to go to the elders at the city gate and say, “My husband’s brother refuses to preserve his brother’s name in Israel. He is not willing to perform the duty of a brother-in-law for me.”
@@ -1275,7 +1275,7 @@
 \qr And let all the people say, ‘Amen!’
 \b
 \li1
-\v 26 ‘Cursed is he who does not put the words of this law into practice.’\f + \fr 27:26 \ft LXX Cursed is every man who does not continue in all the words of this law; cited in Galatians 3:10\f*
+\v 26 ‘Cursed is he who does not put the words of this law into practice.’\f + \fr 27:26 \ft LXX Cursed is every man who does not continue in all the words of this law; cited in \+xt Galatians 3:10\+xt*\f*
 \qr And let all the people say, ‘Amen!’
 \c 28
 \s1 The Blessings of Obedience
@@ -1283,7 +1283,6 @@
 \p
 \v 1 “Now if you faithfully obey the voice of the LORD your God and are careful to follow all His commandments I am giving you today, the LORD your God will set you high above all the nations of the earth.
 \v 2 And all these blessings will come upon you and overtake you, if you will obey the voice of the LORD your God:
-\b
 \q1
 \v 3 You will be blessed in the city
 \q2 and blessed in the country.
@@ -1318,7 +1317,6 @@
 \r (Leviticus 20:1–9; Leviticus 26:14–39)
 \p
 \v 15 If, however, you do not obey the LORD your God by carefully following all His commandments and statutes I am giving you today, all these curses will come upon you and overtake you:
-\b
 \q1
 \v 16 You will be cursed in the city
 \q2 and cursed in the country.
@@ -1389,7 +1387,7 @@
 \v 54 The most gentle and refined man among you will begrudge his brother, the wife he embraces,\f + \fr 28:54 \ft Hebrew the wife of his bosom\f* and the rest of his children who have survived,
 \v 55 refusing to share with any of them the flesh of his children he will eat because he has nothing left in the siege and distress that your enemy will inflict on you within all your gates.\f + \fr 28:55 \ft Or within all your cities; similarly in verse 57\f*
 \p
-\v 56 The most gentle and refined woman among you, so gentle and refined she would not venture to set the sole of her foot on the ground, will begrudge the husband she embraces \f + \fr 28:56 \ft Hebrew the husband of her bosom\f* and her son and daughter
+\v 56 The most gentle and refined woman among you, so gentle and refined she would not venture to set the sole of her foot on the ground, will begrudge the husband she embraces\f + \fr 28:56 \ft Hebrew the husband of her bosom\f* and her son and daughter
 \v 57 the afterbirth that comes from between her legs and the children she bears, because she will secretly eat them for lack of anything else in the siege and distress that your enemy will inflict on you within your gates.
 \p
 \v 58 If you are not careful to observe all the words of this law which are written in this book, that you may fear this glorious and awesome name—the LORD your God—
@@ -1416,7 +1414,6 @@
 \v 2 Moses summoned all Israel and proclaimed to them, “You have seen with your own eyes everything the LORD did in Egypt to Pharaoh, to all his officials, and to all his land.
 \v 3 You saw with your own eyes the great trials, and those miraculous signs and wonders.
 \v 4 Yet to this day the LORD has not given you a mind to understand, eyes to see, or ears to hear.
-\b
 \q1
 \v 5 For forty years I led you in the wilderness,
 \q2 yet your clothes and sandals did not wear out.
@@ -1439,7 +1436,7 @@
 \v 16 For you yourselves know how we lived in the land of Egypt and how we passed through the nations on the way here.
 \v 17 You saw the abominations and idols among them made of wood and stone, of silver and gold.
 \p
-\v 18 Make sure there is no man or woman, clan or tribe among you today whose heart turns away from the LORD our God to go and worship the gods of those nations. Make sure there is no root among you that bears such poisonous and bitter fruit,\f + \fr 29:18 \ft See Hebrews 12:15\f*
+\v 18 Make sure there is no man or woman, clan or tribe among you today whose heart turns away from the LORD our God to go and worship the gods of those nations. Make sure there is no root among you that bears such poisonous and bitter fruit,\f + \fr 29:18 \ft See \+xt Hebrews 12:15\+xt*\f*
 \v 19 because when such a person hears the words of this oath,\f + \fr 29:19 \ft Or curse\f* he invokes a blessing on himself, saying, ‘I will have peace, even though I walk in the stubbornness of my own heart.’
 \p This will bring disaster on the watered land as well as the dry.
 \v 20 The LORD will never be willing to forgive him. Instead, His anger and jealousy will burn against that man, and every curse written in this book will fall upon him. The LORD will blot out his name from under heaven
@@ -1462,8 +1459,8 @@
 \p
 \v 1 “When all these things come upon you—the blessings and curses I have set before you—and you call them to mind in all the nations to which the LORD your God has banished you,
 \v 2 and when you and your children return to the LORD your God and obey His voice with all your heart and all your soul according to everything I am giving you today,
-\v 3 then He will restore you from captivity \f + \fr 30:3 \ft Or restore your fortunes\f* and have compassion on you and gather you from all the nations to which the LORD your God has scattered you.
-\v 4 Even if you have been banished to the farthest horizon,\f + \fr 30:4 \ft Or to the extremity of the heavens\f* He will gather you and return you from there.\f + \fr 30:4 \ft Cited in Nehemiah 1:8–9\f*
+\v 3 then He will restore you from captivity\f + \fr 30:3 \ft Or restore your fortunes\f* and have compassion on you and gather you from all the nations to which the LORD your God has scattered you.
+\v 4 Even if you have been banished to the farthest horizon,\f + \fr 30:4 \ft Or to the extremity of the heavens\f* He will gather you and return you from there.\f + \fr 30:4 \ft Cited in \+xt Nehemiah 1:8–9\+xt*\f*
 \p
 \v 5 And the LORD your God will bring you into the land your fathers possessed, and you will take possession of it. He will cause you to prosper and multiply more than your fathers.
 \v 6 The LORD your God will circumcise your hearts and the hearts of your descendants, and you will love Him with all your heart and with all your soul, so that you may live.
@@ -1475,9 +1472,9 @@
 \s1 The Choice of Life or Death
 \p
 \v 11 For this commandment I give you today is not too difficult for you or beyond your reach.
-\v 12 It is not in heaven, that you should need to ask, ‘Who will ascend into heaven \f + \fr 30:12 \ft Cited in Romans 10:6\f* to get it for us and proclaim it, that we may obey it?’
-\v 13 And it is not beyond the sea, that you should need to ask, ‘Who will cross the sea \f + \fr 30:13 \ft See Romans 10:7.\f* to get it for us and proclaim it, that we may obey it?’
-\v 14 But the word is very near you; it is in your mouth and in your heart,\f + \fr 30:14 \ft Cited in Romans 10:8\f* so that you may obey it.
+\v 12 It is not in heaven, that you should need to ask, ‘Who will ascend into heaven\f + \fr 30:12 \ft Cited in \+xt Romans 10:6\+xt*\f* to get it for us and proclaim it, that we may obey it?’
+\v 13 And it is not beyond the sea, that you should need to ask, ‘Who will cross the sea\f + \fr 30:13 \ft See \+xt Romans 10:7\+xt*.\f* to get it for us and proclaim it, that we may obey it?’
+\v 14 But the word is very near you; it is in your mouth and in your heart,\f + \fr 30:14 \ft Cited in \+xt Romans 10:8\+xt*\f* so that you may obey it.
 \p
 \v 15 See, I have set before you today life and goodness, as well as death and disaster.
 \v 16 For I am commanding you today to love the LORD your God, to walk in His ways, and to keep His commandments, statutes, and ordinances, so that you may live and increase, and the LORD your God may bless you in the land that you are entering to possess.
@@ -1491,14 +1488,14 @@
 \s1 Joshua to Succeed Moses
 \r (Numbers 27:18–23)
 \p
-\v 1 When Moses had finished speaking \f + \fr 31:1 \ft DSS and LXX; MT When Moses went out and spoke\f* these words to all Israel,
+\v 1 When Moses had finished speaking\f + \fr 31:1 \ft DSS and LXX; MT When Moses went out and spoke\f* these words to all Israel,
 \v 2 he said to them, “I am now a hundred and twenty years old; I am no longer able to come and go, and the LORD has said to me, ‘You shall not cross the Jordan.’
 \p
 \v 3 The LORD your God Himself will cross over ahead of you. He will destroy these nations before you, and you will dispossess them. Joshua will cross ahead of you, as the LORD has said.
 \v 4 And the LORD will do to them as He did to Sihon and Og, the kings of the Amorites, when He destroyed them along with their land.
 \p
 \v 5 The LORD will deliver them over to you, and you must do to them exactly as I have commanded you.
-\v 6 Be strong and courageous; do not be afraid or terrified of them, for it is the LORD your God who goes with you; He will never leave you nor forsake you.”\f + \fr 31:6 \ft Cited in Hebrews 13:5; here and in verse 8\f*
+\v 6 Be strong and courageous; do not be afraid or terrified of them, for it is the LORD your God who goes with you; He will never leave you nor forsake you.”\f + \fr 31:6 \ft Cited in \+xt Hebrews 13:5\+xt*; here and in verse 8\f*
 \p
 \v 7 Then Moses called for Joshua and said to him in the presence of all Israel, “Be strong and courageous, for you will go with this people into the land that the LORD swore to their fathers to give them, and you shall give it to them as an inheritance.
 \v 8 The LORD Himself goes before you; He will be with you. He will never leave you nor forsake you. Do not be afraid or discouraged.”
@@ -1507,7 +1504,7 @@
 \p
 \v 9 So Moses wrote down this law and gave it to the priests, the sons of Levi, who carried the ark of the covenant of the LORD, and to all the elders of Israel.
 \p
-\v 10 Then Moses commanded them, “At the end of every seven years, at the appointed time in the year of remission of debt, during the Feast of Tabernacles,\f + \fr 31:10 \ft That is, Sukkot, the autumn feast of pilgrimage to Jerusalem; also translated as the Feast of Booths or the Feast of Shelters and originally called the Feast of Ingathering (see Exodus 23:16 and Exodus 34:22).\f*
+\v 10 Then Moses commanded them, “At the end of every seven years, at the appointed time in the year of remission of debt, during the Feast of Tabernacles,\f + \fr 31:10 \ft That is, Sukkot, the autumn feast of pilgrimage to Jerusalem; also translated as the Feast of Booths or the Feast of Shelters and originally called the Feast of Ingathering (see \+xt Exodus 23:16\+xt* and \+xt Exodus 34:22\+xt*).\f*
 \v 11 when all Israel comes before the LORD your God at the place He will choose, you are to read this law in the hearing of all Israel.
 \p
 \v 12 Assemble the people—men, women, children, and the foreigners within your gates—so that they may listen and learn to fear the LORD your God and to follow carefully all the words of this law.
@@ -1547,7 +1544,6 @@
 \c 32
 \s1 The Song of Moses
 \r (Revelation 15:1–4)
-\b
 \q1
 \v 1 Give ear, O heavens, and I will speak;
 \q2 hear, O earth, the words of my mouth.
@@ -1568,7 +1564,7 @@
 \q1
 \v 5 His people have acted corruptly toward Him;
 \q2 the spot on them is not that of His children,
-\q2 but of a perverse and crooked generation.\f + \fr 32:5 \ft Cited in Philippians 2:15\f*
+\q2 but of a perverse and crooked generation.\f + \fr 32:5 \ft Cited in \+xt Philippians 2:15\+xt*\f*
 \q1
 \v 6 Is this how you repay the LORD,
 \q2 O foolish and senseless people?
@@ -1592,7 +1588,7 @@
 \v 10 He found him in a desert land,
 \q2 in a barren, howling wilderness;
 \q1 He surrounded him, He instructed him,
-\q2 He guarded him as the apple \f + \fr 32:10 \ft Literally the pupil\f* of His eye.
+\q2 He guarded him as the apple\f + \fr 32:10 \ft Literally the pupil\f* of His eye.
 \q1
 \v 11 As an eagle stirs up its nest
 \q2 and hovers over its young,
@@ -1615,7 +1611,7 @@
 \q2 you drank the wine.
 \b
 \q1
-\v 15 But Jeshurun \f + \fr 32:15 \ft Jeshurun means the upright one, a term of endearment for Israel.\f* grew fat and kicked—
+\v 15 But Jeshurun\f + \fr 32:15 \ft Jeshurun means the upright one, a term of endearment for Israel.\f* grew fat and kicked—
 \q2 becoming fat, bloated, and gorged.
 \q1 He abandoned the God who made him
 \q2 and scorned the Rock of his salvation.
@@ -1643,7 +1639,7 @@
 \v 21 They have provoked My jealousy by that which is not God;
 \q2 they have enraged Me with their worthless idols.
 \q1 So I will make them jealous by those who are not a people;\f + \fr 32:21 \ft Or not a nation; see also LXX.\f*
-\q2 I will make them angry by a nation without understanding.\f + \fr 32:21 \ft Cited in Romans 10:19\f*
+\q2 I will make them angry by a nation without understanding.\f + \fr 32:21 \ft Cited in \+xt Romans 10:19\+xt*\f*
 \q1
 \v 22 For a fire has been kindled by My anger,
 \q2 and it burns to the depths of Sheol;
@@ -1699,13 +1695,13 @@
 \v 34 “Have I not stored up these things,
 \q2 sealed up within My vaults?
 \q1
-\v 35 Vengeance is Mine; I will repay.\f + \fr 32:35 \ft LXX; Hebrew Vengeance is Mine, and recompense; cited in Romans 12:19 and Hebrews 10:30\f*
+\v 35 Vengeance is Mine; I will repay.\f + \fr 32:35 \ft LXX; Hebrew Vengeance is Mine, and recompense; cited in \+xt Romans 12:19\+xt* and \+xt Hebrews 10:30\+xt*\f*
 \q2 In due time their foot will slip;
 \q1 for their day of disaster is near,
 \q2 and their doom is coming quickly.”
 \b
 \q1
-\v 36 For the LORD will vindicate His people \f + \fr 32:36 \ft Or will judge His people; see also LXX; cited in Hebrews 10:30\f*
+\v 36 For the LORD will vindicate His people\f + \fr 32:36 \ft Or will judge His people; see also LXX; cited in \+xt Hebrews 10:30\+xt*\f*
 \q2 and have compassion on His servants
 \q1 when He sees that their strength is gone
 \q2 and no one remains, slave or free.
@@ -1741,15 +1737,15 @@
 \b
 \q1
 \v 43 Rejoice, O heavens, with Him,
-\q2 and let all God’s angels worship Him. \f + \fr 32:43 \ft See DSS and LXX; MT lacks Rejoice, O heavens, with Him, and let all God’s angels worship Him. Cited in Hebrews 1:6\f*
-\q1 Rejoice, O nations, with His people;\f + \fr 32:43 \ft Cited in Romans 15:10\f*
+\q2 and let all God’s angels worship Him.\f + \fr 32:43 \ft See DSS and LXX; MT lacks Rejoice, O heavens, with Him, and let all God’s angels worship Him. Cited in \+xt Hebrews 1:6\+xt*\f*
+\q1 Rejoice, O nations, with His people;\f + \fr 32:43 \ft Cited in \+xt Romans 15:10\+xt*\f*
 \q2 for He will avenge the blood of His children.\f + \fr 32:43 \ft DSS and LXX; MT servants\f*
 \q1 He will take vengeance on His adversaries
 \q2 and repay those who hate Him;\f + \fr 32:43 \ft LXX and Vulgate; MT lacks and repay those who hate Him\f*
 \q1 He will cleanse His land
 \q2 and His people.
 \p
-\v 44 Then Moses came with Joshua \f + \fr 32:44 \ft LXX, Syriac, and Vulgate; Hebrew Hoshea, a variant of Joshua\f* son of Nun and recited all the words of this song in the hearing of the people.
+\v 44 Then Moses came with Joshua\f + \fr 32:44 \ft LXX, Syriac, and Vulgate; Hebrew Hoshea, a variant of Joshua\f* son of Nun and recited all the words of this song in the hearing of the people.
 \v 45 When Moses had finished reciting all these words to all Israel,
 \v 46 he said to them, “Take to heart all these words I testify among you today, so that you may command your children to carefully follow all the words of this law.
 \v 47 For they are not idle words to you, because they are your life, and by them you will live long in the land that you are crossing the Jordan to possess.”
@@ -1767,9 +1763,8 @@
 \p
 \v 1 This is the blessing that Moses the man of God pronounced upon the Israelites before his death.
 \v 2 He said:
-\b
 \q1 “The LORD came from Sinai
-\q2 and dawned upon us \f + \fr 33:2 \ft LXX, Syriac, and Vulgate; Hebrew upon them\f* from Seir;
+\q2 and dawned upon us\f + \fr 33:2 \ft LXX, Syriac, and Vulgate; Hebrew upon them\f* from Seir;
 \q1 He shone forth from Mount Paran
 \q2 and came with myriads of holy ones,
 \q2 with flaming fire at His right hand.\f + \fr 33:2 \ft Or with myriads of holy ones from the south, from His mountain slopes\f*
@@ -1782,33 +1777,31 @@
 \v 4 the law that Moses gave us,
 \q2 the possession of the assembly of Jacob.
 \q1
-\v 5 So the LORD became King in Jeshurun \f + \fr 33:5 \ft Jeshurun means the upright one, a term of endearment for Israel; also in verse 26.\f*
+\v 5 So the LORD became King in Jeshurun\f + \fr 33:5 \ft Jeshurun means the upright one, a term of endearment for Israel; also in verse 26.\f*
 \q2 when the leaders of the people gathered,
 \q2 when the tribes of Israel came together.
 \b
 \q1
 \v 6 Let Reuben live and not die,
-\q2 nor \f + \fr 33:6 \ft Or but let\f* his men be few.”
+\q2 nor\f + \fr 33:6 \ft Or but let\f* his men be few.”
 \p
 \v 7 And concerning Judah he said:
-\b
 \q1 “O LORD, hear the cry of Judah
 \q2 and bring him to his people.
 \q1 With his own hands he defends his cause,
 \q2 but may You be a help against his foes.”
 \p
 \v 8 Concerning Levi he said:
-\b
 \q1 “Give Your Thummim to Levi
 \q2 and Your Urim to Your godly one,\f + \fr 33:8 \ft DSS and LXX; MT does not include to Levi; literally Let Your Perfections and Your Lights be to Your godly one.\f*
-\q1 whom You tested at Massah \f + \fr 33:8 \ft Massah means testing; see Exodus 17:7.\f*
-\q2 and contested at the waters of Meribah.\f + \fr 33:8 \ft Meribah means quarreling; see Exodus 17:7.\f*
+\q1 whom You tested at Massah\f + \fr 33:8 \ft Massah means testing; see \+xt Exodus 17:7\+xt*.\f*
+\q2 and contested at the waters of Meribah.\f + \fr 33:8 \ft Meribah means quarreling; see \+xt Exodus 17:7\+xt*.\f*
 \q1
 \v 9 He said of his father and mother,
 \q2 ‘I do not consider them.’
 \q1 He disregarded his brothers
 \q2 and did not know his own sons,
-\q1 for he kept \f + \fr 33:9 \ft Hebrew they kept, most likely referring to Levi in the plural; similarly twice in verse 10\f* Your word
+\q1 for he kept\f + \fr 33:9 \ft Hebrew they kept, most likely referring to Levi in the plural; similarly twice in verse 10\f* Your word
 \q2 and maintained Your covenant.
 \q1
 \v 10 He will teach Your ordinances to Jacob
@@ -1822,14 +1815,12 @@
 \q2 and of his foes so they can rise no more.”
 \p
 \v 12 Concerning Benjamin he said:
-\b
 \q1 “May the beloved of the LORD
 \q2 rest secure in Him;
-\q1 God shields \f + \fr 33:12 \ft LXX; Hebrew He shields\f* him all day long,
+\q1 God shields\f + \fr 33:12 \ft LXX; Hebrew He shields\f* him all day long,
 \q2 and upon His shoulders he rests.”
 \p
 \v 13 Concerning Joseph he said:
-\b
 \q1 “May his land be blessed by the LORD
 \q2 with the precious dew from heaven above
 \q2 and the deep waters that lie beneath,
@@ -1853,7 +1844,6 @@
 \q2 and such are the thousands of Manasseh.”
 \p
 \v 18 Concerning Zebulun he said:
-\b
 \q1 “Rejoice, Zebulun, in your journeys,
 \q2 and Issachar, in your tents.
 \q1
@@ -1863,7 +1853,6 @@
 \q2 and the hidden treasures of the sand.”
 \p
 \v 20 Concerning Gad he said:
-\b
 \q1 “Blessed is he who enlarges
 \q2 the domain of Gad!
 \q1 He lies down like a lion
@@ -1876,19 +1865,16 @@
 \q2 and His ordinances for Israel.”
 \p
 \v 22 Concerning Dan he said:
-\b
 \q1 “Dan is a lion’s cub,
 \q2 leaping out of Bashan.”
 \p
 \v 23 Concerning Naphtali he said:
-\b
 \q1 “Naphtali is abounding with favor,
 \q2 full of the blessing of the LORD;
 \q1 he shall take possession
-\q2 of the sea \f + \fr 33:23 \ft Or the west\f* and the south.”
+\q2 of the sea\f + \fr 33:23 \ft Or the west\f* and the south.”
 \p
 \v 24 And concerning Asher he said:
-\b
 \q1 “May Asher be the most blessed of sons;
 \q2 may he be the most favored among his brothers
 \q2 and dip his foot in oil.
@@ -1927,7 +1913,7 @@
 \v 4 And the LORD said to him, “This is the land that I swore to give Abraham, Isaac, and Jacob when I said, ‘I will give it to your descendants.’ I have let you see it with your own eyes, but you will not cross into it.”
 \p
 \v 5 So Moses the servant of the LORD died there in the land of Moab, as the LORD had said.
-\v 6 And He buried him \f + \fr 34:6 \ft SP and some LXX manuscripts they buried him\f* in a valley in the land of Moab facing Beth-peor, and no one to this day knows the location of his grave.
+\v 6 And He buried him\f + \fr 34:6 \ft SP and some LXX manuscripts they buried him\f* in a valley in the land of Moab facing Beth-peor, and no one to this day knows the location of his grave.
 \p
 \v 7 Moses was a hundred and twenty years old when he died, yet his eyes were not weak, and his vitality had not diminished.
 \v 8 The Israelites grieved for Moses in the plains of Moab thirty days, until the time of weeping and mourning for Moses came to an end.
@@ -1935,4 +1921,4 @@
 \v 9 Now Joshua son of Nun was filled with the spirit of wisdom because Moses had laid his hands on him. So the Israelites obeyed him and did as the LORD had commanded Moses.
 \v 10 Since that time, no prophet has risen in Israel like Moses, whom the LORD knew face to face—
 \v 11 no prophet who did all the signs and wonders that the LORD sent Moses to do in the land of Egypt to Pharaoh and to all his officials and all his land,
-\v 12 and no prophet who performed all the mighty acts of power and awesome deeds \f + \fr 34:12 \ft Or terrifying deeds\f* that Moses did in the sight of all Israel.
+\v 12 and no prophet who performed all the mighty acts of power and awesome deeds\f + \fr 34:12 \ft Or terrifying deeds\f* that Moses did in the sight of all Israel.

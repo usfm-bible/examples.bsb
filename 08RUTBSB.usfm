@@ -1,7 +1,8 @@
-
 \id RUT - Berean Study Bible
 \h Ruth
 \toc1 Ruth
+\toc2 Ruth
+\toc3 Ruth
 \mt1 Ruth
 \c 1
 \s1 Naomi Becomes a Widow
@@ -33,7 +34,6 @@
 \v 15 “Look,” said Naomi, “your sister-in-law has gone back to her people and her gods; follow her back home.”
 \p
 \v 16 But Ruth replied:
-\b
 \q1 “Do not urge me to leave you
 \q2 or to turn from following you.
 \q1 For wherever you go, I will go,
@@ -53,7 +53,7 @@
 \p
 \v 19 So Naomi and Ruth traveled until they came to Bethlehem. When they entered Bethlehem, the whole city was stirred because of them, and the women of the city exclaimed, “Can this be Naomi?”
 \p
-\v 20 “Do not call me Naomi,\f + \fr 1:20 \ft Naomi means pleasant.\f*” she replied. “Call me Mara,\f + \fr 1:20 \ft Mara means bitter.\f* because the Almighty \f + \fr 1:20 \ft Hebrew Shaddai; also in verse 21\f* has dealt quite bitterly with me.
+\v 20 “Do not call me Naomi,\f + \fr 1:20 \ft Naomi means pleasant.\f*” she replied. “Call me Mara,\f + \fr 1:20 \ft Mara means bitter.\f* because the Almighty\f + \fr 1:20 \ft Hebrew Shaddai; also in verse 21\f* has dealt quite bitterly with me.
 \v 21 I went away full, but the LORD has brought me back empty. Why call me Naomi? After all, the LORD has testified against me, and the Almighty has afflicted me.”
 \p
 \v 22 So Naomi returned from the land of Moab with her daughter-in-law Ruth the Moabitess. And they arrived in Bethlehem at the beginning of the barley harvest.
@@ -96,7 +96,7 @@
 \v 19 Then her mother-in-law asked her, “Where did you glean today, and where did you work? Blessed be the man who noticed you.”
 \p So she told her mother-in-law where she had worked. “The name of the man I worked with today is Boaz,” she said.
 \p
-\v 20 Then Naomi said to her daughter-in-law, “May he be blessed by the LORD, who has not withdrawn His kindness from the living or the dead.” Naomi continued, “The man is a close relative. He is one of our kinsman-redeemers.\f + \fr 2:20 \ft The Hebrew word for kinsman-redeemer or guardian-redeemer is a legal term for the kinsman who redeems or vindicates a relative; see Leviticus 25:25–55.\f*”
+\v 20 Then Naomi said to her daughter-in-law, “May he be blessed by the LORD, who has not withdrawn His kindness from the living or the dead.” Naomi continued, “The man is a close relative. He is one of our kinsman-redeemers.\f + \fr 2:20 \ft The Hebrew word for kinsman-redeemer or guardian-redeemer is a legal term for the kinsman who redeems or vindicates a relative; see \+xt Leviticus 25:25–55\+xt*.\f*”
 \p
 \v 21 Then Ruth the Moabitess said, “He also told me, ‘Stay with my young men until they have finished gathering all my harvest.’”
 \p
@@ -119,7 +119,7 @@
 \v 8 At midnight, Boaz was startled, turned over, and there lying at his feet was a woman!
 \p
 \v 9 “Who are you?” he asked.
-\p “I am your servant Ruth,” she replied. “Spread the corner of your garment \f + \fr 3:9 \ft Or Spread your wing; the word for wing can also mean corner of a garment; see Ruth 2:12.\f* over me, for you are a kinsman-redeemer.\f + \fr 3:9 \ft The Hebrew word for kinsman-redeemer or guardian-redeemer is a legal term for the kinsman who redeems or vindicates a relative; similarly in verses 12 and 13; see Leviticus 25:25–55.\f*”
+\p “I am your servant Ruth,” she replied. “Spread the corner of your garment\f + \fr 3:9 \ft Or Spread your wing; the word for wing can also mean corner of a garment; see \+xt Ruth 2:12\+xt*.\f* over me, for you are a kinsman-redeemer.\f + \fr 3:9 \ft The Hebrew word for kinsman-redeemer or guardian-redeemer is a legal term for the kinsman who redeems or vindicates a relative; similarly in verses 12 and 13; see \+xt Leviticus 25:25–55\+xt*.\f*”
 \p
 \v 10 Then Boaz said, “May the LORD bless you, my daughter. You have shown more kindness now than before, because you have not run after the younger men, whether rich or poor.
 \v 11 And now do not be afraid, my daughter. I will do for you whatever you request, since all my fellow townspeople know that you are a woman of noble character.
@@ -128,7 +128,7 @@
 \p
 \v 14 So she lay down at his feet until morning, but she got up before anyone else could recognize her.
 \p Then Boaz said, “Do not let it be known that a woman came to the threshing floor.”
-\v 15 And he told her, “Bring the shawl you are wearing and hold it out.” When she did so, he shoveled six measures of barley \f + \fr 3:15 \ft Possibly six seahs (two ephahs), or approximately 39.6 dry quarts or 43.8 liters (about 58 pounds or 26.3 kilograms of barley) \f* into her shawl. Then he went \f + \fr 3:15 \ft Most Hebrew manuscripts; many Hebrew manuscripts, Vulgate, and Syriac she went\f* into the city.
+\v 15 And he told her, “Bring the shawl you are wearing and hold it out.” When she did so, he shoveled six measures of barley\f + \fr 3:15 \ft Possibly six seahs (two ephahs), or approximately 39.6 dry quarts or 43.8 liters (about 58 pounds or 26.3 kilograms of barley)\f* into her shawl. Then he went\f + \fr 3:15 \ft Most Hebrew manuscripts; many Hebrew manuscripts, Vulgate, and Syriac she went\f* into the city.
 \p
 \v 16 When Ruth returned to her mother-in-law, Naomi asked her, “How did it go, my daughter?”
 \p Then Ruth told her all that Boaz had done for her.
@@ -138,12 +138,12 @@
 \c 4
 \s1 Boaz Redeems Ruth
 \p
-\v 1 Meanwhile, Boaz went to the gate and sat down there. Soon the kinsman-redeemer \f + \fr 4:1 \ft The Hebrew word for kinsman-redeemer or guardian-redeemer is a legal term for the kinsman who redeems or vindicates a relative; also in verses 3, 6, 8, and 14; see Leviticus 25:25–55.\f* of whom he had spoken came along, and Boaz said, “Come over here, my friend, and sit down.” So he went over and sat down.
+\v 1 Meanwhile, Boaz went to the gate and sat down there. Soon the kinsman-redeemer\f + \fr 4:1 \ft The Hebrew word for kinsman-redeemer or guardian-redeemer is a legal term for the kinsman who redeems or vindicates a relative; also in verses 3, 6, 8, and 14; see \+xt Leviticus 25:25–55\+xt*.\f* of whom he had spoken came along, and Boaz said, “Come over here, my friend, and sit down.” So he went over and sat down.
 \p
 \v 2 Then Boaz took ten of the elders of the city and said, “Sit here,” and they did so.
 \p
 \v 3 And he said to the kinsman-redeemer, “Naomi, who has returned from the land of Moab, is selling the piece of land that belonged to our brother Elimelech.
-\v 4 I thought I should inform you that you may buy it back in the presence of those seated here and in the presence of the elders of my people. If you want to redeem it, do so. But if you \f + \fr 4:4 \ft Many Hebrew manuscripts, LXX, Vulgate, and Syriac; most Hebrew manuscripts he\f* will not redeem it, tell me so I may know, because there is no one but you to redeem it, and I am next after you.”
+\v 4 I thought I should inform you that you may buy it back in the presence of those seated here and in the presence of the elders of my people. If you want to redeem it, do so. But if you\f + \fr 4:4 \ft Many Hebrew manuscripts, LXX, Vulgate, and Syriac; most Hebrew manuscripts he\f* will not redeem it, tell me so I may know, because there is no one but you to redeem it, and I am next after you.”
 \p “I will redeem it,” he replied.
 \p
 \v 5 Then Boaz said, “On the day you buy the land from Naomi and also from Ruth the Moabitess, you must also acquire the widow of the deceased in order to raise up the name of the deceased on his inheritance.”
@@ -182,7 +182,7 @@
 \li1
 \v 20 Amminadab was the father of Nahshon,
 \b
-\li1 Nahshon was the father of Salmon,\f + \fr 4:20 \ft A few Hebrew manuscripts, some LXX manuscripts, and Vulgate (see also verse 21 and LXX of 1 Chronicles 2:11); most Hebrew manuscripts Salma\f*
+\li1 Nahshon was the father of Salmon,\f + \fr 4:20 \ft A few Hebrew manuscripts, some LXX manuscripts, and Vulgate (see also verse 21 and LXX of \+xt 1 Chronicles 2:11\+xt*); most Hebrew manuscripts Salma\f*
 \b
 \li1
 \v 21 Salmon was the father of Boaz,

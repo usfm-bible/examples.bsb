@@ -1,15 +1,15 @@
-
 \id SNG - Berean Study Bible
 \h Song
-\toc1 Song
-\mt1 Song
+\toc1 Song of Solomon
+\toc2 Song of Solomon
+\toc3 Song
+\mt1 Song of Solomon
 \c 1
 \s1 The Bride Confesses Her Love
 \r (Ephesians 5:22–33; 1 Peter 3:1–7)
 \p
 \v 1 This is Solomon’s Song of Songs.\f + \fr 1:1 \ft Most translators add subheadings for speaker identifications such as The Bride, The Groom, and The Friends based on the gender and number of the Hebrew words.\f*
 \s2 The Bride
-\b
 \q1
 \v 2 Let him kiss me with the kisses of his mouth!
 \q2 For your love is more delightful than wine.
@@ -22,11 +22,9 @@
 \v 4 Take me away with you—let us hurry!
 \q2 May the king bring me to his chambers.
 \s2 The Friends
-\b
 \q1 We will rejoice and delight in you;
 \q2 we will praise your love more than wine.
 \s2 The Bride
-\b
 \q1 It is only right that they adore you.
 \b
 \q1
@@ -46,14 +44,12 @@
 \q1 Why should I be like a veiled woman
 \q2 beside the flocks of your companions?
 \s2 The Friends
-\b
 \q1
 \v 8 If you do not know, O fairest of women,
 \q2 follow the tracks of the flock,
 \q1 and graze your young goats
 \q2 near the tents of the shepherds.
 \s2 The Bridegroom
-\b
 \q1
 \v 9 I compare you, my darling,
 \q2 to a mare among Pharaoh’s chariots.
@@ -61,12 +57,10 @@
 \v 10 Your cheeks are beautiful with ornaments,
 \q2 your neck with strings of jewels.
 \s2 The Friends
-\b
 \q1
 \v 11 We will make you ornaments of gold,
 \q2 studded with beads of silver.
 \s2 The Bride
-\b
 \q1
 \v 12 While the king was at his table,
 \q2 my perfume spread its fragrance.
@@ -77,36 +71,30 @@
 \v 14 My beloved is to me a cluster of henna blossoms
 \q2 in the vineyards of En-gedi.
 \s2 The Bridegroom
-\b
 \q1
 \v 15 How beautiful you are, my darling!
 \q2 Oh, how very beautiful!
 \q2 Your eyes are like doves.
 \s2 The Bride
-\b
 \q1
 \v 16 How handsome you are, my beloved!
 \q2 Oh, how delightful!
 \q2 The soft grass is our bed.
 \s2 The Bridegroom
-\b
 \q1
 \v 17 The beams of our house are cedars;
 \q2 our rafters are fragrant firs.
 \c 2
 \s1 The Bride’s Admiration
 \s2 The Bride
-\b
 \q1
 \v 1 I am a rose of Sharon,\f + \fr 2:1 \ft Sharon Plain is a region in the coastal plain of Israel\f*
 \q2 a lily of the valley.
 \s2 The Bridegroom
-\b
 \q1
 \v 2 Like a lily among the thorns
 \q2 is my darling among the maidens.
 \s2 The Bride
-\b
 \q1
 \v 3 Like an apple tree among the trees of the forest
 \q2 is my beloved among the young men.
@@ -150,7 +138,7 @@
 \q2 the rain is over and gone.
 \q1
 \v 12 The flowers have appeared in the countryside;
-\q2 the season of singing \f + \fr 2:12 \ft Or pruning\f* has come,
+\q2 the season of singing\f + \fr 2:12 \ft Or pruning\f* has come,
 \q1 and the cooing of turtledoves
 \q2 is heard in our land.
 \q1
@@ -159,7 +147,6 @@
 \q1 Arise, come away, my darling;
 \q2 come away with me, my beautiful one.”
 \s2 The Bridegroom
-\b
 \q1
 \v 14 O my dove in the clefts of the rock,
 \q2 in the crevices of the cliff,
@@ -168,13 +155,11 @@
 \q1 for your voice is sweet,
 \q2 and your countenance is lovely.
 \s2 The Friends
-\b
 \q1
 \v 15 Catch for us the foxes—
 \q2 the little foxes that ruin the vineyards—
 \q2 for our vineyards are in bloom.
 \s2 The Bride
-\b
 \q1
 \v 16 My beloved is mine and I am his;
 \q2 he pastures his flock among the lilies.
@@ -185,7 +170,6 @@
 \q2 or a young stag on the mountains of Bether.\f + \fr 2:17 \ft Or the rugged mountains\f*
 \c 3
 \s1 The Bride’s Dream
-\b
 \q1
 \v 1 On my bed at night
 \q2 I sought the one I love;
@@ -212,7 +196,6 @@
 \q1 Do not arouse or awaken love
 \q2 until the time is right.
 \s1 Solomon Arrives on His Wedding Day
-\b
 \q1
 \v 6 Who is this coming up from the wilderness
 \q2 like a column of smoke,
@@ -245,7 +228,6 @@
 \c 4
 \s1 Solomon Admires His Bride
 \s2 The Bridegroom
-\b
 \q1
 \v 1 How beautiful you are, my darling—
 \q2 how very beautiful!
@@ -284,7 +266,7 @@
 \q1
 \v 8 Come with me from Lebanon, my bride,
 \q2 come with me from Lebanon!
-\q1 Descend \f + \fr 4:8 \ft Or Look down\f* from the peak of Amana,
+\q1 Descend\f + \fr 4:8 \ft Or Look down\f* from the peak of Amana,
 \q2 from the summits of Senir and Hermon,
 \q1 from the dens of the lions,
 \q2 from the mountains of the leopards.
@@ -318,10 +300,9 @@
 \q2 with all the finest spices.
 \q1
 \v 15 You are a garden spring,
-\q2 a well of fresh water \f + \fr 4:15 \ft Or flowing water or living water\f*
+\q2 a well of fresh water\f + \fr 4:15 \ft Or flowing water or living water\f*
 \q2 flowing down from Lebanon.
 \s2 The Bride
-\b
 \q1
 \v 16 Awake, O north wind,
 \q2 and come, O south wind.
@@ -332,18 +313,15 @@
 \c 5
 \s1 The Bride and Her Beloved
 \s2 The Bridegroom
-\b
 \q1
 \v 1 I have come to my garden, my sister, my bride;
 \q2 I have gathered my myrrh with my spice.
 \q1 I have eaten my honeycomb with my honey;
 \q2 I have drunk my wine with my milk.
 \s2 The Friends
-\b
 \q1 Eat, O friends, and drink;
 \q2 drink freely, O beloved.
 \s2 The Bride
-\b
 \q1
 \v 2 I sleep, but my heart is awake.
 \q2 A sound! My beloved is knocking:
@@ -382,14 +360,12 @@
 \q2 if you find my beloved,
 \q2 tell him I am sick with love.
 \s2 The Friends
-\b
 \q1
 \v 9 How is your beloved better than others,
 \q2 O most beautiful among women?
 \q1 How is your beloved better than another,
 \q2 that you charge us so?
 \s2 The Bride
-\b
 \q1
 \v 10 My beloved is dazzling and ruddy,
 \q2 outstanding among ten thousand.
@@ -417,21 +393,19 @@
 \q1 His appearance is like Lebanon,
 \q2 as majestic as the cedars.
 \q1
-\v 16 His mouth \f + \fr 5:16 \ft Hebrew palate\f* is most sweet;
+\v 16 His mouth\f + \fr 5:16 \ft Hebrew palate\f* is most sweet;
 \q2 he is altogether lovely.
 \q1 This is my beloved, and this is my friend,
 \q2 O daughters of Jerusalem.
 \c 6
 \s1 Together in the Garden
 \s2 The Friends
-\b
 \q1
 \v 1 Where has your beloved gone,
 \q2 O most beautiful among women?
 \q1 Which way has he turned?
 \q2 We will seek him with you.
 \s2 The Bride
-\b
 \q1
 \v 2 My beloved has gone down to his garden,
 \q2 to the beds of spices,
@@ -441,7 +415,6 @@
 \v 3 I belong to my beloved and he belongs to me;
 \q2 he pastures his flock among the lilies.
 \s2 The Bridegroom
-\b
 \q1
 \v 4 You are as beautiful, my darling, as Tirzah,
 \q2 as lovely as Jerusalem,
@@ -469,14 +442,12 @@
 \q1 The maidens see her and call her blessed;
 \q2 the queens and concubines sing her praises.
 \s2 The Friends
-\b
 \q1
 \v 10 Who is this who shines like the dawn,
 \q2 as fair as the moon,
 \q1 as bright as the sun,
 \q2 as majestic as the stars in procession?
 \s2 The Bridegroom
-\b
 \q1
 \v 11 I went down to the walnut grove
 \q2 to see the blossoms of the valley,
@@ -486,17 +457,14 @@
 \v 12 Before I realized it, my desire had set me
 \q2 among the royal chariots of my people.\f + \fr 6:12 \ft Or among the chariots of Amminadab\f*
 \s2 The Friends
-\b
 \q1
 \v 13 Come back, come back, O Shulammite!
 \q2 Come back, come back, that we may gaze upon you.
 \s2 The Bridegroom
-\b
 \q1 Why do you look at the Shulammite,
-\q2 as on the dance of Mahanaim \f + \fr 6:13 \ft Or the dance of the two camps\f*?
+\q2 as on the dance of Mahanaim\f + \fr 6:13 \ft Or the dance of the two camps\f*?
 \c 7
 \s1 Admiration by the Bridegroom
-\b
 \q1
 \v 1 How beautiful are your sandaled feet,
 \q2 O daughter of the prince!
@@ -534,9 +502,8 @@
 \q1 May your breasts be like clusters of the vine,
 \q2 the fragrance of your breath like apples,
 \q2
-\v 9 and your mouth \f + \fr 7:9 \ft Hebrew palate \f* like the finest wine.
+\v 9 and your mouth\f + \fr 7:9 \ft Hebrew palate\f* like the finest wine.
 \s2 The Bride
-\b
 \q1 May it flow smoothly to my beloved,
 \q2 gliding gently over lips and teeth.\f + \fr 7:9 \ft LXX, Syriac, and Vulgate; Hebrew gliding gently over lips as we sleep\f*
 \b
@@ -562,7 +529,6 @@
 \q2 that I have treasured up for you, my beloved.
 \c 8
 \s1 Longing for Her Beloved
-\b
 \q1
 \v 1 O that you were to me like a brother
 \q2 who nursed at my mother’s breasts!
@@ -582,12 +548,10 @@
 \q2 Do not arouse or awaken love
 \q2 until the time is right.
 \s2 The Friends
-\b
 \q1
 \v 5 Who is this coming up from the wilderness,
 \q2 leaning on her beloved?
 \s2 The Bride
-\b
 \q1 I roused you under the apple tree;
 \q2 there your mother conceived you;
 \q2 there she travailed and brought you forth.
@@ -596,7 +560,7 @@
 \v 6 Set me as a seal over your heart,
 \q2 as a seal upon your arm.
 \q1 For love is as strong as death,
-\q2 its jealousy \f + \fr 8:6 \ft Or passion\f* as unrelenting as Sheol.
+\q2 its jealousy\f + \fr 8:6 \ft Or passion\f* as unrelenting as Sheol.
 \q1 Its sparks are fiery flames,
 \q2 the fiercest blaze of all.
 \q1
@@ -605,7 +569,6 @@
 \q1 If a man were to give all the wealth of his house for love,
 \q2 his offer would be utterly scorned.
 \s2 The Friends
-\b
 \q1
 \v 8 We have a little sister,
 \q2 and her breasts are not yet grown.
@@ -617,7 +580,6 @@
 \q1 If she is a door,
 \q2 we will enclose her with panels of cedar.
 \s2 The Bride
-\b
 \q1
 \v 10 I am a wall,
 \q2 and my breasts are like towers.
@@ -633,13 +595,11 @@
 \q2 the thousand shekels are for you, O Solomon,
 \q2 and two hundred are for those who tend its fruit.
 \s2 The Bridegroom
-\b
 \q1
 \v 13 You who dwell in the gardens,
 \q2 my companions are listening for your voice.
 \q2 Let me hear it!
 \s2 The Bride
-\b
 \q1
 \v 14 Come away, my beloved,
 \q2 and be like a gazelle

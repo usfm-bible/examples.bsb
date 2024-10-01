@@ -1,7 +1,8 @@
-
 \id 1CO - Berean Study Bible
 \h 1 Corinthians
 \toc1 1 Corinthians
+\toc2 1 Corinthians
+\toc3 1 Corinthians
 \mt1 1 Corinthians
 \c 1
 \s1 Greetings from Paul and Sosthenes
@@ -38,9 +39,8 @@
 \p
 \v 18 For the message of the cross is foolishness to those who are perishing, but to us who are being saved it is the power of God.
 \v 19 For it is written:
-\b
 \q1 “I will destroy the wisdom of the wise;
-\q2 the intelligence of the intelligent I will frustrate.”\f + \fr 1:19 \ft Isaiah 29:14 (see also LXX)\f*
+\q2 the intelligence of the intelligent I will frustrate.”\f + \fr 1:19 \ft \+xt Isaiah 29:14\+xt* (see also LXX)\f*
 \p
 \v 20 Where is the wise man? Where is the scribe? Where is the philosopher of this age? Has not God made foolish the wisdom of the world?
 \v 21 For since in the wisdom of God the world through its wisdom did not know Him, God was pleased through the foolishness of what was preached to save those who believe.
@@ -58,7 +58,7 @@
 \v 29 so that no one may boast in His presence.
 \p
 \v 30 It is because of Him that you are in Christ Jesus, who has become for us wisdom from God: our righteousness, holiness, and redemption.
-\v 31 Therefore, as it is written: “Let him who boasts boast in the Lord.”\f + \fr 1:31 \ft Jeremiah 9:24\f*
+\v 31 Therefore, as it is written: “Let him who boasts boast in the Lord.”\f + \fr 1:31 \ft \+xt Jeremiah 9:24\+xt*\f*
 \c 2
 \s1 Paul’s Message by the Spirit’s Power
 \p
@@ -74,11 +74,10 @@
 \v 7 No, we speak of the mysterious and hidden wisdom of God,\f + \fr 2:7 \ft Or we speak God’s wisdom in a mystery\f* which He destined for our glory before time began.
 \v 8 None of the rulers of this age understood it. For if they had, they would not have crucified the Lord of glory.
 \v 9 Rather, as it is written:
-\b
 \q1 “No eye has seen,
 \q2 no ear has heard,
 \q2 no heart has imagined,
-\q1 what God has prepared for those who love Him.”\f + \fr 2:9 \ft Isaiah 64:4\f*
+\q1 what God has prepared for those who love Him.”\f + \fr 2:9 \ft \+xt Isaiah 64:4\+xt*\f*
 \p
 \v 10 But God has revealed it to us by the Spirit.
 \p The Spirit searches all things, even the deep things of God.
@@ -88,7 +87,7 @@
 \p
 \v 14 The natural man does not accept the things that come from the Spirit of God. For they are foolishness to him, and he cannot understand them, because they are spiritually discerned.
 \v 15 The spiritual man judges all things, but he himself is not subject to anyone’s judgment.
-\v 16 “For who has known the mind of the Lord, so as to instruct Him?”\f + \fr 2:16 \ft Isaiah 40:13 (see also LXX)\f* But we have the mind of Christ.
+\v 16 “For who has known the mind of the Lord, so as to instruct Him?”\f + \fr 2:16 \ft \+xt Isaiah 40:13\+xt* (see also LXX)\f* But we have the mind of Christ.
 \c 3
 \s1 God’s Fellow Workers
 \r (Hebrews 5:11–14)
@@ -116,15 +115,15 @@
 \s1 God’s Temple and God’s Wisdom
 \r (Romans 12:1–8; 1 Corinthians 6:18–20)
 \p
-\v 16 Do you not know that you yourselves are God’s temple, and that God’s Spirit dwells in \f + \fr 3:16 \ft Or among\f* you?
+\v 16 Do you not know that you yourselves are God’s temple, and that God’s Spirit dwells in\f + \fr 3:16 \ft Or among\f* you?
 \v 17 If anyone destroys God’s temple, God will destroy him; for God’s temple is holy, and you are that temple.
 \p
 \v 18 Let no one deceive himself. If any of you thinks he is wise in this age, he should become a fool, so that he may become wise.
-\v 19 For the wisdom of this world is foolishness in God’s sight. As it is written: “He catches the wise in their craftiness.”\f + \fr 3:19 \ft Job 5:13\f*
-\v 20 And again, “The Lord knows that the thoughts of the wise are futile.”\f + \fr 3:20 \ft Psalm 94:11\f*
+\v 19 For the wisdom of this world is foolishness in God’s sight. As it is written: “He catches the wise in their craftiness.”\f + \fr 3:19 \ft \+xt Job 5:13\+xt*\f*
+\v 20 And again, “The Lord knows that the thoughts of the wise are futile.”\f + \fr 3:20 \ft \+xt Psalm 94:11\+xt*\f*
 \p
 \v 21 Therefore, stop boasting in men. All things are yours,
-\v 22 whether Paul or Apollos or Cephas \f + \fr 3:22 \ft That is, Peter\f* or the world or life or death or the present or the future. All of them belong to you,
+\v 22 whether Paul or Apollos or Cephas\f + \fr 3:22 \ft That is, Peter\f* or the world or life or death or the present or the future. All of them belong to you,
 \v 23 and you belong to Christ, and Christ belongs to God.
 \c 4
 \s1 Servants of Christ
@@ -166,7 +165,7 @@
 \v 2 And you are proud! Shouldn’t you rather have been stricken with grief and have removed from your fellowship the man who did this?
 \p
 \v 3 Although I am absent from you in body, I am present with you in spirit, and I have already pronounced judgment on the one who did this, just as if I were present.
-\v 4 When you are assembled in the name of our Lord Jesus \f + \fr 5:4 \ft Or In the name of our Lord Jesus, when you are assembled\f* and I am with you in spirit, along with the power of the Lord Jesus,
+\v 4 When you are assembled in the name of our Lord Jesus\f + \fr 5:4 \ft Or In the name of our Lord Jesus, when you are assembled\f* and I am with you in spirit, along with the power of the Lord Jesus,
 \v 5 hand this man over to Satan for the destruction of the flesh, so that his spirit may be saved on the Day of the Lord.\f + \fr 5:5 \ft BYZ and TR the Lord Jesus\f*
 \p
 \v 6 Your boasting is not good. Do you not know that a little leaven works through the whole batch of dough?
@@ -179,7 +178,7 @@
 \v 11 But now I am writing you not to associate with anyone who claims to be a brother but is sexually immoral or greedy, an idolater or a verbal abuser, a drunkard or a swindler. With such a man do not even eat.
 \p
 \v 12 What business of mine is it to judge those outside the church? Are you not to judge those inside?
-\v 13 God will judge those outside. “Expel the wicked man from among you.”\f + \fr 5:13 \ft Literally Expel the evil from among you; Deuteronomy 13:5, 17:7, 19:19, 21:21, 22:21, 22:24, and 24:7\f*
+\v 13 God will judge those outside. “Expel the wicked man from among you.”\f + \fr 5:13 \ft Literally Expel the evil from among you; \+xt Deuteronomy 13:5, 17:7, 19:19, 21:21, 22:21, 22:24, and 24:7\+xt*\f*
 \c 6
 \s1 Lawsuits among Believers
 \p
@@ -204,7 +203,7 @@
 \v 14 By His power God raised the Lord from the dead, and He will raise us also.
 \p
 \v 15 Do you not know that your bodies are members of Christ? Shall I then take the members of Christ and unite them with a prostitute? Never!
-\v 16 Or don’t you know that he who unites himself with a prostitute is one with her in body? For it is said, “The two will become one flesh.”\f + \fr 6:16 \ft Genesis 2:24 (see also LXX)\f*
+\v 16 Or don’t you know that he who unites himself with a prostitute is one with her in body? For it is said, “The two will become one flesh.”\f + \fr 6:16 \ft \+xt Genesis 2:24\+xt* (see also LXX)\f*
 \v 17 But he who unites himself with the Lord is one with Him in spirit.
 \s1 The Temple of the Holy Spirit
 \r (Romans 12:1–8; 1 Corinthians 3:16–23)
@@ -235,7 +234,7 @@
 \v 13 And if a woman has an unbelieving husband and he is willing to live with her, she must not divorce him.
 \v 14 For the unbelieving husband is sanctified through his believing wife, and the unbelieving wife is sanctified through her believing husband. Otherwise your children would be unclean, but now they are holy.
 \p
-\v 15 But if the unbeliever leaves, let him go. The believing brother or sister is not bound in such cases. God has called you \f + \fr 7:15 \ft SBL, BYZ, and TR us\f* to live in peace.
+\v 15 But if the unbeliever leaves, let him go. The believing brother or sister is not bound in such cases. God has called you\f + \fr 7:15 \ft SBL, BYZ, and TR us\f* to live in peace.
 \v 16 How do you know, wife, whether you will save your husband? Or how do you know, husband, whether you will save your wife?
 \s1 Live Your Calling
 \p
@@ -252,7 +251,7 @@
 \s1 The Unmarried and Widowed
 \p
 \v 25 Now about virgins, I have no command from the Lord, but I give a judgment as one who by the Lord’s mercy is trustworthy.
-\v 26 Because of the present \f + \fr 7:26 \ft Or impending\f* crisis, I think it is good for a man to remain as he is.
+\v 26 Because of the present\f + \fr 7:26 \ft Or impending\f* crisis, I think it is good for a man to remain as he is.
 \v 27 Are you committed to a wife? Do not seek to be released. Are you free of commitment? Do not look for a wife.
 \v 28 But if you do marry, you have not sinned. And if a virgin marries, she has not sinned. But those who marry will face troubles in this life, and I want to spare you this.
 \p
@@ -309,7 +308,7 @@
 \v 7 Who serves as a soldier at his own expense? Who plants a vineyard and does not eat of its fruit? Who tends a flock and does not drink of its milk?
 \p
 \v 8 Do I say this from a human perspective? Doesn’t the Law say the same thing?
-\v 9 For it is written in the Law of Moses: “Do not muzzle an ox while it is treading out the grain.”\f + \fr 9:9 \ft Deuteronomy 25:4\f* Is it about oxen that God is concerned?
+\v 9 For it is written in the Law of Moses: “Do not muzzle an ox while it is treading out the grain.”\f + \fr 9:9 \ft \+xt Deuteronomy 25:4\+xt*\f* Is it about oxen that God is concerned?
 \v 10 Isn’t He actually speaking on our behalf? Indeed, this was written for us, because when the plowman plows and the thresher threshes, they should also expect to share in the harvest.
 \p
 \v 11 If we have sown spiritual seed among you, is it too much for us to reap a material harvest from you?
@@ -347,7 +346,7 @@
 \v 5 Nevertheless, God was not pleased with most of them, for they were struck down in the wilderness.
 \p
 \v 6 These things took place as examples to keep us from craving evil things as they did.
-\v 7 Do not be idolaters, as some of them were. As it is written: “The people sat down to eat and to drink, and got up to indulge in revelry.”\f + \fr 10:7 \ft Or to play; Exodus 32:6\f*
+\v 7 Do not be idolaters, as some of them were. As it is written: “The people sat down to eat and to drink, and got up to indulge in revelry.”\f + \fr 10:7 \ft Or to play; \+xt Exodus 32:6\+xt*\f*
 \v 8 We should not commit sexual immorality, as some of them did, and in one day twenty-three thousand of them died.
 \v 9 We should not test Christ,\f + \fr 10:9 \ft WH, NE, and Tischendorf test the Lord\f* as some of them did, and were killed by snakes.
 \v 10 And do not complain, as some of them did, and were killed by the destroying angel.\f + \fr 10:10 \ft Literally the destroyer\f*
@@ -375,7 +374,7 @@
 \v 24 No one should seek his own good, but the good of others.
 \p
 \v 25 Eat anything sold in the meat market without raising questions of conscience,
-\v 26 for, “The earth is the Lord’s, and the fullness thereof.”\f + \fr 10:26 \ft Psalm 24:1\f*
+\v 26 for, “The earth is the Lord’s, and the fullness thereof.”\f + \fr 10:26 \ft \+xt Psalm 24:1\+xt*\f*
 \p
 \v 27 If an unbeliever invites you to a meal and you want to go, eat anything set before you without raising questions of conscience.
 \v 28 But if someone tells you, “This food was offered to idols,” then do not eat it, for the sake of the one who told you and for the sake of conscience—\f + \fr 10:28 \ft BYZ and TR and for the sake of conscience—for the earth is the Lord’s, and the fullness thereof—\f*
@@ -400,7 +399,7 @@
 \v 7 A man ought not to cover his head, since he is the image and glory of God; but the woman is the glory of man.
 \v 8 For man did not come from woman, but woman from man.
 \v 9 Neither was man created for woman, but woman for man.
-\v 10 For this reason a woman ought to have a sign of authority on \f + \fr 11:10 \ft Or have authority over\f* her head, because of the angels.
+\v 10 For this reason a woman ought to have a sign of authority on\f + \fr 11:10 \ft Or have authority over\f* her head, because of the angels.
 \p
 \v 11 In the Lord, however, woman is not independent of man, nor is man independent of woman.
 \v 12 For just as woman came from man, so also man is born of woman. But everything comes from God.
@@ -425,9 +424,9 @@
 \v 25 In the same way, after supper He took the cup, saying, “This cup is the new covenant in My blood; do this, as often as you drink it, in remembrance of Me.”
 \v 26 For as often as you eat this bread and drink this cup, you proclaim the Lord’s death until He comes.
 \p
-\v 27 Therefore, whoever eats the bread or drinks the cup of the Lord in an unworthy manner will be guilty of sinning against the \f + \fr 11:27 \ft Or will be responsible for the\f* body and blood of the Lord.
+\v 27 Therefore, whoever eats the bread or drinks the cup of the Lord in an unworthy manner will be guilty of sinning against the\f + \fr 11:27 \ft Or will be responsible for the\f* body and blood of the Lord.
 \v 28 Each one must examine himself before he eats of the bread and drinks of the cup.
-\v 29 For anyone who eats and drinks without recognizing the body \f + \fr 11:29 \ft BYZ and TR the body of the Lord\f* eats and drinks judgment on himself.
+\v 29 For anyone who eats and drinks without recognizing the body\f + \fr 11:29 \ft BYZ and TR the body of the Lord\f* eats and drinks judgment on himself.
 \v 30 That is why many among you are weak and sick, and a number of you have fallen asleep.
 \p
 \v 31 Now if we judged ourselves properly, we would not come under judgment.
@@ -516,7 +515,7 @@
 \v 9 So it is with you. Unless you speak intelligible words with your tongue, how will anyone know what you are saying? You will just be speaking into the air.
 \p
 \v 10 Assuredly, there are many different languages in the world, yet none of them is without meaning.
-\v 11 If, then, I do not know the meaning of someone’s language, I am a foreigner \f + \fr 14:11 \ft Literally a barbarian; twice in this verse\f* to the speaker, and he is a foreigner to me.
+\v 11 If, then, I do not know the meaning of someone’s language, I am a foreigner\f + \fr 14:11 \ft Literally a barbarian; twice in this verse\f* to the speaker, and he is a foreigner to me.
 \p
 \v 12 It is the same with you. Since you are eager to have spiritual gifts, strive to excel in gifts that build up the church.
 \v 13 Therefore, the one who speaks in a tongue should pray that he may interpret.
@@ -531,11 +530,10 @@
 \p
 \v 20 Brothers, stop thinking like children. In regard to evil be infants, but in your thinking be mature.
 \v 21 It is written in the Law:
-\b
 \q1 “By strange tongues and foreign lips
 \q2 I will speak to this people,
 \q1 but even then they will not listen to Me,
-\q2 says the Lord.”\f + \fr 14:21 \ft Isaiah 28:11–12\f*
+\q2 says the Lord.”\f + \fr 14:21 \ft \+xt Isaiah 28:11–12\+xt*\f*
 \p
 \v 22 Tongues, then, are a sign, not for believers, but for unbelievers. Prophecy, however, is for believers, not for unbelievers.
 \p
@@ -572,7 +570,7 @@
 \p
 \v 3 For what I received I passed on to you as of first importance: that Christ died for our sins according to the Scriptures,
 \v 4 that He was buried, that He was raised on the third day according to the Scriptures,
-\v 5 and that He appeared to Cephas \f + \fr 15:5 \ft That is, Peter\f* and then to the Twelve.
+\v 5 and that He appeared to Cephas\f + \fr 15:5 \ft That is, Peter\f* and then to the Twelve.
 \v 6 After that, He appeared to more than five hundred brothers at once, most of whom are still living, though some have fallen asleep.
 \v 7 Then He appeared to James, then to all the apostles.
 \v 8 And last of all He appeared to me also, as to one of untimely birth.
@@ -601,16 +599,15 @@
 \v 24 Then the end will come, when He hands over the kingdom to God the Father after He has destroyed all dominion, authority, and power.
 \v 25 For He must reign until He has put all His enemies under His feet.
 \v 26 The last enemy to be destroyed is death.
-\v 27 For “God has put everything under His feet.”\f + \fr 15:27 \ft Psalm 8:6\f* Now when it says that everything has been put under Him, this clearly does not include the One who put everything under Him.
+\v 27 For “God has put everything under His feet.”\f + \fr 15:27 \ft \+xt Psalm 8:6\+xt*\f* Now when it says that everything has been put under Him, this clearly does not include the One who put everything under Him.
 \v 28 And when all things have been subjected to Him, then the Son Himself will be made subject to Him who put all things under Him, so that God may be all in all.
 \p
 \v 29 If these things are not so, what will those do who are baptized for the dead? If the dead are not raised at all, why are people baptized for them?
 \v 30 And why do we endanger ourselves every hour?
 \v 31 I face death every day, brothers, as surely as I boast about you in Christ Jesus our Lord.
 \v 32 If I fought wild beasts in Ephesus for human motives, what did I gain? If the dead are not raised,
-\b
 \q1 “Let us eat and drink,
-\q2 for tomorrow we die.”\f + \fr 15:32 \ft Isaiah 22:13\f*
+\q2 for tomorrow we die.”\f + \fr 15:32 \ft \+xt Isaiah 22:13\+xt*\f*
 \p
 \v 33 Do not be deceived: “Bad company corrupts good character.”\f + \fr 15:33 \ft Probably a quote from the Greek comedy Thais by Menander\f*
 \v 34 Sober up as you ought, and stop sinning; for some of you are ignorant of God. I say this to your shame.
@@ -628,7 +625,7 @@
 \v 42 So will it be with the resurrection of the dead: What is sown is perishable; it is raised imperishable.
 \v 43 It is sown in dishonor; it is raised in glory. It is sown in weakness; it is raised in power.
 \v 44 It is sown a natural body; it is raised a spiritual body. If there is a natural body, there is also a spiritual body.
-\v 45 So it is written: “The first man Adam became a living being;”\f + \fr 15:45 \ft Genesis 2:7\f* the last Adam a life-giving spirit.
+\v 45 So it is written: “The first man Adam became a living being;”\f + \fr 15:45 \ft \+xt Genesis 2:7\+xt*\f* the last Adam a life-giving spirit.
 \p
 \v 46 The spiritual, however, was not first, but the natural, and then the spiritual.
 \v 47 The first man was of the dust of the earth, the second man from heaven.
@@ -641,13 +638,12 @@
 \p
 \v 51 Listen, I tell you a mystery: We will not all sleep, but we will all be changed—
 \v 52 in an instant, in the twinkling of an eye, at the last trumpet. For the trumpet will sound, the dead will be raised imperishable, and we will be changed.
-\v 53 For the perishable must be clothed \f + \fr 15:53 \ft Or clothe itself\f* with the imperishable, and the mortal with immortality.
+\v 53 For the perishable must be clothed\f + \fr 15:53 \ft Or clothe itself\f* with the imperishable, and the mortal with immortality.
 \p
-\v 54 When the perishable has been clothed with the imperishable and the mortal with immortality,\f + \fr 15:54 \ft WH does not include and the mortal with immortality.\f* then the saying that is written will come to pass: “Death has been swallowed up in victory.”\f + \fr 15:54 \ft Isaiah 25:8\f*
-\b
+\v 54 When the perishable has been clothed with the imperishable and the mortal with immortality,\f + \fr 15:54 \ft WH does not include and the mortal with immortality.\f* then the saying that is written will come to pass: “Death has been swallowed up in victory.”\f + \fr 15:54 \ft \+xt Isaiah 25:8\+xt*\f*
 \q1
 \v 55 “Where, O Death, is your victory?
-\q2 Where, O Death, is your sting?”\f + \fr 15:55 \ft Hosea 13:14 (see also LXX); BYZ and TR “Where, O Death, is your sting? Where, O Hades, is your victory?”\f*
+\q2 Where, O Death, is your sting?”\f + \fr 15:55 \ft \+xt Hosea 13:14\+xt* (see also LXX); BYZ and TR “Where, O Death, is your sting? Where, O Hades, is your victory?”\f*
 \p
 \v 56 The sting of death is sin, and the power of sin is the law.
 \v 57 But thanks be to God, who gives us the victory through our Lord Jesus Christ!
@@ -667,7 +663,7 @@
 \v 5 After I go through Macedonia, however, I will come to you; for I will be going through Macedonia.
 \v 6 Perhaps I will stay with you awhile, or even spend the winter, so that you can help me on my journey, wherever I go.
 \v 7 For I do not want to see you now only in passing; I hope to spend some time with you, if the Lord permits.
-\v 8 But I will stay in Ephesus until Pentecost,\f + \fr 16:8 \ft That is, Shavuot, the late spring feast of pilgrimage to Jerusalem; it is also known as the Feast of Harvest (see Exodus 23:16) or the Feast of Weeks (see Exodus 34:22).\f*
+\v 8 But I will stay in Ephesus until Pentecost,\f + \fr 16:8 \ft That is, Shavuot, the late spring feast of pilgrimage to Jerusalem; it is also known as the Feast of Harvest (see \+xt Exodus 23:16\+xt*) or the Feast of Weeks (see \+xt Exodus 34:22\+xt*).\f*
 \v 9 because a great door for effective work has opened to me, even though many oppose me.
 \s1 Timothy and Apollos
 \r (Philippians 2:19–30)
@@ -689,8 +685,8 @@
 \s1 Signature and Final Greetings
 \r (Colossians 4:15–18; 2 Thessalonians 3:16–18)
 \p
-\v 19 The churches in the province of Asia \f + \fr 16:19 \ft Literally in Asia; Asia was a Roman province in what is now western Turkey. \f* send you greetings.
-\p Aquila and Prisca \f + \fr 16:19 \ft Prisca is a variant of Priscilla; see Acts 18:2.\f* greet you warmly in the Lord, and so does the church that meets at their house.
+\v 19 The churches in the province of Asia\f + \fr 16:19 \ft Literally in Asia; Asia was a Roman province in what is now western Turkey.\f* send you greetings.
+\p Aquila and Prisca\f + \fr 16:19 \ft Prisca is a variant of Priscilla; see \+xt Acts 18:2\+xt*.\f* greet you warmly in the Lord, and so does the church that meets at their house.
 \p
 \v 20 All the brothers here send you greetings. Greet one another with a holy kiss.
 \p

@@ -1,7 +1,8 @@
-
 \id ROM - Berean Study Bible
 \h Romans
 \toc1 Romans
+\toc2 Romans
+\toc3 Romans
 \mt1 Romans
 \c 1
 \s1 Paul Greets the Saints in Rome
@@ -19,17 +20,17 @@
 \s1 Unashamed of the Gospel
 \p
 \v 8 First, I thank my God through Jesus Christ for all of you, because your faith is being proclaimed all over the world.
-\v 9 God, whom I serve with my spirit \f + \fr 1:9 \ft Or in my spirit\f* in preaching the gospel of His Son, is my witness how constantly I remember you
+\v 9 God, whom I serve with my spirit\f + \fr 1:9 \ft Or in my spirit\f* in preaching the gospel of His Son, is my witness how constantly I remember you
 \v 10 in my prayers at all times, asking that now at last by God’s will I may succeed in coming to you.
 \v 11 For I long to see you so that I may impart to you some spiritual gift to strengthen you,
 \v 12 that is, that you and I may be mutually encouraged by each other’s faith.
 \p
-\v 13 I do not want you to be unaware, brothers, how often I planned to come to you (but have been prevented from visiting \f + \fr 1:13 \ft Literally but have been prevented\f* until now), in order that I might have a harvest among you, just as I have had among the other Gentiles.
+\v 13 I do not want you to be unaware, brothers, how often I planned to come to you (but have been prevented from visiting\f + \fr 1:13 \ft Literally but have been prevented\f* until now), in order that I might have a harvest among you, just as I have had among the other Gentiles.
 \v 14 I am obligated both to Greeks and non-Greeks,\f + \fr 1:14 \ft Literally to Greeks and barbarians\f* both to the wise and the foolish.
 \v 15 That is why I am so eager to preach the gospel also to you who are in Rome.
 \p
 \v 16 I am not ashamed of the gospel, because it is the power of God for salvation to everyone who believes, first to the Jew, then to the Greek.
-\v 17 For the gospel reveals the righteousness of God that comes by faith from start to finish,\f + \fr 1:17 \ft Literally For in it is revealed the righteousness of God from faith to faith\f* just as it is written: “The righteous will live by faith.”\f + \fr 1:17 \ft Habakkuk 2:4\f*
+\v 17 For the gospel reveals the righteousness of God that comes by faith from start to finish,\f + \fr 1:17 \ft Literally For in it is revealed the righteousness of God from faith to faith\f* just as it is written: “The righteous will live by faith.”\f + \fr 1:17 \ft \+xt Habakkuk 2:4\+xt*\f*
 \s1 God’s Wrath against Sin
 \p
 \v 18 The wrath of God is being revealed from heaven against all the godlessness and wickedness of men who suppress the truth by their wickedness.
@@ -62,7 +63,7 @@
 \v 4 Or do you disregard the riches of His kindness, tolerance, and patience, not realizing that God’s kindness leads you to repentance?
 \p
 \v 5 But because of your hard and unrepentant heart, you are storing up wrath against yourself for the day of wrath, when God’s righteous judgment will be revealed.
-\v 6 God “will repay each one according to his deeds.”\f + \fr 2:6 \ft Psalm 62:12\f*
+\v 6 God “will repay each one according to his deeds.”\f + \fr 2:6 \ft \+xt Psalm 62:12\+xt*\f*
 \v 7 To those who by perseverance in doing good seek glory, honor, and immortality, He will give eternal life.
 \v 8 But for those who are self-seeking and who reject the truth and follow wickedness, there will be wrath and anger.
 \p
@@ -85,7 +86,7 @@
 \v 21 you, then, who teach others, do you not teach yourself? You who preach against stealing, do you steal?
 \v 22 You who forbid adultery, do you commit adultery? You who abhor idols, do you rob temples?
 \v 23 You who boast in the law, do you dishonor God by breaking the law?
-\v 24 As it is written: “God’s name is blasphemed among the Gentiles because of you.”\f + \fr 2:24 \ft Isaiah 52:5 (see also LXX)\f*
+\v 24 As it is written: “God’s name is blasphemed among the Gentiles because of you.”\f + \fr 2:24 \ft \+xt Isaiah 52:5\+xt* (see also LXX)\f*
 \p
 \v 25 Circumcision has value if you observe the law, but if you break the law, your circumcision has become uncircumcision.
 \v 26 If a man who is not circumcised keeps the requirements of the law, will not his uncircumcision be regarded as circumcision?
@@ -97,13 +98,12 @@
 \s1 God Remains Faithful
 \p
 \v 1 What, then, is the advantage of being a Jew? Or what is the value of circumcision?
-\v 2 Much in every way. First of all, they have been entrusted with the very words \f + \fr 3:2 \ft Or the oracles\f* of God.
+\v 2 Much in every way. First of all, they have been entrusted with the very words\f + \fr 3:2 \ft Or the oracles\f* of God.
 \p
 \v 3 What if some did not have faith? Will their lack of faith nullify God’s faithfulness?
 \v 4 Certainly not! Let God be true and every man a liar. As it is written:
-\b
 \q1 “So that You may be proved right when You speak
-\q2 and victorious when You judge.”\f + \fr 3:4 \ft Or when You are judged; Psalm 51:4 (see also LXX)\f*
+\q2 and victorious when You judge.”\f + \fr 3:4 \ft Or when You are judged; \+xt Psalm 51:4\+xt* (see also LXX)\f*
 \p
 \v 5 But if our unrighteousness highlights the righteousness of God, what shall we say? That God is unjust to inflict His wrath on us? I am speaking in human terms.
 \v 6 Certainly not! In that case, how could God judge the world?
@@ -114,7 +114,6 @@
 \p
 \v 9 What then? Are we any better? Not at all. For we have already made the charge that Jews and Greeks alike are all under sin.
 \v 10 As it is written:
-\b
 \q1 “There is no one righteous,
 \q2 not even one.
 \q1
@@ -124,23 +123,23 @@
 \v 12 All have turned away,
 \q2 they have together become worthless;
 \q1 there is no one who does good,
-\q2 not even one.”\f + \fr 3:12 \ft Psalm 14:1–3 and Psalm 53:1–3 (see also LXX)\f*
+\q2 not even one.”\f + \fr 3:12 \ft \+xt Psalm 14:1–3\+xt* and \+xt Psalm 53:1–3\+xt* (see also LXX)\f*
 \q1
 \v 13 “Their throats are open graves;
-\q2 their tongues practice deceit.”\f + \fr 3:13 \ft Psalm 5:9\f*
-\q2 “The venom of vipers is on their lips.”\f + \fr 3:13 \ft Psalm 140:3\f*
+\q2 their tongues practice deceit.”\f + \fr 3:13 \ft \+xt Psalm 5:9\+xt*\f*
+\q2 “The venom of vipers is on their lips.”\f + \fr 3:13 \ft \+xt Psalm 140:3\+xt*\f*
 \q1
 \v 14 “Their mouths are full
-\q2 of cursing and bitterness.”\f + \fr 3:14 \ft Psalm 10:7 (see also LXX)\f*
+\q2 of cursing and bitterness.”\f + \fr 3:14 \ft \+xt Psalm 10:7\+xt* (see also LXX)\f*
 \q1
 \v 15 “Their feet are swift to shed blood;
 \q2
 \v 16 ruin and misery lie in their wake,
 \q2
-\v 17 and the way of peace they have not known.”\f + \fr 3:17 \ft Isaiah 59:7–8 (see also LXX)\f*
+\v 17 and the way of peace they have not known.”\f + \fr 3:17 \ft \+xt Isaiah 59:7–8\+xt* (see also LXX)\f*
 \q1
 \v 18 “There is no fear of God
-\q2 before their eyes.”\f + \fr 3:18 \ft Psalm 36:1\f*
+\q2 before their eyes.”\f + \fr 3:18 \ft \+xt Psalm 36:1\+xt*\f*
 \p
 \v 19 Now we know that whatever the law says, it says to those who are under the law, so that every mouth may be silenced and the whole world held accountable to God.
 \v 20 Therefore no one will be justified in His sight by works of the law. For the law merely brings awareness of sin.
@@ -152,7 +151,7 @@
 \v 23 for all have sinned and fall short of the glory of God,
 \v 24 and are justified freely by His grace through the redemption that is in Christ Jesus.
 \p
-\v 25 God presented Him as the atoning sacrifice \f + \fr 3:25 \ft Or as a propitiation\f* through faith in His blood, in order to demonstrate His righteousness, because in His forbearance He had passed over the sins committed beforehand.
+\v 25 God presented Him as the atoning sacrifice\f + \fr 3:25 \ft Or as a propitiation\f* through faith in His blood, in order to demonstrate His righteousness, because in His forbearance He had passed over the sins committed beforehand.
 \v 26 He did this to demonstrate His righteousness at the present time, so as to be just and to justify the one who has faith in Jesus.
 \p
 \v 27 Where, then, is boasting? It is excluded. On what principle? On that of works? No, but on that of faith.
@@ -168,18 +167,17 @@
 \p
 \v 1 What then shall we say that Abraham, our forefather, has discovered?
 \v 2 If Abraham was indeed justified by works, he had something to boast about, but not before God.
-\v 3 For what does the Scripture say? “Abraham believed God, and it was credited to him as righteousness.”\f + \fr 4:3 \ft Genesis 15:6\f*
+\v 3 For what does the Scripture say? “Abraham believed God, and it was credited to him as righteousness.”\f + \fr 4:3 \ft \+xt Genesis 15:6\+xt*\f*
 \p
 \v 4 Now the wages of the worker are not credited as a gift, but as an obligation.
 \v 5 However, to the one who does not work, but believes in Him who justifies the wicked, his faith is credited as righteousness.
 \v 6 And David speaks likewise of the blessedness of the man to whom God credits righteousness apart from works:
-\b
 \q1
 \v 7 “Blessed are they whose lawless acts are forgiven,
 \q2 whose sins are covered.
 \q1
 \v 8 Blessed is the man
-\q2 whose sin the Lord will never count against him.”\f + \fr 4:8 \ft Psalm 32:1–2 (see also LXX)\f*
+\q2 whose sin the Lord will never count against him.”\f + \fr 4:8 \ft \+xt Psalm 32:1–2\+xt* (see also LXX)\f*
 \p
 \v 9 Is this blessing only on the circumcised, or also on the uncircumcised? We have been saying that Abraham’s faith was credited to him as righteousness.
 \v 10 In what context was it credited? Was it after his circumcision, or before? It was not after, but before.\f + \fr 4:10 \ft Literally How then was it reckoned—being in circumcision, or in uncircumcision? Not in circumcision, but in uncircumcision.\f*
@@ -194,13 +192,13 @@
 \v 15 because the law brings wrath. And where there is no law, there is no transgression.
 \p
 \v 16 Therefore, the promise comes by faith, so that it may rest on grace and may be guaranteed to all Abraham’s offspring—not only to those who are of the law, but also to those who are of the faith of Abraham. He is the father of us all.
-\v 17 As it is written: “I have made you a father of many nations.”\f + \fr 4:17 \ft Genesis 17:5\f* He is our father in the presence of God, in whom he believed, the God who gives life to the dead and calls into being what does not yet exist.
+\v 17 As it is written: “I have made you a father of many nations.”\f + \fr 4:17 \ft \+xt Genesis 17:5\+xt*\f* He is our father in the presence of God, in whom he believed, the God who gives life to the dead and calls into being what does not yet exist.
 \p
-\v 18 Against all hope, Abraham in hope believed and so became the father of many nations, just as he had been told, “So shall your offspring be.”\f + \fr 4:18 \ft Genesis 15:5\f*
+\v 18 Against all hope, Abraham in hope believed and so became the father of many nations, just as he had been told, “So shall your offspring be.”\f + \fr 4:18 \ft \+xt Genesis 15:5\+xt*\f*
 \v 19 Without weakening in his faith, he acknowledged the decrepitness of his body (since he was about a hundred years old) and the lifelessness of Sarah’s womb.
 \v 20 Yet he did not waver through disbelief in the promise of God, but was strengthened in his faith and gave glory to God,
 \v 21 being fully persuaded that God was able to do what He had promised.
-\v 22 This is why “it was credited to him as righteousness.”\f + \fr 4:22 \ft Genesis 15:6\f*
+\v 22 This is why “it was credited to him as righteousness.”\f + \fr 4:22 \ft \+xt Genesis 15:6\+xt*\f*
 \p
 \v 23 Now the words “it was credited to him” were written not only for Abraham,
 \v 24 but also for us, to whom righteousness will be credited—for us who believe in Him who raised Jesus our Lord from the dead.
@@ -208,8 +206,8 @@
 \c 5
 \s1 The Triumph of Faith
 \p
-\v 1 Therefore, since we have been justified through faith, we have \f + \fr 5:1 \ft Or let us have\f* peace with God through our Lord Jesus Christ,
-\v 2 through whom we have gained access by faith into this grace in which we stand. And we rejoice \f + \fr 5:2 \ft Or exult; also in verses 3 and 11\f* in the hope of the glory of God.
+\v 1 Therefore, since we have been justified through faith, we have\f + \fr 5:1 \ft Or let us have\f* peace with God through our Lord Jesus Christ,
+\v 2 through whom we have gained access by faith into this grace in which we stand. And we rejoice\f + \fr 5:2 \ft Or exult; also in verses 3 and 11\f* in the hope of the glory of God.
 \p
 \v 3 Not only that, but we also rejoice in our sufferings, because we know that suffering produces perseverance;
 \v 4 perseverance, character; and character, hope.
@@ -287,7 +285,7 @@
 \v 6 But now, having died to what bound us, we have been released from the law, so that we serve in the new way of the Spirit, and not in the old way of the written code.
 \s1 God’s Law Is Holy
 \p
-\v 7 What then shall we say? Is the law sin? Certainly not! Indeed, I would not have been mindful of sin if not for the law. For I would not have been aware of coveting if the law had not said, “Do not covet.”\f + \fr 7:7 \ft Exodus 20:17; Deuteronomy 5:21\f*
+\v 7 What then shall we say? Is the law sin? Certainly not! Indeed, I would not have been mindful of sin if not for the law. For I would not have been aware of coveting if the law had not said, “Do not covet.”\f + \fr 7:7 \ft \+xt Exodus 20:17\+xt*; \+xt Deuteronomy 5:21\+xt*\f*
 \v 8 But sin, seizing its opportunity through the commandment, produced in me every kind of covetous desire. For apart from the law, sin is dead.
 \p
 \v 9 Once I was alive apart from the law; but when the commandment came, sin sprang to life and I died.
@@ -320,18 +318,18 @@
 \r (Ezekiel 36:16–38; Galatians 5:16–26)
 \p
 \v 1 Therefore, there is now no condemnation for those who are in Christ Jesus.\f + \fr 8:1 \ft BYZ and TR in Christ Jesus, who do not walk according to the flesh but according to the Spirit.\f*
-\v 2 For in Christ Jesus the law of the Spirit of life set you \f + \fr 8:2 \ft BYZ and TR me\f* free from the law of sin and death.
+\v 2 For in Christ Jesus the law of the Spirit of life set you\f + \fr 8:2 \ft BYZ and TR me\f* free from the law of sin and death.
 \v 3 For what the law was powerless to do in that it was weakened by the flesh, God did by sending His own Son in the likeness of sinful man, as an offering for sin.\f + \fr 8:3 \ft Literally in the likeness of sinful flesh and for sin\f* He thus condemned sin in the flesh,
 \v 4 so that the righteous standard of the law might be fulfilled in us, who do not walk according to the flesh but according to the Spirit.
 \p
 \v 5 Those who live according to the flesh set their minds on the things of the flesh; but those who live according to the Spirit set their minds on the things of the Spirit.
 \v 6 The mind of the flesh is death, but the mind of the Spirit is life and peace,
 \v 7 because the mind of the flesh is hostile to God: It does not submit to God’s law, nor can it do so.
-\v 8 Those controlled by the flesh \f + \fr 8:8 \ft Literally Those being in the flesh; similarly in verse 9\f* cannot please God.
+\v 8 Those controlled by the flesh\f + \fr 8:8 \ft Literally Those being in the flesh; similarly in verse 9\f* cannot please God.
 \p
 \v 9 You, however, are controlled not by the flesh, but by the Spirit, if the Spirit of God lives in you. And if anyone does not have the Spirit of Christ, he does not belong to Christ.
-\v 10 But if Christ is in you, your body is dead because of sin, yet your spirit is alive \f + \fr 8:10 \ft Or yet the Spirit is life\f* because of righteousness.
-\v 11 And if the Spirit of Him who raised Jesus from the dead is living in you, He who raised Christ Jesus from the dead \f + \fr 8:11 \ft NA, BYZ, and TR raised Christ from the dead\f* will also give life to your mortal bodies through His Spirit, who lives in you.
+\v 10 But if Christ is in you, your body is dead because of sin, yet your spirit is alive\f + \fr 8:10 \ft Or yet the Spirit is life\f* because of righteousness.
+\v 11 And if the Spirit of Him who raised Jesus from the dead is living in you, He who raised Christ Jesus from the dead\f + \fr 8:11 \ft NA, BYZ, and TR raised Christ from the dead\f* will also give life to your mortal bodies through His Spirit, who lives in you.
 \s1 Heirs with Christ
 \p
 \v 12 Therefore, brothers, we have an obligation, but it is not to the flesh, to live according to it.
@@ -372,9 +370,8 @@
 \p
 \v 35 Who shall separate us from the love of Christ? Shall trouble or distress or persecution or famine or nakedness or danger or sword?
 \v 36 As it is written:
-\b
 \q1 “For Your sake we face death all day long;
-\q2 we are considered as sheep to be slaughtered.”\f + \fr 8:36 \ft Psalm 44:22\f*
+\q2 we are considered as sheep to be slaughtered.”\f + \fr 8:36 \ft \+xt Psalm 44:22\+xt*\f*
 \p
 \v 37 No, in all these things we are more than conquerors through Him who loved us.
 \v 38 For I am convinced that neither death nor life, neither angels nor principalities, neither the present nor the future, nor any powers,
@@ -391,68 +388,62 @@
 \r (Genesis 25:19–28; Malachi 1:1–5)
 \p
 \v 6 It is not as though God’s word has failed. For not all who are descended from Israel are Israel.
-\v 7 Nor because they are Abraham’s descendants are they all his children. On the contrary, “Through Isaac your offspring will be reckoned.”\f + \fr 9:7 \ft Genesis 21:12\f*
+\v 7 Nor because they are Abraham’s descendants are they all his children. On the contrary, “Through Isaac your offspring will be reckoned.”\f + \fr 9:7 \ft \+xt Genesis 21:12\+xt*\f*
 \v 8 So it is not the children of the flesh who are God’s children, but it is the children of the promise who are regarded as offspring.
-\v 9 For this is what the promise stated: “At the appointed time I will return, and Sarah will have a son.”\f + \fr 9:9 \ft Genesis 18:14\f*
+\v 9 For this is what the promise stated: “At the appointed time I will return, and Sarah will have a son.”\f + \fr 9:9 \ft \+xt Genesis 18:14\+xt*\f*
 \p
 \v 10 Not only that, but Rebecca’s children were conceived by one man, our father Isaac.
 \v 11 Yet before the twins were born or had done anything good or bad, in order that God’s plan of election might stand,
-\v 12 not by works but by Him who calls, she was told, “The older will serve the younger.”\f + \fr 9:12 \ft Genesis 25:23\f*
-\v 13 So it is written: “Jacob I loved, but Esau I hated.”\f + \fr 9:13 \ft Malachi 1:2–3\f*
+\v 12 not by works but by Him who calls, she was told, “The older will serve the younger.”\f + \fr 9:12 \ft \+xt Genesis 25:23\+xt*\f*
+\v 13 So it is written: “Jacob I loved, but Esau I hated.”\f + \fr 9:13 \ft \+xt Malachi 1:2–3\+xt*\f*
 \p
 \v 14 What then shall we say? Is God unjust? Certainly not!
 \v 15 For He says to Moses:
-\b
 \q1 “I will have mercy on whom I have mercy,
-\q2 and I will have compassion on whom I have compassion.”\f + \fr 9:15 \ft Exodus 33:19\f*
+\q2 and I will have compassion on whom I have compassion.”\f + \fr 9:15 \ft \+xt Exodus 33:19\+xt*\f*
 \p
 \v 16 So then, it does not depend on man’s desire or effort, but on God’s mercy.
-\v 17 For the Scripture says to Pharaoh: “I raised you up for this very purpose, that I might display My power in you, and that My name might be proclaimed in all the earth.”\f + \fr 9:17 \ft Exodus 9:16 (see also LXX)\f*
+\v 17 For the Scripture says to Pharaoh: “I raised you up for this very purpose, that I might display My power in you, and that My name might be proclaimed in all the earth.”\f + \fr 9:17 \ft \+xt Exodus 9:16\+xt* (see also LXX)\f*
 \v 18 Therefore God has mercy on whom He wants to have mercy, and He hardens whom He wants to harden.
 \p
 \v 19 One of you will say to me, “Then why does God still find fault? For who can resist His will?”
-\v 20 But who are you, O man, to talk back to God? Shall what is formed say to Him who formed it, “Why did You make me like this?”\f + \fr 9:20 \ft Isaiah 29:16; Isaiah 45:9\f*
+\v 20 But who are you, O man, to talk back to God? Shall what is formed say to Him who formed it, “Why did You make me like this?”\f + \fr 9:20 \ft \+xt Isaiah 29:16\+xt*; \+xt Isaiah 45:9\+xt*\f*
 \v 21 Does not the potter have the right to make from the same lump of clay one vessel for special occasions and another for common use?
 \p
 \v 22 What if God, intending to show His wrath and make His power known, bore with great patience the vessels of His wrath, prepared for destruction?
 \v 23 What if He did this to make the riches of His glory known to the vessels of His mercy, whom He prepared in advance for glory—
 \v 24 including us, whom He has called not only from the Jews, but also from the Gentiles?
 \v 25 As He says in Hosea:
-\b
 \q1 “I will call them ‘My People’ who are not My people,
-\q2 and I will call her ‘My Beloved’ who is not My beloved,”\f + \fr 9:25 \ft Hosea 2:23\f*
+\q2 and I will call her ‘My Beloved’ who is not My beloved,”\f + \fr 9:25 \ft \+xt Hosea 2:23\+xt*\f*
 \p
 \v 26 and,
-\b
 \q1 “It will happen that in the very place where it was said to them,
 \q2 ‘You are not My people,’
 \q1 they will be called
-\q2 ‘sons of the living God.’”\f + \fr 9:26 \ft Hosea 1:10\f*
+\q2 ‘sons of the living God.’”\f + \fr 9:26 \ft \+xt Hosea 1:10\+xt*\f*
 \p
 \v 27 Isaiah cries out concerning Israel:
-\b
 \q1 “Though the number of the Israelites is like the sand of the sea,
 \q2 only the remnant will be saved.
 \q1
 \v 28 For the Lord will carry out His sentence on the earth
-\q2 thoroughly and decisively.”\f + \fr 9:28 \ft Isaiah 10:22–23 (see also LXX)\f*
+\q2 thoroughly and decisively.”\f + \fr 9:28 \ft \+xt Isaiah 10:22–23\+xt* (see also LXX)\f*
 \p
 \v 29 It is just as Isaiah foretold:
-\b
 \q1 “Unless the Lord of Hosts had left us descendants,
 \q2 we would have become like Sodom,
-\q2 we would have resembled Gomorrah.”\f + \fr 9:29 \ft Isaiah 1:9 (see also LXX)\f*
+\q2 we would have resembled Gomorrah.”\f + \fr 9:29 \ft \+xt Isaiah 1:9\+xt* (see also LXX)\f*
 \s1 Israel’s Unbelief
 \p
 \v 30 What then will we say? That the Gentiles, who did not pursue righteousness, have obtained it, a righteousness that is by faith;
 \v 31 but Israel, who pursued a law of righteousness, has not attained it.
 \v 32 Why not? Because their pursuit was not by faith, but as if it were by works. They stumbled over the stumbling stone,
 \v 33 as it is written:
-\b
 \q1 “See, I lay in Zion a stone of stumbling
-\q2 and a rock of offense;\f + \fr 9:33 \ft Isaiah 8:14\f*
+\q2 and a rock of offense;\f + \fr 9:33 \ft \+xt Isaiah 8:14\+xt*\f*
 \q1 and the one who believes in Him
-\q2 will never be put to shame.”\f + \fr 9:33 \ft Isaiah 28:16 (see also LXX)\f*
+\q2 will never be put to shame.”\f + \fr 9:33 \ft \+xt Isaiah 28:16\+xt* (see also LXX)\f*
 \c 10
 \s1 The Word Brings Salvation
 \r (Isaiah 65:1–16)
@@ -462,70 +453,64 @@
 \v 3 Because they were ignorant of God’s righteousness and sought to establish their own, they did not submit to God’s righteousness.
 \v 4 For Christ is the end of the law, to bring righteousness to everyone who believes.
 \p
-\v 5 For concerning the righteousness that is by the law, Moses writes: “The man who does these things will live by them.”\f + \fr 10:5 \ft Leviticus 18:5; see also Ezekiel 20:11, 13, and 21.\f*
-\v 6 But the righteousness that is by faith says: “Do not say in your heart, ‘Who will ascend into heaven?’\f + \fr 10:6 \ft Deuteronomy 30:12\f* (that is, to bring Christ down)
-\v 7 or, ‘Who will descend into the Abyss?’\f + \fr 10:7 \ft See Deuteronomy 30:13.\f* (that is, to bring Christ up from the dead).”
+\v 5 For concerning the righteousness that is by the law, Moses writes: “The man who does these things will live by them.”\f + \fr 10:5 \ft \+xt Leviticus 18:5\+xt*; see also \+xt Ezekiel 20:11, 13, and 21\+xt*.\f*
+\v 6 But the righteousness that is by faith says: “Do not say in your heart, ‘Who will ascend into heaven?’\f + \fr 10:6 \ft \+xt Deuteronomy 30:12\+xt*\f* (that is, to bring Christ down)
+\v 7 or, ‘Who will descend into the Abyss?’\f + \fr 10:7 \ft See \+xt Deuteronomy 30:13\+xt*.\f* (that is, to bring Christ up from the dead).”
 \p
-\v 8 But what does it say? “The word is near you; it is in your mouth and in your heart,”\f + \fr 10:8 \ft Deuteronomy 30:14\f* that is, the word of faith we are proclaiming:
+\v 8 But what does it say? “The word is near you; it is in your mouth and in your heart,”\f + \fr 10:8 \ft \+xt Deuteronomy 30:14\+xt*\f* that is, the word of faith we are proclaiming:
 \v 9 that if you confess with your mouth, “Jesus is Lord,” and believe in your heart that God raised Him from the dead, you will be saved.
 \v 10 For with your heart you believe and are justified, and with your mouth you confess and are saved.
 \p
-\v 11 It is just as the Scripture says: “Anyone who believes in Him will never be put to shame.”\f + \fr 10:11 \ft Isaiah 28:16 (see also LXX)\f*
+\v 11 It is just as the Scripture says: “Anyone who believes in Him will never be put to shame.”\f + \fr 10:11 \ft \+xt Isaiah 28:16\+xt* (see also LXX)\f*
 \v 12 For there is no difference between Jew and Greek: The same Lord is Lord of all, and gives richly to all who call on Him,
-\v 13 for, “Everyone who calls on the name of the Lord will be saved.”\f + \fr 10:13 \ft Joel 2:32\f*
+\v 13 for, “Everyone who calls on the name of the Lord will be saved.”\f + \fr 10:13 \ft \+xt Joel 2:32\+xt*\f*
 \p
 \v 14 How then can they call on the One in whom they have not believed? And how can they believe in the One of whom they have not heard? And how can they hear without someone to preach?
-\v 15 And how can they preach unless they are sent? As it is written: “How beautiful are the feet of those who bring good news!”\f + \fr 10:15 \ft Literally good news of good things; BYZ and TR How beautiful are the feet of those who bring good news of peace, who bring good news of good things; Isaiah 52:7\f*
+\v 15 And how can they preach unless they are sent? As it is written: “How beautiful are the feet of those who bring good news!”\f + \fr 10:15 \ft Literally good news of good things; BYZ and TR How beautiful are the feet of those who bring good news of peace, who bring good news of good things; \+xt Isaiah 52:7\+xt*\f*
 \p
-\v 16 But not all of them welcomed the good news. For Isaiah says, “Lord, who has believed our message?”\f + \fr 10:16 \ft Isaiah 53:1\f*
+\v 16 But not all of them welcomed the good news. For Isaiah says, “Lord, who has believed our message?”\f + \fr 10:16 \ft \+xt Isaiah 53:1\+xt*\f*
 \v 17 Consequently, faith comes by hearing, and hearing by the word of Christ.
 \p
 \v 18 But I ask, did they not hear? Indeed they did:
-\b
 \q1 “Their voice has gone out into all the earth,
-\q2 their words to the ends of the world.”\f + \fr 10:18 \ft Psalm 19:4 (see also LXX)\f*
+\q2 their words to the ends of the world.”\f + \fr 10:18 \ft \+xt Psalm 19:4\+xt* (see also LXX)\f*
 \p
 \v 19 I ask instead, did Israel not understand? First, Moses says:
-\b
 \q1 “I will make you jealous by those who are not a nation;
-\q2 I will make you angry by a nation without understanding.”\f + \fr 10:19 \ft Deuteronomy 32:21 (see also LXX)\f*
+\q2 I will make you angry by a nation without understanding.”\f + \fr 10:19 \ft \+xt Deuteronomy 32:21\+xt* (see also LXX)\f*
 \p
 \v 20 And Isaiah boldly says:
-\b
 \q1 “I was found by those who did not seek Me;
-\q2 I revealed Myself to those who did not ask for Me.”\f + \fr 10:20 \ft Isaiah 65:1\f*
+\q2 I revealed Myself to those who did not ask for Me.”\f + \fr 10:20 \ft \+xt Isaiah 65:1\+xt*\f*
 \p
 \v 21 But as for Israel he says:
-\b
 \q1 “All day long I have held out My hands
-\q2 to a disobedient and obstinate people.”\f + \fr 10:21 \ft Isaiah 65:2 (see also LXX)\f*
+\q2 to a disobedient and obstinate people.”\f + \fr 10:21 \ft \+xt Isaiah 65:2\+xt* (see also LXX)\f*
 \c 11
 \s1 A Remnant Chosen by Grace
 \p
 \v 1 I ask then, did God reject His people? Certainly not! I am an Israelite myself, a descendant of Abraham, from the tribe of Benjamin.
 \v 2 God did not reject His people, whom He foreknew. Do you not know what the Scripture says about Elijah, how he appealed to God against Israel:
-\v 3 “Lord, they have killed Your prophets and torn down Your altars. I am the only one left, and they are seeking my life as well”\f + \fr 11:3 \ft 1 Kings 19:10, 14\f*?
+\v 3 “Lord, they have killed Your prophets and torn down Your altars. I am the only one left, and they are seeking my life as well”\f + \fr 11:3 \ft \+xt 1 Kings 19:10, 14\+xt*\f*?
 \p
-\v 4 And what was the divine reply to him? “I have reserved for Myself seven thousand men who have not bowed the knee to Baal.”\f + \fr 11:4 \ft 1 Kings 19:18\f*
+\v 4 And what was the divine reply to him? “I have reserved for Myself seven thousand men who have not bowed the knee to Baal.”\f + \fr 11:4 \ft \+xt 1 Kings 19:18\+xt*\f*
 \p
 \v 5 In the same way, at the present time there is a remnant chosen by grace.
 \v 6 And if it is by grace, then it is no longer by works. Otherwise, grace would no longer be grace.\f + \fr 11:6 \ft BYZ and TR include But if it is by works, then it is no longer grace; otherwise work is no longer work.\f*
 \p
 \v 7 What then? What Israel was seeking, it failed to obtain, but the elect did. The others were hardened,
 \v 8 as it is written:
-\b
 \q1 “God gave them a spirit of stupor,
 \q2 eyes that could not see,
 \q2 and ears that could not hear,
-\q1 to this very day.”\f + \fr 11:8 \ft See Deuteronomy 29:4 and Isaiah 29:10.\f*
+\q1 to this very day.”\f + \fr 11:8 \ft See \+xt Deuteronomy 29:4\+xt* and \+xt Isaiah 29:10\+xt*.\f*
 \p
 \v 9 And David says:
-\b
 \q1 “May their table become a snare and a trap,
 \q2 a stumbling block and a retribution to them.
 \q1
 \v 10 May their eyes be darkened so they cannot see,
-\q2 and their backs be bent forever.”\f + \fr 11:10 \ft Psalm 69:22–23 (see also LXX)\f*
+\q2 and their backs be bent forever.”\f + \fr 11:10 \ft \+xt Psalm 69:22–23\+xt* (see also LXX)\f*
 \s1 The Ingrafting of the Gentiles
 \p
 \v 11 I ask then, did they stumble so as to fall beyond recovery?\f + \fr 11:11 \ft Or did they stumble so as to lose their share? Literally did they stumble that they might fall?\f* Certainly not! However, because of their trespass, salvation has come to the Gentiles to make Israel jealous.
@@ -541,7 +526,7 @@
 \p
 \v 19 You will say then, “Branches were broken off so that I could be grafted in.”
 \v 20 That is correct: They were broken off because of unbelief, but you stand by faith. Do not be arrogant, but be afraid.
-\v 21 For if God did not spare the natural branches, He will certainly not \f + \fr 11:21 \ft Or He will perhaps not; SBL, NE, and WH He will not\f* spare you either.
+\v 21 For if God did not spare the natural branches, He will certainly not\f + \fr 11:21 \ft Or He will perhaps not; SBL, NE, and WH He will not\f* spare you either.
 \p
 \v 22 Take notice, therefore, of the kindness and severity of God: severity to those who fell, but kindness to you, if you continue in His kindness. Otherwise you also will be cut off.
 \v 23 And if they do not persist in unbelief, they will be grafted in, for God is able to graft them in again.
@@ -550,12 +535,11 @@
 \p
 \v 25 I do not want you to be ignorant of this mystery, brothers, so that you will not be conceited: A hardening in part has come to Israel, until the full number of the Gentiles has come in.
 \v 26 And so all Israel will be saved, as it is written:
-\b
 \q1 “The Deliverer will come from Zion;
 \q2 He will remove godlessness from Jacob.
 \q1
 \v 27 And this is My covenant with them
-\q2 when I take away their sins.”\f + \fr 11:27 \ft Isaiah 27:9 and Isaiah 59:20–21; see also LXX\f*
+\q2 when I take away their sins.”\f + \fr 11:27 \ft \+xt Isaiah 27:9\+xt* and \+xt Isaiah 59:20–21\+xt*; see also LXX\f*
 \p
 \v 28 Regarding the gospel, they are enemies on your account; but regarding election, they are loved on account of the patriarchs.
 \v 29 For God’s gifts and His call are irrevocable.
@@ -565,7 +549,6 @@
 \v 32 For God has consigned everyone to disobedience so that He may have mercy on everyone.
 \s1 A Hymn of Praise
 \r (Isaiah 40:9–31)
-\b
 \q1
 \v 33 O, the depth of the riches
 \q2 of the wisdom and knowledge of God!
@@ -573,10 +556,10 @@
 \q2 and untraceable His ways!
 \q1
 \v 34 “Who has known the mind of the Lord?
-\q2 Or who has been His counselor?”\f + \fr 11:34 \ft Isaiah 40:13 (see also LXX)\f*
+\q2 Or who has been His counselor?”\f + \fr 11:34 \ft \+xt Isaiah 40:13\+xt* (see also LXX)\f*
 \q1
 \v 35 “Who has first given to God,
-\q2 that God should repay him?”\f + \fr 11:35 \ft Job 41:11\f*
+\q2 that God should repay him?”\f + \fr 11:35 \ft \+xt Job 41:11\+xt*\f*
 \q1
 \v 36 For from Him and through Him and to Him are all things.
 \q2 To Him be the glory forever! Amen.
@@ -615,14 +598,13 @@
 \v 17 Do not repay anyone evil for evil. Carefully consider what is right in the eyes of everybody.
 \v 18 If it is possible on your part, live at peace with everyone.
 \p
-\v 19 Do not avenge yourselves, beloved, but leave room for God’s wrath. For it is written: “Vengeance is Mine; I will repay, says the Lord.”\f + \fr 12:19 \ft Deuteronomy 32:35 (see also LXX)\f*
+\v 19 Do not avenge yourselves, beloved, but leave room for God’s wrath. For it is written: “Vengeance is Mine; I will repay, says the Lord.”\f + \fr 12:19 \ft \+xt Deuteronomy 32:35\+xt* (see also LXX)\f*
 \p
 \v 20 On the contrary,
-\b
 \q1 “If your enemy is hungry, feed him;
 \q2 if he is thirsty, give him a drink.
 \q1 For in so doing,
-\q2 you will heap burning coals on his head.”\f + \fr 12:20 \ft Proverbs 25:21–22 (see also LXX)\f*
+\q2 you will heap burning coals on his head.”\f + \fr 12:20 \ft \+xt Proverbs 25:21–22\+xt* (see also LXX)\f*
 \p
 \v 21 Do not be overcome by evil, but overcome evil with good.
 \c 13
@@ -642,7 +624,7 @@
 \r (Leviticus 19:9–18)
 \p
 \v 8 Be indebted to no one, except to one another in love. For he who loves his neighbor has fulfilled the law.
-\v 9 The commandments “Do not commit adultery,” “Do not murder,” “Do not steal,” “Do not covet,”\f + \fr 13:9 \ft Exodus 20:13–17; Deuteronomy 5:17–21\f* and any other commandments, are summed up in this one decree: “Love your neighbor as yourself.”\f + \fr 13:9 \ft Leviticus 19:18\f*
+\v 9 The commandments “Do not commit adultery,” “Do not murder,” “Do not steal,” “Do not covet,”\f + \fr 13:9 \ft \+xt Exodus 20:13–17\+xt*; \+xt Deuteronomy 5:17–21\+xt*\f* and any other commandments, are summed up in this one decree: “Love your neighbor as yourself.”\f + \fr 13:9 \ft \+xt Leviticus 19:18\+xt*\f*
 \v 10 Love does no wrong to its neighbor. Therefore love is the fulfillment of the law.
 \s1 The Day Is Near
 \p
@@ -668,11 +650,10 @@
 \p
 \v 10 Why, then, do you judge your brother? Or why do you belittle your brother? For we will all stand before God’s judgment seat.
 \v 11 It is written:
-\b
 \q1 “As surely as I live,
 \q2 says the Lord,
 \q1 every knee will bow before Me;
-\q2 every tongue will confess to God.”\f + \fr 14:11 \ft Or will give praise to God or will acknowledge God; Isaiah 45:23 (see also LXX)\f*
+\q2 every tongue will confess to God.”\f + \fr 14:11 \ft Or will give praise to God or will acknowledge God; \+xt Isaiah 45:23\+xt* (see also LXX)\f*
 \p
 \v 12 So then, each of us will give an account of himself to God.
 \s1 The Law of Love
@@ -692,13 +673,13 @@
 \v 21 It is better not to eat meat or drink wine or to do anything to cause your brother to stumble.\f + \fr 14:21 \ft SBL, BYZ, and TR include or to be hindered or weakened.\f*
 \p
 \v 22 Keep your belief about such matters between yourself and God.\f + \fr 14:22 \ft Literally Keep the faith that you have to yourself before God\f* Blessed is the one who does not condemn himself by what he approves.
-\v 23 But the one who has doubts is condemned if he eats, because his eating is not from faith; and everything that is not from faith is sin.\f + \fr 14:23 \ft Some manuscripts place the text of Romans 16:25–27 here.\f*
+\v 23 But the one who has doubts is condemned if he eats, because his eating is not from faith; and everything that is not from faith is sin.\f + \fr 14:23 \ft Some manuscripts place the text of \+xt Romans 16:25–27\+xt* here.\f*
 \c 15
 \s1 Accept One Another
 \p
 \v 1 We who are strong ought to bear with the shortcomings of the weak and not to please ourselves.
 \v 2 Each of us should please his neighbor for his good, to build him up.
-\v 3 For even Christ did not please Himself, but as it is written: “The insults of those who insult You have fallen on Me.”\f + \fr 15:3 \ft Psalm 69:9\f*
+\v 3 For even Christ did not please Himself, but as it is written: “The insults of those who insult You have fallen on Me.”\f + \fr 15:3 \ft \+xt Psalm 69:9\+xt*\f*
 \v 4 For everything that was written in the past was written for our instruction, so that through endurance and the encouragement of the Scriptures, we might have hope.
 \p
 \v 5 Now may the God who gives endurance and encouragement grant you harmony with one another in Christ Jesus,
@@ -708,24 +689,20 @@
 \v 7 Accept one another, then, just as Christ accepted you, in order to bring glory to God.
 \v 8 For I tell you that Christ has become a servant of the circumcised on behalf of God’s truth, to confirm the promises made to the patriarchs,
 \v 9 so that the Gentiles may glorify God for His mercy. As it is written:
-\b
 \q1 “Therefore I will praise You among the Gentiles;
-\q2 I will sing hymns to Your name.”\f + \fr 15:9 \ft 2 Samuel 22:50; Psalm 18:49\f*
+\q2 I will sing hymns to Your name.”\f + \fr 15:9 \ft \+xt 2 Samuel 22:50\+xt*; \+xt Psalm 18:49\+xt*\f*
 \p
 \v 10 Again, it says:
-\b
-\q1 “Rejoice, O Gentiles, with His people.”\f + \fr 15:10 \ft Deuteronomy 32:43\f*
+\q1 “Rejoice, O Gentiles, with His people.”\f + \fr 15:10 \ft \+xt Deuteronomy 32:43\+xt*\f*
 \p
 \v 11 And again:
-\b
 \q1 “Praise the Lord, all you Gentiles,
-\q2 and extol Him, all you peoples.”\f + \fr 15:11 \ft Psalm 117:1\f*
+\q2 and extol Him, all you peoples.”\f + \fr 15:11 \ft \+xt Psalm 117:1\+xt*\f*
 \p
 \v 12 And once more, Isaiah says:
-\b
 \q1 “The Root of Jesse will appear,
 \q2 One who will arise to rule over the Gentiles;
-\q2 in Him the Gentiles will put their hope.”\f + \fr 15:12 \ft Isaiah 11:10 (see also LXX)\f*
+\q2 in Him the Gentiles will put their hope.”\f + \fr 15:12 \ft \+xt Isaiah 11:10\+xt* (see also LXX)\f*
 \p
 \v 13 Now may the God of hope fill you with all joy and peace as you believe in Him, so that you may overflow with hope by the power of the Holy Spirit.
 \s1 Paul the Minister to the Gentiles
@@ -740,9 +717,8 @@
 \p
 \v 20 In this way I have aspired to preach the gospel where Christ was not known, so that I would not be building on someone else’s foundation.
 \v 21 Rather, as it is written:
-\b
 \q1 “Those who were not told about Him will see,
-\q2 and those who have not heard will understand.”\f + \fr 15:21 \ft Isaiah 52:15 (see also LXX)\f*
+\q2 and those who have not heard will understand.”\f + \fr 15:21 \ft \+xt Isaiah 52:15\+xt* (see also LXX)\f*
 \p
 \v 22 That is why I have often been hindered from coming to you.
 \s1 Paul’s Travel Plans
@@ -756,23 +732,23 @@
 \v 27 They were pleased to do it, and indeed they owe it to them. For if the Gentiles have shared in their spiritual blessings, they are obligated to minister to them with material blessings.
 \p
 \v 28 So after I have completed this service and have safely delivered this bounty to them, I will set off to Spain by way of you.
-\v 29 I know that when I come to you, I will come in the fullness of the blessing \f + \fr 15:29 \ft TR and BYZ include of the gospel.\f* of Christ.
+\v 29 I know that when I come to you, I will come in the fullness of the blessing\f + \fr 15:29 \ft TR and BYZ include of the gospel.\f* of Christ.
 \p
 \v 30 Now I urge you, brothers, by our Lord Jesus Christ and by the love of the Spirit, to join me in my struggle by praying to God for me.
 \v 31 Pray that I may be delivered from the unbelievers in Judea, and that my service in Jerusalem may be acceptable to the saints there,
 \v 32 so that by God’s will I may come to you with joy and together with you be refreshed.
 \p
-\v 33 The God of peace be with all of you. Amen.\f + \fr 15:33 \ft Some manuscripts do not include Amen. One early manuscript places the text of Romans 16:25–27 here.\f*
+\v 33 The God of peace be with all of you. Amen.\f + \fr 15:33 \ft Some manuscripts do not include Amen. One early manuscript places the text of \+xt Romans 16:25–27\+xt* here.\f*
 \c 16
 \s1 Personal Greetings and Love
 \p
-\v 1 I commend to you our sister Phoebe, a servant \f + \fr 16:1 \ft Or deaconess\f* of the church in Cenchrea.
+\v 1 I commend to you our sister Phoebe, a servant\f + \fr 16:1 \ft Or deaconess\f* of the church in Cenchrea.
 \v 2 Welcome her in the Lord in a manner worthy of the saints, and assist her with anything she may need from you. For she has been a great help to many people, including me.
 \p
-\v 3 Greet Prisca \f + \fr 16:3 \ft Prisca is a variant of Priscilla; see Acts 18:2.\f* and Aquila, my fellow workers in Christ Jesus,
+\v 3 Greet Prisca\f + \fr 16:3 \ft Prisca is a variant of Priscilla; see \+xt Acts 18:2\+xt*.\f* and Aquila, my fellow workers in Christ Jesus,
 \v 4 who have risked their lives for me. Not only I but all the churches of the Gentiles are grateful to them.
 \v 5 Greet also the church that meets at their house.
-\p Greet my beloved Epenetus, who was the first convert to Christ in the province of Asia.\f + \fr 16:5 \ft Literally in Asia; Asia was a Roman province in what is now western Turkey. \f*
+\p Greet my beloved Epenetus, who was the first convert to Christ in the province of Asia.\f + \fr 16:5 \ft Literally in Asia; Asia was a Roman province in what is now western Turkey.\f*
 \p
 \v 6 Greet Mary, who has worked very hard for you.
 \p
@@ -807,7 +783,7 @@
 \p
 \v 19 Everyone has heard about your obedience, so I rejoice over you. But I want you to be wise about what is good and innocent about what is evil.
 \p
-\v 20 The God of peace will soon crush Satan under your feet. The grace of our Lord Jesus Christ \f + \fr 16:20 \ft NA, NE, and WH Lord Jesus\f* be with you.
+\v 20 The God of peace will soon crush Satan under your feet. The grace of our Lord Jesus Christ\f + \fr 16:20 \ft NA, NE, and WH Lord Jesus\f* be with you.
 \s1 Greetings from Paul’s Fellow Workers
 \r (Colossians 4:7–14)
 \p
@@ -821,5 +797,5 @@
 \r (Jude 1:24–25)
 \p
 \v 25 Now to Him who is able to strengthen you by my gospel and by the proclamation of Jesus Christ, according to the revelation of the mystery concealed for ages past
-\v 26 but now revealed and made known through the writings of the prophets by the command of the eternal God, in order to lead all nations to the obedience that comes from faith \f + \fr 16:26 \ft Literally the obedience of faith\f*—
-\v 27 to the only wise God be glory forever through Jesus Christ! Amen.\f + \fr 16:27 \ft Some manuscripts place the text of verses 25–27 after Romans 14:23 or after Romans 15:33.\f*
+\v 26 but now revealed and made known through the writings of the prophets by the command of the eternal God, in order to lead all nations to the obedience that comes from faith\f + \fr 16:26 \ft Literally the obedience of faith\f*—
+\v 27 to the only wise God be glory forever through Jesus Christ! Amen.\f + \fr 16:27 \ft Some manuscripts place the text of verses 25–27 after \+xt Romans 14:23\+xt* or after \+xt Romans 15:33\+xt*.\f*
