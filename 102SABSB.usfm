@@ -1,5 +1,6 @@
-\id 2SA - Berean Study Bible
+\id 2SA - Berean Standard Bible
 \h 2 Samuel
+\toc2 2 Samuel
 \toc1 2 Samuel
 \toc2 2 Samuel
 \toc3 2 Samuel
@@ -7,6 +8,7 @@
 \c 1
 \s1 Saulʼs Death Reported to David
 \r (1 Samuel 31:1–6; 1 Chronicles 10:1–6)
+<<<<<<< HEAD
 \p
 \v 1 After the death of Saul, David returned from the slaughter of the Amalekites and stayed in Ziklag two days.
 \v 2 On the third day a man with torn clothes and dust on his head arrived from Saulʼs camp. When he came to David, he fell to the ground to pay him homage.
@@ -20,7 +22,7 @@
 \v 5 Then David asked the young man who had brought him the report, “How do you know that Saul and his son Jonathan are dead?”
 \p
 \v 6 “I happened to be on Mount Gilboa,” he replied, “and there was Saul, leaning on his spear, with the chariots and the cavalry closing in on him.
-\v 7 When he turned around and saw me, he called out and I answered, ‘Here I am!’
+\v 7 When he turned around and saw me, he called out to me, and I answered, ‘Here I am!’
 \p
 \v 8 ‘Who are you?’ he asked.
 \p So I told him, ‘I am an Amalekite.’
@@ -42,6 +44,7 @@
 \p
 \v 17 Then David took up this lament for Saul and his son Jonathan,
 \v 18 and he ordered that the sons of Judah be taught the Song of the Bow.\f + \fr 1:18 \ft Or be taught the use of the bow; literally be taught the bow\f* It is written in the Book of Jashar:\f + \fr 1:18 \ft Or the Book of the Upright One, commonly cited as Jasher; note that the Song of the Bow that follows is not found in known manuscripts attributed to Jasher.\f*
+\b
 \q1
 \v 19 “Your glory, O Israel, lies slain on your heights.
 \q2 How the mighty have fallen!
@@ -66,7 +69,7 @@
 \q1
 \v 23 Saul and Jonathan, beloved and delightful in life,
 \q2 were not divided in death.
-\q1 They were swifter than eagles,
+\q1 They were swifter than eagles;
 \q2 they were stronger than lions.
 \b
 \q1
@@ -84,7 +87,7 @@
 \q1 your love to me was extraordinary,
 \q2 surpassing the love of women.
 \q1
-\v 27 How the mighty have fallen
+\v 27 How the mighty have fallen,
 \q2 and the weapons of war have perished!”
 \c 2
 \s1 David Anointed King of Judah
@@ -113,7 +116,7 @@
 \s1 The Battle of Gibeon
 \p
 \v 12 One day Abner son of Ner and the servants of Ish-bosheth son of Saul marched out from Mahanaim to Gibeon.
-\v 13 So Joab son of Zeruiah, along with the servants of David, marched out and met them by the pool of Gibeon. And the two camps took up positions on opposite sides of the pool.
+\v 13 So Joab son of Zeruiah and along with the servants of David, marched out and met them by the pool of Gibeon. And the two groups took up positions on opposite sides of the pool.
 \p
 \v 14 Then Abner said to Joab, “Let us have the young men get up and compete before us.”
 \p “Let them get up,” Joab replied.
@@ -133,7 +136,7 @@
 \p
 \v 22 Once again, Abner warned Asahel, “Stop chasing me. Why should I strike you to the ground? How could I show my face to your brother Joab?”
 \p
-\v 23 But Asahel refused to turn away; so Abner thrust the butt of his spear into his stomach, and it came out his back, and he fell dead on the spot. And every man paused when he came to the place where Asahel had fallen and died.
+\v 23 But Asahel refused to turn away. So Abner thrust the butt of his spear into his stomach, and it came out his back, and he fell dead on the spot. And every man paused when he came to the place where Asahel had fallen and died.
 \v 24 But Joab and Abishai pursued Abner. By sunset, they had gone as far as the hill of Ammah opposite Giah on the way to the wilderness of Gibeon.
 \p
 \v 25 The Benjamites rallied to Abner, formed a single unit, and took their stand atop a hill.
@@ -147,7 +150,7 @@
 \v 30 When Joab returned from pursuing Abner, he gathered all the troops.
 \p In addition to Asahel, nineteen of Davidʼs servants were missing,
 \v 31 but they had struck down 360 Benjamites who were with Abner.
-\v 32 Later, they took Asahel and buried him in his fatherʼs tomb in Bethlehem. Then Joab and his men marched all night and reached Hebron at daybreak.
+\v 32 And they took Asahel and buried him in his fatherʼs tomb in Bethlehem. Then Joab and his men marched all night and reached Hebron at daybreak.
 \c 3
 \s1 The House of David Strengthened
 \r (1 Chronicles 3:1–9)
@@ -174,7 +177,7 @@
 \s1 Abner Joins David
 \p
 \v 6 During the war between the house of Saul and the house of David, Abner had continued to strengthen his position in the house of Saul.
-\v 7 Meanwhile, Saul had a concubine named Rizpah, the daughter of Aiah. So Ish-bosheth questioned Abner, “Why did you sleep with my fatherʼs concubine?”
+\v 7 Now Saul had a concubine named Rizpah, the daughter of Aiah. So Ish-bosheth questioned Abner, “Why did you sleep with my fatherʼs concubine?”
 \p
 \v 8 Abner was furious over Ish-boshethʼs accusation. “Am I the head of a dog that belongs to Judah?” he asked. “All this time I have been loyal to the house of your father Saul, to his brothers, and to his friends. I have not delivered you into the hand of David, but now you accuse me of wrongdoing with this woman!
 \v 9 May God punish Abner, and ever so severely, if I do not do for David what the LORD has sworn to him:
@@ -182,7 +185,7 @@
 \p
 \v 11 And for fear of Abner, Ish-bosheth did not dare to say another word to him.
 \p
-\v 12 Then Abner sent messengers in his place to say to David, “To whom does the land belong? Make your covenant with me, and surely my hand will be with you to bring all Israel over to you.”
+\v 12 Then Abner sent messengers on his behalf to say to David, “To whom does the land belong? Make your covenant with me, and surely my hand will be with you to bring all Israel over to you.”
 \p
 \v 13 “Good,” replied David, “I will make a covenant with you. But there is one thing I require of you: Do not appear before me unless you bring Saulʼs daughter Michal when you come to see me.”
 \p
@@ -194,7 +197,7 @@
 \v 17 Now Abner conferred with the elders of Israel and said, “In the past you sought David as your king.
 \v 18 Now take action, because the LORD has said to David, ‘Through My servant David I will save My people Israel from the hands of the Philistines and of all their enemies.’”
 \p
-\v 19 Abner also spoke to the Benjamites and went to Hebron to tell David all that seemed good to Israel and to the whole house of Benjamin.
+\v 19 Abner also spoke to the Benjamites. Then he went to Hebron to tell David all that seemed good to Israel and to the whole house of Benjamin.
 \v 20 When Abner and twenty of his men came to David at Hebron, David held a feast for them.
 \p
 \v 21 Then Abner said to David, “Let me go at once, and I will gather all Israel to my lord the king, that they may make a covenant with you, and that you may rule over all that your heart desires.”
@@ -207,12 +210,12 @@
 \v 24 So Joab went to the king and said, “What have you done? Look, Abner came to you. Why did you dismiss him? Now he is getting away!
 \v 25 Surely you realize that Abner son of Ner came to deceive you and to track your movements and all that you are doing.”
 \p
-\v 26 As soon as Joab had left David, he sent messengers after Abner, who brought him back from the well of Sirah; but David was unaware of it.
+\v 26 As soon as Joab had left David, he sent messengers after Abner, who brought him back from the well of Sirah. But David was unaware of it.
 \p
 \v 27 When Abner returned to Hebron, Joab pulled him aside into the gateway, as if to speak to him privately, and there Joab stabbed him in the stomach. So Abner died on account of the blood of Joabʼs brother Asahel.
 \p
 \v 28 Afterward, David heard about this and said, “I and my kingdom are forever guiltless before the LORD concerning the blood of Abner son of Ner.
-\v 29 May it whirl over the heads of Joab and the entire house of his father, and may the house of Joab never be without one having a discharge or skin disease, or one who leans on a staff or falls by the sword or lacks food.”
+\v 29 May it whirl over the heads of Joab and over the entire house of his father, and may the house of Joab never be without one having a discharge or skin disease, or one who leans on a staff or falls by the sword or lacks food.”
 \p
 \v 30 (Joab and his brother Abishai murdered Abner because he had killed their brother Asahel in the battle at Gibeon.)
 \s1 David Mourns for Abner
@@ -221,6 +224,7 @@
 \p
 \v 32 When they buried Abner in Hebron, the king wept aloud at Abnerʼs tomb, and all the people wept.
 \v 33 And the king sang this lament for Abner:
+\b
 \q1 “Should Abner die
 \q2 the death of a fool?
 \q1
@@ -297,14 +301,14 @@
 \p
 \v 18 Now the Philistines had come and spread out in the Valley of Rephaim.
 \v 19 So David inquired of the LORD, “Should I go up against the Philistines? Will You deliver them into my hand?”
-\p “Go,” replied the LORD, “for I will surely deliver the Philistines into your hand.”
+\p “Go up,” replied the LORD, “for I will surely deliver the Philistines into your hand.”
 \p
 \v 20 So David went to Baal-perazim, where he defeated the Philistines and said, “Like a bursting flood, the LORD has burst out against my enemies before me.” So he called that place Baal-perazim.\f + \fr 5:20 \ft Baal-Perazim means The Lord Bursts Out.\f*
 \v 21 There the Philistines abandoned their idols, and David and his men carried them away.
 \p
 \v 22 Once again the Philistines came up and spread out in the Valley of Rephaim.
 \v 23 So David inquired of the LORD, who answered, “Do not march straight up, but circle around behind them and attack them in front of the balsam trees.\f + \fr 5:23 \ft Or aspen trees or poplar trees; also in verse 24\f*
-\v 24 As soon as you hear the sound of marching in the tops of the balsam trees, move quickly, because this will mean that the LORD has marched out before you to strike the camp of the Philistines.”
+\v 24 As soon as you hear the sound of marching in the tops of the balsam trees, move quickly, because this will mean that the \nd Lord\nd* has gone out before you to strike the camp of the Philistines.”
 \p
 \v 25 So David did as the LORD had commanded him, and he struck down the Philistines all the way from Gibeon\f + \fr 5:25 \ft LXX (see also \+xt 1 Chronicles 14:16\+xt*); Hebrew Geba\f* to Gezer.
 \c 6
@@ -324,7 +328,7 @@
 \v 6 When they came to the threshing floor of Nacon,\f + \fr 6:6 \ft Nacon is a variant of Chidon; see \+xt 1 Chronicles 13:9\+xt*.\f* Uzzah reached out and took hold of the ark of God, because the oxen had stumbled.
 \v 7 And the anger of the LORD burned against Uzzah, and God struck him down on the spot for his irreverence,\f + \fr 6:7 \ft MT; DSS for this\f* and he died there beside the ark of God.
 \p
-\v 8 Then David became angry because the LORD had burst forth against Uzzah; so he named that place Perez-uzzah,\f + \fr 6:8 \ft Perez-uzzah means outbreak against Uzzah.\f* as it is called to this day.
+\v 8 Then David became angry because the LORD had burst forth against Uzzah. So he named that place Perez-uzzah,\f + \fr 6:8 \ft Perez-uzzah means outbreak against Uzzah.\f* as it is called to this day.
 \p
 \v 9 That day David feared the LORD and asked, “How can the ark of the LORD ever come to me?”
 \v 10 So he was unwilling to move the ark of the LORD to the City of David; instead, he took it aside to the house of Obed-edom the Gittite.
@@ -346,9 +350,9 @@
 \v 17 So they brought the ark of the LORD and set it in its place inside the tent that David had pitched for it. Then David offered burnt offerings and peace offerings before the LORD.
 \p
 \v 18 When David had finished sacrificing the burnt offerings and peace offerings, he blessed the people in the name of the LORD of Hosts.
-\v 19 Then he distributed to every man and woman among the multitude of Israel a loaf of bread, a date cake,\f + \fr 6:19 \ft Or a portion of meat\f* and a raisin cake. And all the people departed, each for his own home.
+\v 19 Then he distributed to every man and woman among the multitude of Israel a loaf of bread, a date cake,\f + \fr 6:19 \ft Or a portion of meat\f* and a raisin cake. And all the people departed, each to his own home.
 \p
-\v 20 As soon as David returned home to bless his own household, Saulʼs daughter Michal came out to meet him. “How the king of Israel has distinguished himself today!” she said. “He has uncovered himself today in the sight of the maidservants of his subjects, like a vulgar person would do.”
+\v 20 When David returned home to bless his own household, Saulʼs daughter Michal came out to meet him. “How the king of Israel has distinguished himself today!” she said. “He has uncovered himself today in the sight of the maidservants of his subjects, like a vulgar person would do.”
 \p
 \v 21 But David said to Michal, “I was dancing before the LORD, who chose me over your father and all his house when He appointed me ruler over the LORDʼs people Israel. I will celebrate before the LORD,
 \v 22 and I will humiliate and humble myself even more than this. Yet I will be honored by the maidservants of whom you have spoken.”
@@ -369,7 +373,7 @@
 \v 7 In all My journeys with all the Israelites, have I ever asked any of the leaders\f + \fr 7:7 \ft Or tribes\f* I appointed to shepherd My people Israel, ‘Why havenʼt you built Me a house of cedar?’
 \p
 \v 8 Now then, you are to tell My servant David that this is what the LORD of Hosts says: I took you from the pasture, from following the flock, to be the ruler over My people Israel.
-\v 9 I have been with you wherever you have gone, and I have cut off all your enemies from before you. Now I will make for you a name like the greatest in the land.
+\v 9 I have been with you wherever you have gone, and I have cut off all your enemies from before you. Now I will make for you a name like that of the greatest in the land.
 \p
 \v 10 And I will provide a place for My people Israel and will plant them so that they may dwell in a place of their own and be disturbed no more. No longer will the sons of wickedness oppress them as they did at the beginning
 \v 11 and have done since the day I appointed judges over My people Israel. I will give you rest from all your enemies.
@@ -378,10 +382,10 @@
 \v 13 He will build a house for My Name, and I will establish the throne of his kingdom forever.
 \v 14 I will be his Father, and he will be My son.\f + \fr 7:14 \ft Cited in \+xt Hebrews 1:5\+xt*\f* When he does wrong, I will discipline him with the rod of men and with the blows of the sons of men.
 \p
-\v 15 But My loving devotion will never be removed from him as I removed it from Saul, whom I moved out of your way.
+\v 15 But My loving devotion will never be removed from him as I removed it from Saul, whom I removed from before you.
 \v 16 Your house and kingdom will endure forever before Me,\f + \fr 7:16 \ft Some Hebrew manuscripts and LXX; most Hebrew manuscripts you\f* and your throne will be established forever.”
 \p
-\v 17 So Nathan relayed to David all the words of this entire vision.
+\v 17 So Nathan relayed to David all the words of this entire revelation.
 \s1 Davidʼs Prayer of Thanksgiving
 \r (1 Chronicles 17:16–27)
 \p
@@ -411,7 +415,7 @@
 \v 3 David also defeated Hadadezer son of Rehob, king of Zobah, who had marched out to restore his dominion along the Euphrates River.\f + \fr 8:3 \ft LXX, Syriac, and Vulgate (see also \+xt 1 Chronicles 18:3\+xt*); Hebrew along the River, or an alternate reading along the Euphrates\f*
 \v 4 David captured from him a thousand chariots, seven thousand charioteers,\f + \fr 8:4 \ft LXX (see also DSS and \+xt 1 Chronicles 18:4\+xt*); MT captured from him seventeen hundred charioteers\f* and twenty thousand foot soldiers, and he hamstrung all the horses except a hundred he kept for the chariots.
 \p
-\v 5 When the Arameans of Damascus came to help King Hadadezer of Zobah, David struck down twenty-two thousand men.
+\v 5 When the Arameans of Damascus came to help King Hadadezer of Zobah, David struck down twenty-two thousand of their men.
 \v 6 Then he placed garrisons in Aram of Damascus, and the Arameans became subject to David and brought him tribute. So the LORD made David victorious wherever he went.
 \p
 \v 7 And David took the gold shields that belonged to the officers of Hadadezer and brought them to Jerusalem.
@@ -448,10 +452,10 @@
 \p
 \v 1 Then David asked, “Is there anyone left from the house of Saul to whom I can show kindness for the sake of Jonathan?”
 \p
-\v 2 And there was a servant of Saulʼs family named Ziba. They summoned him to David, and the king inquired, “Are you Ziba?”
+\v 2 And there was a servant of the house of Saul named Ziba. They summoned him to David, and the king inquired, “Are you Ziba?”
 \p “I am your servant,” he replied.
 \p
-\v 3 So the king asked, “Is there anyone left of Saulʼs family to whom I can show the kindness of God?”
+\v 3 So the king asked, “Is there anyone left of the house of Saul to whom I can show the kindness of God?”
 \p Ziba answered, “There is still Jonathanʼs son, who is lame in both feet.”
 \p
 \v 4 “Where is he?” replied the king.
@@ -494,7 +498,7 @@
 \r (1 Chronicles 19:10–19)
 \p
 \v 9 When Joab saw the battle lines before him and behind him, he selected some of the best men of Israel and arrayed them against the Arameans.
-\v 10 And he placed the rest of the forces under the command of his brother Abishai, who arrayed them against the Ammonites.
+\v 10 And he placed the rest of the troops under the command of his brother Abishai, who arrayed them against the Ammonites.
 \p
 \v 11 “If the Arameans are too strong for me,” said Joab, “then you will come to my rescue. And if the Ammonites are too strong for you, then I will come to your rescue.
 \v 12 Be strong and let us fight bravely for our people and for the cities of our God. May the LORD do what is good in His sight.”
@@ -522,7 +526,7 @@
 \p
 \v 6 At this, David sent orders to Joab: “Send me Uriah the Hittite.” So Joab sent him to David.
 \p
-\v 7 When Uriah came to him, David asked how Joab and the troops were doing with the war.
+\v 7 When Uriah came to him, David asked how Joab and the troops were doing and how the war was going.
 \v 8 Then he said to Uriah, “Go down to your house and wash your feet.”
 \p So Uriah left the palace, and a gift from the king followed him.
 \v 9 But Uriah slept at the door of the palace with all his masterʼs servants; he did not go down to his house.
@@ -540,14 +544,14 @@
 \v 14 The next morning David wrote a letter to Joab and sent it with Uriah.
 \v 15 In the letter he wrote: “Put Uriah at the front of the fiercest battle; then withdraw from him, so that he may be struck down and killed.”
 \p
-\v 16 So as Joab besieged the city, he assigned Uriah to a place where he saw the strongest enemy soldiers.
+\v 16 So as Joab besieged the city, he assigned Uriah to a place where he knew the strongest enemy soldiers.
 \v 17 And when the men of the city came out and fought against Joab, some of Davidʼs servants fell, and Uriah the Hittite also died.
 \p
 \v 18 Joab sent to David a full account of the battle
-\v 19 and instructed the messenger, “When you have finished giving the king all the details of the battle,
+\v 19 and instructed the messenger, “When you have finished giving the king a full account of the battle,
 \v 20 if the kingʼs anger flares, he may ask you, ‘Why did you get so close to the city to fight? Did you not realize they would shoot from atop the wall?
-\v 21 Who was the one to strike Abimelech son of Jerubbesheth\f + \fr 11:21 \ft Jerubbesheth is also known as Jerubbaal, that is, Gideon.\f*? Was it not a woman who dropped an upper millstone on him from the wall, so that he died in Thebez? Why did you get so close to the wall?’
-\p If so, then you are to say, ‘Your servant Uriah the Hittite is dead as well.’”
+\v 21 Who struck Abimelech son of Jerubbesheth\f + \fr 11:21 \ft Jerubbesheth is also known as Jerubbaal, that is, Gideon.\f*? Was it not a woman who dropped an upper millstone on him from the wall, so that he died in Thebez? Why did you get so close to the wall?’
+\p If he asks you this, then you are to say, ‘Your servant Uriah the Hittite is dead as well.’”
 \p
 \v 22 So the messenger set out and reported to David all that Joab had sent him to say.
 \v 23 The messenger said to David, “The men overpowered us and came out against us in the field, but we drove them back to the entrance of the gate.
@@ -561,7 +565,7 @@
 \p But the thing that David had done was evil in the sight of the LORD.
 \c 12
 \s1 Nathan Rebukes David
-\r (Psalm 51:1–19)
+\r (Psalms 51:1–19)
 \p
 \v 1 Then the LORD sent Nathan to David, and when he arrived, he said, “There were two men in a certain city, one rich and the other poor.
 \v 2 The rich man had a great number of sheep and cattle,
@@ -575,7 +579,7 @@
 \v 7 Then Nathan said to David, “You are that man! This is what the LORD, the God of Israel, says: ‘I anointed you king over Israel, and I delivered you from the hand of Saul.
 \v 8 I gave your masterʼs house to you and your masterʼs wives into your arms. I gave you the house of Israel and Judah, and if that was not enough, I would have given you even more.
 \p
-\v 9 Why then have you despised the command of the LORD by doing evil in His sight? You put Uriah the Hittite to the sword and took his wife as your own, for you have slain him with the sword of the Ammonites.
+\v 9 Why then have you despised the command of the LORD by doing evil in His sight? You put Uriah the Hittite to the sword and took his wife as your own. You have slain him with the sword of the Ammonites.
 \v 10 Now, therefore, the sword will never depart from your house, because you have despised Me and have taken the wife of Uriah the Hittite to be your own.’
 \p
 \v 11 This is what the LORD says: ‘I will raise up adversity against you from your own house. Before your very eyes I will take your wives and give them to another, and he will lie with them in broad daylight.
@@ -623,8 +627,8 @@
 \v 1 After some time, Davidʼs son Amnon fell in love with Tamar, the beautiful sister of Davidʼs son Absalom.
 \v 2 Amnon was sick with frustration over his sister Tamar, for she was a virgin, and it seemed implausible for him to do anything to her.
 \p
-\v 3 Now Amnon had a friend named Jonadab, the son of Davidʼs brother Shimeah.\f + \fr 13:3 \ft Shimeah is a variant of Shammah, Shimea, and Shimei; see \+xt 1 Samuel 16:9,\+xt* \+xt 1 Chronicles 2:13,\+xt* and \+xt 2 Samuel 21:21\+xt*.\f* Jonadab was a very shrewd man,
-\v 4 so he asked Amnon, “Why are you, the son of the king, so depressed morning after morning? Wonʼt you tell me?”
+\v 3 Now Amnon had a friend named Jonadab, the son of Davidʼs brother Shimeah.\f + \fr 13:3 \ft Shimeah is a variant of Shammah, Shimea, and Shimei; see \+xt 1 Samuel 16:9,\+xt* \+xt 2 Samuel 21:21\+xt* and \+xt 1 Chronicles 2:13,\+xt*.\f* Jonadab was a very shrewd man,
+\v 4 and he asked Amnon, “Why are you, the son of the king, so depressed morning after morning? Wonʼt you tell me?”
 \p Amnon replied, “I am in love with Tamar, my brother Absalomʼs sister.”
 \p
 \v 5 Jonadab told him, “Lie down on your bed and pretend you are ill. When your father comes to see you, say to him, ‘Please let my sister Tamar come and give me something to eat. Let her prepare it in my sight so I may watch her and eat it from her hand.’”
@@ -640,7 +644,7 @@
 \p Tamar took the cakes she had made and went to her brother Amnonʼs bedroom.
 \v 11 And when she had brought them to him to eat, he took hold of her and said, “Come lie with me, my sister!”
 \p
-\v 12 “No, my brother!” she cried. “Do not humiliate me, for such a thing should never be done in Israel. Do not do this disgraceful thing!
+\v 12 “No, my brother!” she cried. “Do not violate me, for such a thing should never be done in Israel. Do not do this disgraceful thing!
 \v 13 Where could I ever take my shame? And you would be like one of the fools in Israel! Please speak to the king, for he will not withhold me from you.”
 \p
 \v 14 But Amnon refused to listen to her, and being stronger, he violated her and lay with her.
@@ -652,13 +656,13 @@
 \v 17 Instead, he called to his attendant and said, “Throw this woman out and bolt the door behind her!”
 \p
 \v 18 So Amnonʼs attendant threw her out and bolted the door behind her. Now Tamar was wearing a robe of many colors,\f + \fr 13:18 \ft Or a robe with long sleeves; see also \+xt Genesis 37:3\+xt*.\f* because this is what the kingʼs virgin daughters wore.
-\v 19 And Tamar put ashes on her head and tore her robe. And putting her hand on her head, she went away crying bitterly.
+\v 19 And Tamar put ashes on her head and tore her robe. And putting her hand on her head, she went away crying aloud.
 \p
 \v 20 Her brother Absalom said to her, “Has your brother Amnon been with you? Be quiet for now, my sister. He is your brother. Do not take this thing to heart.”
 \p So Tamar lived as a desolate woman in the house of her brother Absalom.
 \p
 \v 21 When King David heard all this, he was furious.\f + \fr 13:21 \ft DSS and LXX include But he would not punish his son Amnon, because he loved him, since he was his firstborn.\f*
-\v 22 And Absalom never said a word to Amnon, either good or bad, because he hated Amnon for disgracing his sister Tamar.
+\v 22 And Absalom never said a word to Amnon, either good or bad, because he hated Amnon for violating his sister Tamar.
 \s1 Absalomʼs Revenge on Amnon
 \p
 \v 23 Two years later, when Absalomʼs sheepshearers were at Baal-hazor near Ephraim, he invited all the sons of the king.
@@ -677,7 +681,7 @@
 \p
 \v 30 While they were on the way, a report reached David: “Absalom has struck down all the sons of the king; not one of them is left!”
 \p
-\v 31 Then the king stood up, tore his clothes, and lay down on the ground; and all his servants stood by with their clothes torn.
+\v 31 Then the king stood up, tore his clothes, and lay down on the ground. And all his servants stood by with their clothes torn.
 \p
 \v 32 But Jonadab, the son of Davidʼs brother Shimeah, spoke up: “My lord must not think they have killed all the sons of the king, for only Amnon is dead. In fact, Absalom has planned this since the day Amnon violated his sister Tamar.
 \v 33 So now, my lord the king, do not take to heart the report that all the sons of the king are dead. Only Amnon is dead.”
@@ -720,7 +724,7 @@
 \p “Speak,” he replied.
 \p
 \v 13 The woman asked, “Why have you devised a thing like this against the people of God? When the king says this, does he not convict himself, since he has not brought back his own banished son?
-\v 14 For surely we will die and be like water poured out on the ground, which cannot be recovered. Yet God does not take away a life; but He devises ways that the banished one may not be cast out from Him.
+\v 14 For we will surely die and be like water poured out on the ground, which cannot be recovered. Yet God does not take away a life; but He devises ways that the banished one may not be cast out from Him.
 \p
 \v 15 Now therefore, I have come to present this matter to my lord the king because the people have made me afraid. Your servant thought, ‘I will speak to the king. Perhaps he will grant the request of his maidservant.
 \v 16 For the king will hear and deliver his maidservant from the hand of the man who would cut off both me and my son from Godʼs inheritance.’
@@ -736,10 +740,10 @@
 \p
 \v 21 Then the king said to Joab, “I hereby grant this request. Go, bring back the young man Absalom.”
 \p
-\v 22 Joab fell facedown in homage and blessed the king. “Today,” said Joab, “your servant knows that he has found favor with you, my lord the king, because the king has granted his request.”
+\v 22 Joab fell facedown in homage and blessed the king. “Today,” said Joab, “your servant knows that he has found favor in your eyes, my lord the king, because the king has granted his request.”
 \p
 \v 23 So Joab got up, went to Geshur, and brought Absalom to Jerusalem.
-\v 24 But the king added, “He may return to his house, but he must not see my face.” So Absalom returned to his own house, but he did not see the king.
+\v 24 But the king added, “He may return to his house, but he must not see my face.” So Absalom returned to his own house, but he did not see the face of the king.
 \p
 \v 25 Now there was not a man in all Israel as handsome and highly praised as Absalom. From the sole of his foot to the top of his head, he did not have a single flaw.
 \v 26 And when he cut the hair of his head—he shaved it every year because his hair got so heavy—he would weigh it out to be two hundred shekels,\f + \fr 14:26 \ft 200 shekels is approximately 5 pounds or 2.3 kilograms of hair.\f* according to the royal standard.
@@ -783,7 +787,7 @@
 \v 12 While Absalom was offering the sacrifices, he sent for Ahithophel the Gilonite, Davidʼs counselor, to come from his hometown of Giloh.
 \p So the conspiracy gained strength, and Absalomʼs following kept increasing.
 \s1 David Flees Jerusalem
-\r (Psalm 3:1–8)
+\r (Psalms 3:1–8)
 \p
 \v 13 Then a messenger came to David and reported, “The hearts of the men of Israel are with Absalom.”
 \p
@@ -805,7 +809,7 @@
 \p
 \v 23 Everyone in the countryside was weeping loudly as all the people passed by. And as the king crossed the Kidron Valley, all the people also passed toward the way of the wilderness.
 \p
-\v 24 Zadok was also there, and all the Levites with him were carrying the ark of the covenant of God. And they set down the ark of God, and Abiathar offered sacrifices\f + \fr 15:24 \ft Or Abiathar went up\f* until the people had passed out of the city.
+\v 24 Zadok was also there, and all the Levites with him were carrying the ark of the covenant of God. And they set down the ark of God, and Abiathar offered sacrifices\f + \fr 15:24 \ft Or Abiathar went up\f* until all the people had passed out of the city.
 \p
 \v 25 Then the king said to Zadok, “Return the ark of God to the city. If I find favor in the eyes of the LORD, He will bring me back and let me see both it and His dwelling place again.
 \v 26 But if He should say, ‘I do not delight in you,’ then here I am; let Him do to me whatever seems good to Him.”
@@ -815,7 +819,7 @@
 \p
 \v 29 So Zadok and Abiathar returned the ark of God to Jerusalem and stayed there.
 \s1 David Weeps at the Mount of Olives
-\r (Psalm 63:1–11)
+\r (Psalms 63:1–11)
 \p
 \v 30 But David continued up the Mount of Olives, weeping as he went up. His head was covered, and he was walking barefoot. And all the people with him covered their heads and went up, weeping as they went.
 \p
@@ -862,18 +866,19 @@
 \v 13 So David and his men proceeded along the road as Shimei went along the ridge of the hill opposite him. As Shimei went, he yelled curses, threw stones, and flung dust at David.
 \v 14 Finally, the king and all the people with him arrived,\f + \fr 16:14 \ft Some LXX manuscripts arrived at the Jordan\f* exhausted. And there he refreshed himself.
 \s1 The Counsel of Ahithophel and Hushai
+<<<<<<< HEAD
 \p
 \v 15 Then Absalom and all the men of Israel came to Jerusalem, and Ahithophel was with him.
 \v 16 And Davidʼs friend Hushai the Archite went to Absalom and said to him, “Long live the king! Long live the king!”
 \p
 \v 17 “Is this the loyalty you show your friend?” Absalom replied. “Why did you not go with your friend?”
 \p
-\v 18 “Not at all,” Hushai answered. “For the one chosen by the LORD, by the people, and by all the men of Israel—his I will be, and with him I will remain.
-\v 19 Furthermore, whom should I serve if not the son? As I served in your fatherʼs presence, so also I will serve in yours.”
+\v 18 “Not at all,” Hushai answered. “For the one chosen by the LORD, by this people, and by all the men of Israel—his I will be, and with him I will remain.
+\v 19 Furthermore, whom should I serve if not his son? As I served in your fatherʼs presence, so also I will serve in yours.”
 \p
 \v 20 Then Absalom said to Ahithophel, “Give me counsel. What should we do?”
 \p
-\v 21 Ahithophel replied, “Sleep with your fatherʼs concubines, whom he has left to keep the palace. When all Israel hears that you have become a stench to your father, then the hands of all who are with you will be strengthened.”
+\v 21 Ahithophel replied, “Sleep with your fatherʼs concubines, whom he has left to take care of the palace. When all Israel hears that you have become a stench to your father, then the hands of all who are with you will be strengthened.”
 \p
 \v 22 So they pitched a tent for Absalom on the roof, and he slept with his fatherʼs concubines in the sight of all Israel.
 \p
@@ -900,7 +905,7 @@
 \v 11 Instead, I advise that all Israel from Dan to Beersheba—a multitude like the sand on the seashore—be gathered to you, and that you yourself lead them into battle.
 \v 12 Then we will attack David wherever we find him, and we will descend on him like dew on the ground. And of all the men with him, not even one will remain.
 \p
-\v 13 If he retreats to a city, all Israel will bring ropes to that city, and we will drag it down to the valley until not even a pebble can be found.”
+\v 13 If he retreats to a city, all Israel will bring ropes to that city, and we will drag it down to the valley until not even a pebble can be found there.”
 \p
 \v 14 Then Absalom and all the men of Israel said, “The advice of Hushai the Archite is better than that of Ahithophel.” For the LORD had purposed to thwart the good counsel of Ahithophel in order to bring disaster on Absalom.
 \s1 Hushaiʼs Warning Saves David
@@ -911,7 +916,7 @@
 \p
 \v 17 Now Jonathan and Ahimaaz were staying at En-rogel, where a servant girl would come and pass along information to them. They in turn would go and inform King David, for they dared not be seen entering the city.
 \v 18 But a young man did see them and told Absalom. So the two left quickly and came to the house of a man in Bahurim. He had a well in his courtyard, and they climbed down into it.
-\v 19 Then the manʼs wife took a covering and spread it over the mouth of the well, scattering grain over it so nobody would know a thing.
+\v 19 Then the manʼs wife took a covering and spread it over the mouth of the well, and scattered grain over it so nobody would know a thing.
 \p
 \v 20 When Absalomʼs servants came to the woman at the house, they asked, “Where are Ahimaaz and Jonathan?”
 \p “They have crossed over the brook,” she replied. The men searched but did not find them, so they returned to Jerusalem.
@@ -932,7 +937,7 @@
 \c 18
 \s1 Absalom Killed
 \p
-\v 1 Then David reviewed his troops and appointed over them commanders of hundreds and of thousands.
+\v 1 Then David reviewed his troops and appointed over them commanders of thousands and of hundreds.
 \v 2 He sent out the troops, a third under Joab, a third under Joabʼs brother Abishai son of Zeruiah, and a third under Ittai the Gittite. And the king said to the troops, “I will surely march out with you as well.”
 \p
 \v 3 But the people pleaded, “You must not go out! For if we have to flee, they will pay no attention to us. Even if half of us die, they will not care; but you are worth ten thousand of us.\f + \fr 18:3 \ft Two Hebrew manuscripts, some LXX manuscripts, and Vulgate; most Hebrew manuscripts care; for now there are ten thousand like us\f* It is better for now if you support us from the city.”
@@ -968,7 +973,7 @@
 \p
 \v 21 So Joab said to a Cushite, “Go, tell the king what you have seen.” The Cushite bowed to Joab and took off running.
 \p
-\v 22 Ahimaaz son of Zadok, however, persisted and said to Joab, “Regardless of whatever may happen, please let me also run behind the Cushite!”
+\v 22 Ahimaaz son of Zadok, however, persisted and said to Joab, “No matter what, please let me also run behind the Cushite!”
 \p “My son,” Joab replied, “why do you want to run, since you will not receive a reward?”
 \p
 \v 23 “No matter what, I want to run!” he replied.
@@ -997,9 +1002,9 @@
 \v 31 Just then the Cushite came and said, “May my lord the king hear the good news: Today the LORD has avenged you of all who rose up against you!”
 \p
 \v 32 The king asked the Cushite, “Is the young man Absalom all right?”
-\p And the Cushite replied, “May what has become of the young man happen to the enemies of my lord the king and to all who rise up against you to harm you.”
+\p And the Cushite replied, “May the enemies of my lord the king and all who rise up against you to harm you be like that young man.”
 \p
-\v 33 The king was shaken and went up to the gate chamber and wept. And as he walked, he cried out, “O my son Absalom! My son, my son Absalom! If only I had died instead of you, O Absalom, my son, my son!”
+\v 33 The king was shaken and went up to the chamber over the gate and wept. And as he walked, he cried out, “O my son Absalom! My son, my son Absalom! If only I had died instead of you, O Absalom, my son, my son!”
 \c 19
 \s1 Joab Reproves David
 \p
@@ -1022,7 +1027,7 @@
 \p
 \v 11 Then King David sent this message to Zadok and Abiathar, the priests: “Say to the elders of Judah, ‘Why should you be the last to restore the king to his palace, since the talk of all Israel has reached the king at his quarters?
 \v 12 You are my brothers, my own flesh and blood. So why should you be the last to restore the king?’
-\v 13 And say to Amasa, ‘Arenʼt you my flesh and blood? May God punish me, and ever so severely, if from this time you are not the commander of my army in place of Joab!’”
+\v 13 And say to Amasa, ‘Arenʼt you my flesh and blood? May God punish me, and ever so severely, if from now on you are not the commander of my army in place of Joab!’”
 \p
 \v 14 So he swayed the hearts of all the men of Judah as though they were one man, and they sent word to the king: “Return, you and all your servants.”
 \p
@@ -1043,6 +1048,7 @@
 \p
 \v 23 So the king said to Shimei, “You shall not die.” And the king swore an oath to him.
 \s1 Mephibosheth Excused
+<<<<<<< HEAD
 \p
 \v 24 Then Mephibosheth, Saulʼs grandson, went down to meet the king. He had not cared for his feet or trimmed his mustache or washed his clothes from the day the king had left until the day he returned safely.
 \v 25 And he came from Jerusalem to meet the king, who asked him, “Mephibosheth, why did you not go with me?”
@@ -1065,14 +1071,14 @@
 \v 34 But Barzillai replied, “How many years of my life remain, that I should go up to Jerusalem with the king?
 \v 35 I am now eighty years old. Can I discern what is good and what is not? Can your servant taste what he eats or drinks? Can I still hear the voice of singing men and women? Why should your servant be an added burden to my lord the king?
 \p
-\v 36 Your servant could go with the king only a short distance past the Jordan; why should the king repay me with such a reward?
+\v 36 Your servant will go with the king only a short distance past the Jordan; why should the king repay me with such a reward?
 \v 37 Please let your servant return, that I may die in my own city near the tomb of my father and mother. But here is your servant Chimham. Let him cross over with my lord the king, and do for him what is good in your sight.”
 \p
-\v 38 The king replied, “Chimham will cross over with me, and I will do for him what seems good in your sight, and I will do for you whatever you desire of me.”
+\v 38 The king replied, “Chimham will cross over with me, and I will do for him what is good in your sight, and I will do for you whatever you desire of me.”
 \p
 \v 39 So all the people crossed the Jordan, and then the king crossed over. The king kissed Barzillai and blessed him, and Barzillai returned home.
 \p
-\v 40 Then the king went on to Gilgal, and Chimham crossed over with him. All the troops of Judah and half the troops of Israel escorted the king.
+\v 40 Then the king crossed over to Gilgal, and Chimham crossed over with him. All the troops of Judah and half the troops of Israel escorted the king.
 \s1 Contention over the King
 \p
 \v 41 Soon all the men of Israel came to the king and asked, “Why did our brothers, the men of Judah, take you away secretly and bring the king and his household across the Jordan, together with all of Davidʼs men?”
@@ -1080,7 +1086,7 @@
 \v 42 And all the men of Judah replied to the men of Israel, “We did this because the king is our relative. Why does this anger you? Have we ever eaten at the kingʼs expense or received anything for ourselves?”
 \p
 \v 43 “We have ten shares in the king,” answered the men of Israel, “so we have more claim to David than you. Why then do you despise us? Were we not the first to speak of restoring our king?”
-\p But the men of Judah pressed even harder than the men of Israel.
+\p But the men of Judah spoke more fiercely than the men of Israel.
 \c 20
 \s1 Shebaʼs Rebellion
 \p
@@ -1092,7 +1098,7 @@
 \p
 \v 2 So all the men of Israel deserted David to follow Sheba son of Bichri. But the men of Judah stayed by their king all the way from the Jordan to Jerusalem.
 \p
-\v 3 When David returned to his palace in Jerusalem, he took the ten concubines he had left to care for the palace, and he placed them in a house under guard. He provided for them, but he no longer slept with them. They were confined until the day of their death, living as widows.
+\v 3 When David returned to his palace in Jerusalem, he took the ten concubines he had left to take care of the palace, and he placed them in a house under guard. He provided for them, but he no longer slept with them. They were confined until the day of their death, living as widows.
 \p
 \v 4 Then the king said to Amasa, “Summon the men of Judah to come to me within three days, and be here yourself.”
 \p
@@ -1161,13 +1167,13 @@
 \v 11 When David was told what Saulʼs concubine Rizpah, daughter of Aiah, had done,
 \v 12 he went and took the bones of Saul and his son Jonathan from the men of Jabesh-gilead, who had stolen them from the public square of Beth-shan where the Philistines had hung the bodies after they had struck down Saul at Gilboa.
 \p
-\v 13 So David had the bones of Saul and his son Jonathan brought from there, along with the bones of those who had been hanged.
+\v 13 So David had the bones of Saul and his son Jonathan brought from there, and they also gathered the bones of those who had been hanged.
 \v 14 And they buried the bones of Saul and his son Jonathan in Zela in the land of Benjamin, in the tomb of Saulʼs father Kish.
 \p After they had done everything the king had commanded, God answered their prayers for the land.
 \s1 Four Battles against the Philistines
 \r (1 Chronicles 20:4–8)
 \p
-\v 15 Once again the Philistines waged war against Israel, and David and his servants went down and fought against the Philistines; but David became exhausted.
+\v 15 Once again the Philistines waged war against Israel, and David and his servants went down and fought against the Philistines. But David became exhausted.
 \p
 \v 16 Then Ishbi-benob, a descendant of Rapha,\f + \fr 21:16 \ft Or the giant; also in verses 18, 20, and 22\f* whose bronze spear weighed three hundred shekels\f + \fr 21:16 \ft 300 shekels is approximately 7.5 pounds or 3.4 kilograms.\f* and who was bearing a new sword, resolved to kill David.
 \v 17 But Abishai son of Zeruiah came to his aid, struck the Philistine, and killed him.
@@ -1177,16 +1183,17 @@
 \p
 \v 19 Once again there was a battle with the Philistines at Gob, and Elhanan son of Jair\f + \fr 21:19 \ft See \+xt 1 Chronicles 20:5\+xt*; Hebrew Jaare-oregim\f* the Bethlehemite killed the brother of Goliath\f + \fr 21:19 \ft See \+xt 1 Chronicles 20:5\+xt*; Hebrew does not include the brother of.\f* the Gittite, the shaft of whose spear was like a weaverʼs beam.
 \p
-\v 20 And there was still another battle at Gath, where there was a man of great stature with six fingers on each hand and six toes on each foot—twenty-four in all. He too was descended from Rapha,
+\v 20 And there was also a battle at Gath, where there was a man of great stature with six fingers on each hand and six toes on each foot—twenty-four in all. He too was descended from Rapha,
 \v 21 and when he taunted Israel, Jonathan the son of Davidʼs brother Shimei\f + \fr 21:21 \ft Shimei is a variant of Shammah, Shimeah, and Shimea; see \+xt 1 Samuel 16:9,\+xt* \+xt 2 Samuel 13:3,\+xt* and \+xt 1 Chronicles 2:13\+xt*.\f* killed him.
 \p
 \v 22 So these four descendants of Rapha in Gath fell at the hands of David and his servants.
 \c 22
 \s1 Davidʼs Song of Deliverance
-\r (Psalm 18:1–50)
+\r (Psalms 18:1–50)
 \p
 \v 1 And David sang this song to the LORD on the day the LORD had delivered him from the hand of all his enemies and from the hand of Saul.
 \v 2 He said:
+\b
 \q1 “The LORD is my rock,
 \q2 my fortress, and my deliverer.
 \q1
@@ -1212,7 +1219,7 @@
 \b
 \q1
 \v 8 Then the earth shook and quaked;
-\q2 the foundations of the heavens\f + \fr 22:8 \ft Most Hebrew sources; Vulgate, Syriac, and two Hebrew manuscripts (see also \+xt Psalm 18:7\+xt*) mountains\f* trembled;
+\q2 the foundations of the heavens\f + \fr 22:8 \ft Most Hebrew sources; Vulgate, Syriac, and two Hebrew manuscripts (see also \+xt Psalms 18:7\+xt*) mountains\f* trembled;
 \q2 they were shaken because He burned with anger.
 \q1
 \v 9 Smoke rose from His nostrils,
@@ -1224,7 +1231,7 @@
 \q2 with dark clouds beneath His feet.
 \q1
 \v 11 He mounted a cherub and flew;
-\q2 He soared\f + \fr 22:11 \ft Many Hebrew manuscripts (see also \+xt Psalm 18:10\+xt*); most Hebrew manuscripts He was seen\f* on the wings of the wind.
+\q2 He soared\f + \fr 22:11 \ft Many Hebrew manuscripts (see also \+xt Psalms 18:10\+xt*); most Hebrew manuscripts He was seen\f* on the wings of the wind.
 \q1
 \v 12 He made darkness a canopy around Him,
 \q2 a gathering of water and thick clouds.
@@ -1271,7 +1278,7 @@
 \q2 and kept myself from iniquity.
 \q1
 \v 25 So the LORD has repaid me according to my righteousness,
-\q2 according to my cleanness in His sight.\f + \fr 22:25 \ft Hebrew; LXX and Vulgate (see also \+xt Psalm 18:24\+xt*) according to the cleanness of my hands\f*
+\q2 according to my cleanness in His sight.\f + \fr 22:25 \ft Hebrew; LXX and Vulgate (see also \+xt Psalms 18:24\+xt*) according to the cleanness of my hands\f*
 \b
 \q1
 \v 26 To the faithful You show Yourself faithful,
@@ -1299,7 +1306,7 @@
 \v 32 For who is God besides the LORD?
 \q2 And who is the Rock except our God?
 \q1
-\v 33 God is my strong fortress
+\v 33 God is my strong fortress,
 \q2 and He makes my way clear.
 \q1
 \v 34 He makes my feet like those of a deer
@@ -1326,7 +1333,7 @@
 \q2 You have subdued my foes beneath me.
 \q1
 \v 41 You have made my enemies retreat before me;
-\q2 I put an end to those who hated me.
+\q2 I destroyed those who hated me.
 \q1
 \v 42 They looked, but there was no one to save them—
 \q2 to the LORD, but He did not answer.
@@ -1343,7 +1350,7 @@
 \q2 when they hear me, they obey me.
 \q1
 \v 46 Foreigners lose heart
-\q2 and come trembling\f + \fr 22:46 \ft Some LXX manuscripts and Vulgate (see also \+xt Psalm 18:45\+xt*); MT and arm themselves\f* from their strongholds.
+\q2 and come trembling\f + \fr 22:46 \ft Some LXX manuscripts and Vulgate (see also \+xt Psalms 18:45\+xt*); MT and arm themselves\f* from their strongholds.
 \b
 \q1
 \v 47 The LORD lives, and blessed be my Rock!
@@ -1367,6 +1374,7 @@
 \s1 Davidʼs Last Song
 \p
 \v 1 These are the last words of David:
+\b
 \q1 “The oracle of David son of Jesse,
 \q2 the oracle of the man raised on high,
 \q1 the one anointed by the God of Jacob,
@@ -1425,12 +1433,12 @@
 \v 17 saying, “Far be it from me, O LORD, to do this! Is this not the blood of the men who risked their lives?” So he refused to drink it.
 \p Such were the exploits of the three mighty men.
 \p
-\v 18 Now Abishai, the brother of Joab and son of Zeruiah, was chief of the Three,\f + \fr 23:18 \ft Most Hebrew manuscripts (see also \+xt 1 Chronicles 11:20\+xt*); two Hebrew manuscripts and Syriac the Thirty\f* and he lifted his spear against three hundred men, killed them, and won a name along with the Three.
+\v 18 Now Abishai, the brother of Joab and son of Zeruiah, was chief of the Three,\f + \fr 23:18 \ft Most Hebrew manuscripts (see also \+xt 1 Chronicles 11:20\+xt*); two Hebrew manuscripts and Syriac the Thirty\f* and he wielded his spear against three hundred men, killed them, and won a name along with the Three.
 \v 19 Was he not more honored than the Three?\f + \fr 23:19 \ft Hebrew; Syriac the Thirty\f* And he became their commander, even though he was not included among the Three.
 \p
 \v 20 And Benaiah son of Jehoiada was a man of valor\f + \fr 23:20 \ft Or Benaiah son of Jehoiada was the son of Ishhai\f* from Kabzeel, a man of many exploits. He struck down two champions\f + \fr 23:20 \ft Or two sons of Ariel\f* of Moab, and on a snowy day he went down into a pit and killed a lion.
-\v 21 He also killed an Egyptian, a huge man. Although the Egyptian had a spear in his hand, Benaiah went against him with a club, snatched the spear from his hand, and killed the Egyptian with his own spear.
-\v 22 These were the exploits of Benaiah son of Jehoiada, who won a name alongside the three mighty men.
+\v 21 He also struck down an Egyptian, a huge man. Although the Egyptian had a spear in his hand, Benaiah went against him with a club, snatched the spear from his hand, and killed the Egyptian with his own spear.
+\v 22 These were the exploits of Benaiah son of Jehoiada, who won a name along with the three mighty men.
 \v 23 He was most honored among the Thirty, but he did not become one of the Three. And David appointed him over his guard.
 \p
 \v 24 Now these were members of the Thirty:\f + \fr 23:24 \ft Literally In the Thirty (were):\f*
@@ -1522,7 +1530,7 @@
 \p
 \v 3 But Joab replied to the king, “May the LORD your God multiply the troops a hundred times over, and may the eyes of my lord the king see it. But why does my lord the king want to do such a thing?”
 \p
-\v 4 Nevertheless, the kingʼs word prevailed against Joab and against the commanders of the army. So Joab and the commanders of the army departed from the presence of the king to count the troops of Israel.
+\v 4 Nevertheless, the kingʼs word prevailed against Joab and against the commanders of the army. So Joab and the commanders of the army departed from the presence of the king to register the troops of Israel.
 \p
 \v 5 They crossed the Jordan and camped near Aroer, south of the town in the middle of the valley, and proceeded toward Gad and Jazer.
 \v 6 Then they went to Gilead and the land of Tahtim-hodshi,\f + \fr 24:6 \ft Hebrew; some LXX manuscripts to Gilead and to the land of the Hittites\f* and on to Dan-jaan and around to Sidon.
@@ -1535,7 +1543,7 @@
 \p
 \v 10 After David had numbered the troops, his conscience was stricken and he said to the LORD, “I have sinned greatly in what I have done. Now, O LORD, I beg You to take away the iniquity of Your servant, for I have acted very foolishly.”
 \p
-\v 11 When David got up in the morning, a revelation from the LORD had come to Gad the prophet, Davidʼs seer:
+\v 11 When David got up in the morning, the word of the LORD had come to Gad the prophet, Davidʼs seer:
 \v 12 “Go and tell David that this is what the LORD says: ‘I am offering you three options. Choose one of them, and I will carry it out against you.’”
 \p
 \v 13 So Gad went and said to David, “Do you choose to endure three\f + \fr 24:13 \ft LXX (see also \+xt 1 Chronicles 21:12\+xt*); Hebrew seven\f* years of famine in your land, three months of fleeing the pursuit of your enemies, or three days of plague upon your land? Now then, think it over and decide how I should reply to Him who sent me.”
@@ -1559,7 +1567,7 @@
 \v 21 “Why has my lord the king come to his servant?” Araunah said.
 \p “To buy your threshing floor,” David replied, “that I may build an altar to the LORD, so that the plague upon the people may be halted.”
 \p
-\v 22 Araunah said to David, “My lord the king may take whatever seems good and offer it up. Here are the oxen for a burnt offering and the threshing sledges and ox yokes for the wood.
+\v 22 Araunah said to David, “May my lord the king may take whatever seems good to him and offer it up. Here are the oxen for a burnt offering and the threshing sledges and ox yokes for the wood.
 \v 23 O king, Araunah gives all these to the king.” He also said to the king, “May the LORD your God accept you.”
 \p
 \v 24 “No,” replied the king, “I insist on paying a price, for I will not offer to the LORD my God burnt offerings that cost me nothing.”

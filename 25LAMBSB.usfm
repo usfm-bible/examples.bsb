@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 \id LAM - Berean Study Bible
+=======
+\id LAM - Berean Standard Bible
+>>>>>>> bsb
 \h Lamentations
+\toc2 Lamentations
 \toc1 Lamentations
 \toc2 Lamentations
 \toc3 Lamentations
@@ -8,7 +13,11 @@
 \s1 How Lonely Lies the City!
 \r (2 Kings 24:10–17)
 \q1
+<<<<<<< HEAD
 \v 1 How\f + \fr 1:1 \ft This chapter is an acrostic poem, each verse beginning with the successive letters of the Hebrew alphabet.\f* lonely lies the city,
+=======
+\v 1 How \f + \fr 1:1 \ft This chapter is an acrostic poem, each verse beginning with the successive letters of the Hebrew alphabet.\f* lonely lies the city,
+>>>>>>> bsb
 \q2 once so full of people!
 \q1 She who was great among the nations
 \q2 has become a widow.
@@ -122,7 +131,11 @@
 \q1
 \v 15 The Lord has rejected
 \q2 all the mighty men in my midst;
+<<<<<<< HEAD
 \q1 He has summoned an army against me\f + \fr 1:15 \ft Or has set a time for me\f*
+=======
+\q1 He has summoned an army against me \f + \fr 1:15 \ft Or has set a time for me\f*
+>>>>>>> bsb
 \q2 to crush my young warriors.
 \q1 Like grapes in a winepress,
 \q2 the Lord has trampled the Virgin Daughter of Judah.
@@ -145,7 +158,11 @@
 \b
 \q1
 \v 18 The LORD is righteous,
+<<<<<<< HEAD
 \q2 for I have rebelled against His command.
+=======
+\q2 yet I rebelled against His command.
+>>>>>>> bsb
 \q1 Listen, all you people;
 \q2 look upon my suffering.
 \q1 My young men and maidens
@@ -183,6 +200,7 @@
 \q1 For my groans are many,
 \q2 and my heart is faint.
 \c 2
+<<<<<<< HEAD
 \s1 Godʼs Anger over Jerusalem
 \q1
 \v 1 How\f + \fr 2:1 \ft This chapter is an acrostic poem, each verse beginning with the successive letters of the Hebrew alphabet.\f* the Lord has covered the Daughter of Zion
@@ -199,6 +217,16 @@
 \q2 the fortified cities of the Daughter of Judah.
 \q1 He brought to the ground and defiled
 \q2 her kingdom and its princes.
+=======
+\s1 God’s Anger over Jerusalem
+\q1 
+\v 1 How \f + \fr 2:1 \ft This chapter is an acrostic poem, each verse beginning with the successive letters of the Hebrew alphabet.\f* the Lord has covered the Daughter of Zion 
+\q2 with the cloud of His anger! 
+\q1 He has cast the glory of Israel 
+\q2 from heaven to earth. 
+\q1 He has abandoned His footstool 
+\q2 in the day of His anger. 
+>>>>>>> bsb
 \b
 \q1
 \v 3 In fierce anger He has cut off
@@ -358,6 +386,7 @@
 \q1 You have slain them in the day of Your anger;
 \q2 You have slaughtered them without compassion.
 \b
+<<<<<<< HEAD
 \q1
 \v 22 You summoned my attackers on every side,
 \q2 as for the day of an appointed feast.
@@ -386,6 +415,34 @@
 \q1
 \v 6 He has made me dwell in darkness
 \q2 like those dead for ages.
+=======
+\q1 
+\v 21 Both young and old lie together 
+\q2 in the dust of the streets. 
+\q1 My young men and maidens 
+\q2 have fallen by the sword. 
+\q1 You have slain them in the day of Your anger; 
+\q2 You have slaughtered them without compassion. 
+\b
+\q1 
+\v 22 You summoned my terrors on every side, 
+\q2 as for the day of an appointed feast. 
+\q1 In the day of the LORD’s anger 
+\q2 no one escaped or survived; 
+\q1 my enemy has destroyed 
+\q2 those I nurtured and reared. 
+\c 3
+\s1 The Prophet’s Afflictions
+\q1 
+\v 1 I \f + \fr 3:1 \ft This chapter is an acrostic poem, each 3–verse stanza beginning with the successive letters of the Hebrew alphabet.\f* am the man who has seen affliction 
+\q2 under the rod of God’s wrath. 
+\q1 
+\v 2 He has driven me away and made me walk 
+\q2 in darkness instead of light. 
+\q1 
+\v 3 Indeed, He keeps turning His hand 
+\q2 against me all day long. 
+>>>>>>> bsb
 \b
 \q1
 \v 7 He has walled me in so I cannot escape;
@@ -457,10 +514,37 @@
 \v 27 It is good for a man to bear the yoke
 \q2 while he is still young.
 \b
+<<<<<<< HEAD
 \q1
 \v 28 Let him sit alone in silence,
 \q2 for God has disciplined him.
 \q1
+=======
+\q1 
+\v 22 Because of the loving devotion \f + \fr 3:22 \ft Forms of the Hebrew chesed are translated here and in most cases throughout the Scriptures as loving devotion; the range of meaning includes love, goodness, kindness, faithfulness, and mercy, as well as loyalty to a covenant.\f* of the LORD we are not consumed, 
+\q2 for His mercies never fail. 
+\q1 
+\v 23 They are new every morning; 
+\q2 great is Your faithfulness! 
+\q1 
+\v 24 “The LORD is my portion,” says my soul, 
+\q2 “therefore I will hope in Him.” 
+\b
+\q1 
+\v 25 The LORD is good to those who wait for Him, 
+\q2 to the soul who seeks Him. 
+\q1 
+\v 26 It is good to wait quietly 
+\q2 for the salvation of the LORD. 
+\q1 
+\v 27 It is good for a man to bear the yoke 
+\q2 while he is still young. 
+\b
+\q1 
+\v 28 Let him sit alone in silence, 
+\q2 for the LORD has laid it upon him. 
+\q1 
+>>>>>>> bsb
 \v 29 Let him bury his face in the dust—
 \q2 perhaps there is still hope.
 \q1
@@ -588,6 +672,7 @@
 \q2 from under Your heavens, O LORD.
 \c 4
 \s1 The Distress of Zion
+<<<<<<< HEAD
 \q1
 \v 1 How\f + \fr 4:1 \ft This chapter is an acrostic poem, each verse beginning with the successive letters of the Hebrew alphabet.\f* the gold has become tarnished,
 \q2 the pure gold has become dull!
@@ -599,6 +684,13 @@
 \q2 once worth their weight in pure gold,
 \q1 are now esteemed as jars of clay,
 \q2 the work of a potterʼs hands!
+=======
+\q1 
+\v 1 How \f + \fr 4:1 \ft This chapter is an acrostic poem, each verse beginning with the successive letters of the Hebrew alphabet.\f* the gold has become tarnished, 
+\q2 the pure gold has become dull! 
+\q1 The gems of the temple lie scattered 
+\q2 on every street corner. 
+>>>>>>> bsb
 \b
 \q1
 \v 3 Even jackals\f + \fr 4:3 \ft Or serpents or dragons\f* offer their breasts
@@ -723,6 +815,7 @@
 \q2 He will expose your sins.
 \c 5
 \s1 A Prayer for Restoration
+<<<<<<< HEAD
 \q1
 \v 1 Remember, O LORD, what has happened to us.
 \q2 Look and see our disgrace!
@@ -754,6 +847,23 @@
 \q1
 \v 10 Our skin is as hot as an oven
 \q2 with fever from our hunger.
+=======
+\q1 
+\v 1 Remember, O LORD, what has happened to us. 
+\q2 Look and see our disgrace! 
+\q1 
+\v 2 Our inheritance has been turned over to strangers, 
+\q2 our houses to foreigners. 
+\q1 
+\v 3 We have become fatherless orphans; 
+\q2 our mothers are widows. 
+\q1 
+\v 4 We must buy the water we drink; 
+\q2 our wood comes at a price. 
+\q1 
+\v 5 We are closely pursued; 
+\q2 we are weary and find no rest. 
+>>>>>>> bsb
 \b
 \q1
 \v 11 Women have been ravished in Zion,
@@ -781,6 +891,7 @@
 \v 18 because of Mount Zion, which lies desolate,
 \q2 patrolled by foxes.
 \b
+<<<<<<< HEAD
 \q1
 \v 19 You, O LORD, reign forever;
 \q2 Your throne endures from generation to generation.
@@ -793,3 +904,17 @@
 \q1
 \v 22 unless You have utterly rejected us
 \q2 and remain angry with us beyond measure.
+=======
+\q1 
+\v 19 You, O LORD, reign forever; 
+\q2 Your throne endures from generation to generation. 
+\q1 
+\v 20 Why have You forgotten us forever? 
+\q2 Why have You forsaken us for so long? 
+\q1 
+\v 21 Restore us to Yourself, O LORD, so we may return; 
+\q2 renew our days as of old, 
+\q1 
+\v 22 unless You have utterly rejected us 
+\q2 and remain angry with us beyond measure. 
+>>>>>>> bsb

@@ -1,14 +1,15 @@
-\id SNG - Berean Study Bible
+
+\id SNG - Berean Standard Bible
 \h Song
-\toc1 Song of Solomon
-\toc2 Song of Solomon
 \toc3 Song
-\mt1 Song of Solomon
+\toc2 Song
+\toc1 Song
+\mt1 Song
 \c 1
 \s1 The Bride Confesses Her Love
 \r (Ephesians 5:22–33; 1 Peter 3:1–7)
-\p
-\v 1 This is Solomonʼs Song of Songs.\f + \fr 1:1 \ft Most translators add subheadings for speaker identifications such as The Bride, The Groom, and The Friends based on the gender and number of the Hebrew words.\f*
+\m
+\v 1 This is Solomon’s Song of Songs.\f + \fr 1:1 \ft Most translators add subheadings for speaker identifications such as The Bride, The Groom, and The Friends based on the gender and number of the Hebrew words.\f*
 \s2 The Bride
 \q1
 \v 2 Let him kiss me with the kisses of his mouth!
@@ -44,6 +45,7 @@
 \q1 Why should I be like a veiled woman
 \q2 beside the flocks of your companions?
 \s2 The Friends
+\b
 \q1
 \v 8 If you do not know, O fairest of women,
 \q2 follow the tracks of the flock,
@@ -222,7 +224,7 @@
 \q1
 \v 11 Come out, O daughters of Zion,
 \q2 and gaze at King Solomon,
-\q1 wearing the crown his mother bestowed
+\q1 wearing the crown with which his mother crowned him
 \q2 on the day of his wedding—
 \q2 the day of his heartʼs rejoicing.
 \c 4
@@ -385,7 +387,7 @@
 \q1
 \v 14 His arms are rods of gold
 \q2 set with beryl.
-\q1 His body is an ivory panel
+\q1 His body is polished ivory
 \q2 bedecked with sapphires.
 \q1
 \v 15 His legs are pillars of marble

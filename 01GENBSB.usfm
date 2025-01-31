@@ -1,5 +1,6 @@
-\id GEN - Berean Study Bible
+\id GEN - Berean Standard Bible
 \h Genesis
+\toc2 Genesis
 \toc1 Genesis
 \toc2 Genesis
 \toc3 Genesis
@@ -131,7 +132,7 @@
 \v 2 The woman answered the serpent, “We may eat the fruit of the trees of the garden,
 \v 3 but about the fruit of the tree in the middle of the garden, God has said, ‘You must not eat of it or touch it, or you will die.’”
 \p
-\v 4 “You will not surely die,” the serpent told her.
+\v 4 “You will not surely die,” the serpent told the woman.
 \v 5 “For God knows that in the day you eat of it, your eyes will be opened and you will be like God, knowing good and evil.”
 \p
 \v 6 When the woman saw that the tree was good for food and pleasing to the eyes, and that it was desirable for obtaining wisdom, she took the fruit and ate it. She also gave some to her husband who was with her, and he ate it.
@@ -204,7 +205,7 @@
 \s1 Cain and Abel
 \r (Hebrews 11:4)
 \p
-\v 1 And Adam had relations with his wife Eve, and she conceived and gave birth to Cain.\f + \fr 4:1 \fq Cain \ft sounds like the Hebrew fo \fqa acquired \ft or \fqa brought forth\ft .\f*
+\v 1 And Adam had relations with his wife Eve, and she conceived and gave birth to Cain.\f + \fr 4:1 \fq Cain \ft sounds like the Hebrew for \fqa acquired \ft or \fqa brought forth\ft .\f*
 \p “With the help of the \nd Lord\nd* I have brought forth a man,” she said.
 \p
 \v 2 Later she gave birth to Cainʼs brother Abel.
@@ -351,6 +352,7 @@
 \c 7
 \s1 The Great Flood
 \r (2 Peter 3:1–7)
+<<<<<<< HEAD
 \p
 \v 1 Then the \nd Lord\nd* said to Noah, “Go into the ark, you and all your family, because I have found you righteous in this generation.
 \v 2 You are to take with you seven pairs of\f + \fr 7:2 \ft Or \fqa by sevens\ft ; also in verse 3\f* every kind of clean animal, a male and its mate; a pair of every kind of unclean animal, a male and its mate;
@@ -375,7 +377,7 @@
 \p
 \v 17 For forty days the flood kept coming on the earth, and the waters rose and lifted the ark high above the earth.
 \v 18 So the waters continued to surge and rise greatly on the earth, and the ark floated on the surface of the waters.
-\v 19 Finally, the waters completely inundated the earth, so that all the high mountains under all the heavens were covered.
+\v 19 Finally, the waters completely prevailed upon the earth, so that all the high mountains under all the heavens were covered.
 \p
 \v 20 The waters rose and covered the mountaintops to a depth of fifteen cubits.\f + \fr 7:20 \fq 15 cubits \ft is approximately 22.5 feet or 6.9 meters.\f*
 \v 21 And every living thing that moved upon the earth perished—birds, livestock, animals, every creature that swarms upon the earth, and all mankind.
@@ -662,7 +664,7 @@
 \v 6 But the land was unable to support both of them while they stayed together, for they had so many possessions that they were unable to coexist.
 \v 7 And there was discord between the herdsmen of Abram and the herdsmen of Lot. At that time the Canaanites and the Perizzites were also living in the land.
 \p
-\v 8 So Abram said to Lot, “Please let there be no contention between you and me, or between your herdsmen and my herdsmen. After all, we are brothers.
+\v 8 So Abram said to Lot, “Please let there be no contention between you and me, or between your herdsmen and my herdsmen. After all, we are kinsmen.
 \v 9 Is not the whole land before you? Now separate yourself from me. If you go to the left, I will go to the right; if you go to the right, I will go to the left.”
 \s1 Lot Proceeds toward Sodom
 \p
@@ -714,6 +716,7 @@
 \p
 \v 18 Then Melchizedek king of Salem brought out bread and wine—since he was priest of God Most High\f + \fr 14:18 \ft Hebrew \fqa El-Elyon\ft ; also in verses 19, 20, and 22; cited in \+xt Hebrews 7:1\+xt*\f*—
 \v 19 and he blessed Abram and said:
+\b
 \q1 “Blessed be Abram by God Most High,
 \q2 Creator of heaven and earth,
 \q1
@@ -1518,7 +1521,7 @@
 \v 14 Your descendants will be like the dust of the earth, and you will spread out to the west and east and north and south. All the families of the earth will be blessed through you and your offspring.
 \v 15 Look, I am with you, and I will watch over you wherever you go, and I will bring you back to this land. For I will not leave you until I have done what I have promised you.”
 \p
-\v 16 When Jacob woke up, he thought, “Surely the \nd Lord\nd* is in this place, and I was unaware of it.”
+\v 16 When Jacob woke up, he said, “Surely the \nd Lord\nd* is in this place, and I was unaware of it.”
 \v 17 And he was afraid and said, “How awesome is this place! This is none other than the house of God; this is the gate of heaven!”
 \s1 The Stone of Bethel
 \p
@@ -1803,7 +1806,7 @@
 \v 30 So Jacob named the place Peniel,\f + \fr 32:30 \fq Peniel \ft means \fqa the face of God\ft .\f* saying, “Indeed, I have seen God face to face, and yet my life was spared.”
 \p
 \v 31 The sun rose above him as he passed by Penuel,\f + \fr 32:31 \fq Penuel \ft is a variant of \fqa Peniel\ft ; see verse 30.\f* and he was limping because of his hip.
-\v 32 Therefore to this day the Israelites do not eat the tendon which is at the socket of the hip, because the socket of Jacobʼs hip was struck near that tendon.
+\v 32 Therefore to this day the Israelites do not eat the tendon attached to the socket of the hip, because the socket of Jacobʼs hip was struck near that tendon.
 \c 33
 \s1 Jacob Meets Esau
 \p

@@ -1,4 +1,4 @@
-\id PSA - Berean Study Bible
+\id PSA - Berean Standard Bible
 \h Psalm
 \toc1 Psalms
 \toc2 Psalm
@@ -7,7 +7,6 @@
 \c 1
 \ms BOOK I
 \mr Psalms 1—41
-\cl Psalm 1
 \s1 The Two Paths
 \r (Matthew 5:3–12; Luke 6:20–23)
 \q1
@@ -35,7 +34,6 @@
 \v 6 For the LORD guards the path of the righteous,
 \q2 but the way of the wicked will perish.
 \c 2
-\cl Psalm 2
 \s1 The Triumphant Messiah
 \r (Acts 4:23–31)
 \q1
@@ -85,7 +83,6 @@
 \b
 \q1 Blessed are all who take refuge in Him.
 \c 3
-\cl Psalm 3
 \s1 Deliver Me, O LORD!
 \r (2 Samuel 15:13–29)
 \d A Psalm of David, when he fled from his son Absalom.
@@ -120,7 +117,6 @@
 \q2 may Your blessing be on Your people.
 \qr Selah
 \c 4
-\cl Psalm 4
 \s1 Answer Me When I Call!
 \d For the choirmaster. With stringed instruments. A Psalm of David.
 \q1
@@ -155,7 +151,6 @@
 \v 8 I will lie down and sleep in peace,
 \q2 for You alone, O LORD, make me dwell in safety.
 \c 5
-\cl Psalm 5
 \s1 Give Ear to My Words
 \d For the choirmaster, to be accompanied by flutes. A Psalm of David.
 \q1
@@ -212,10 +207,9 @@
 \v 12 For surely You, O LORD, bless the righteous;
 \q2 You surround them with the shield of Your favor.
 \c 6
-\cl Psalm 6
 \s1 Do Not Rebuke Me in Your Anger
-\r (Psalm 38:1–22)
-\d For the choirmaster. With stringed instruments, according to Sheminith.\f + \fr 6:0 \ft Sheminith is probably a musical term; here and in \+xt 1 Chronicles 15:21\+xt* and \+xt Psalm 12:1\+xt*.\f* A Psalm of David.
+\r (Psalms 38:1–22)
+\d For the choirmaster. With stringed instruments, according to Sheminith.\f + \fr 6:0 \ft Sheminith is probably a musical term; here and in \+xt 1 Chronicles 15:21\+xt* and \+xt Psalms 12:1\+xt*.\f* A Psalm of David.
 \q1
 \v 1 O LORD, do not rebuke me in Your anger
 \q2 or discipline me in Your wrath.
@@ -251,7 +245,6 @@
 \v 10 All my enemies will be ashamed and dismayed;
 \q2 they will turn back in sudden disgrace.
 \c 7
-\cl Psalm 7
 \s1 I Take Refuge in You
 \d A Shiggaion\f + \fr 7:0 \ft Shiggaion is probably a musical or liturgical term.\f* of David, which he sang to the LORD concerning the words of Cush, a Benjamite.
 \q1
@@ -316,7 +309,6 @@
 \v 17 I will thank the LORD for His righteousness
 \q2 and sing praise to the name of the LORD Most High.
 \c 8
-\cl Psalm 8
 \s1 How Majestic Is Your Name!
 \d For the choirmaster. According to Gittith.\f + \fr 8:0 \ft Gittith is probably a musical or liturgical term; here and in Psalms 81 and 84.\f* A Psalm of David.
 \q1
@@ -357,7 +349,6 @@
 \v 9 O LORD, our Lord,
 \q2 how majestic is Your name in all the earth!
 \c 9
-\cl Psalm 9
 \s1 I Will Give Thanks to the LORD
 \d For the choirmaster. To the tune of “The Death of the Son.” A Psalm of David.\f + \fr 9:0 \ft Psalms 9 and 10 together follow an acrostic pattern, each stanza beginning with the successive letters of the Hebrew alphabet. In the LXX they form one psalm.\f*
 \q1
@@ -433,7 +424,6 @@
 \q2 let the nations know they are but men.
 \qr Selah
 \c 10
-\cl Psalm 10
 \s1 The Perils of the Pilgrim
 \q1
 \v 1 Why, O LORD, do You stand far off?
@@ -469,7 +459,7 @@
 \q2 he catches the lowly in his net.
 \q1
 \v 10 They are crushed and beaten down;\f + \fr 10:10 \ft Or He crouches and lies low\f*
-\q2 the hapless fall prey to his strength.
+\q2 the helpless fall prey to his strength.
 \q1
 \v 11 He says to himself, “God has forgotten;
 \q2 He hides His face and never sees.”
@@ -502,7 +492,6 @@
 \q1 that the men of the earth
 \q2 may strike terror no more.
 \c 11
-\cl Psalm 11
 \s1 In the LORD I Take Refuge
 \r (Habakkuk 1:12–17)
 \d For the choirmaster. Of David.
@@ -535,9 +524,8 @@
 \v 7 For the LORD is righteous; He loves justice.
 \q2 The upright will see His face.
 \c 12
-\cl Psalm 12
 \s1 The Godly Are No More
-\d For the choirmaster. According to Sheminith.\f + \fr 12:0 \ft Sheminith is probably a musical term; here and in \+xt 1 Chronicles 15:21\+xt* and \+xt Psalm 6:1\+xt*.\f* A Psalm of David.
+\d For the choirmaster. According to Sheminith.\f + \fr 12:0 \ft Sheminith is probably a musical term; here and in \+xt 1 Chronicles 15:21\+xt* and \+xt Psalms 6:1\+xt*.\f* A Psalm of David.
 \q1
 \v 1 Help, O LORD, for the godly are no more;
 \q2 the faithful have vanished from among men.
@@ -568,7 +556,6 @@
 \v 8 The wicked wander freely,
 \q2 and vileness is exalted among men.
 \c 13
-\cl Psalm 13
 \s1 How Long, O LORD?
 \d For the choirmaster. A Psalm of David.
 \q1
@@ -594,9 +581,8 @@
 \v 6 I will sing to the LORD,
 \q2 for He has been good to me.
 \c 14
-\cl Psalm 14
 \s1 The Fool Says There Is No God
-\r (Psalm 53:1–6; Isaiah 59:1–17; Romans 3:9–20)
+\r (Psalms 53:1–6; Isaiah 59:1–17; Romans 3:9–20)
 \d For the choirmaster. Of David.
 \q1
 \v 1 The fool\f + \fr 14:1 \ft The Hebrew words rendered fool throughout the Psalms denote one who is morally deficient.\f* says in his heart,
@@ -634,7 +620,6 @@
 \q1 When the LORD restores His captive people,
 \q2 let Jacob rejoice, let Israel be glad!
 \c 15
-\cl Psalm 15
 \s1 Who May Dwell on Your Holy Mountain?
 \d A Psalm of David.
 \q1
@@ -660,10 +645,9 @@
 \q1 He who does these things
 \q2 will never be shaken.
 \c 16
-\cl Psalm 16
 \s1 The Presence of the LORD
 \r (Acts 2:14–36)
-\d A Miktam\f + \fr 16:0 \ft Miktam is probably a musical or liturgical term; used for Psalm 16 and Psalms 56–60.\f* of David.
+\d A Miktam\f + \fr 16:0 \ft Miktam is probably a musical or liturgical term; used for Psalms 16 and Psalms 56–60.\f* of David.
 \q1
 \v 1 Preserve me, O God,
 \q2 for in You I take refuge.
@@ -705,7 +689,6 @@
 \q2 You will fill me with joy in Your presence,\f + \fr 16:11 \ft Cited in \+xt Acts 2:25–28\+xt*\f*
 \q2 with eternal pleasures at Your right hand.
 \c 17
-\cl Psalm 17
 \s1 Hear My Righteous Plea
 \d A prayer of David.
 \q1
@@ -771,7 +754,6 @@
 \v 15 As for me, I will behold Your face in righteousness;
 \q2 when I awake, I will be satisfied in Your presence.
 \c 18
-\cl Psalm 18
 \s1 The LORD Is My Rock
 \r (2 Samuel 22:1–51)
 \d For the choirmaster. Of David the servant of the LORD, who sang this song to the LORD on the day the LORD had delivered him from the hand of all his enemies and from the hand of Saul. He said:
@@ -916,7 +898,7 @@
 \q2 You have subdued my foes beneath me.
 \q1
 \v 40 You have made my enemies retreat before me;
-\q2 I put an end to those who hated me.
+\q2 I destroyed those who hated me.
 \q1
 \v 41 They cried for help, but there was no one to save them—
 \q2 to the LORD, but He did not answer.
@@ -954,7 +936,6 @@
 \q2 He shows loving devotion to His anointed,
 \q2 to David and his descendants forever.
 \c 19
-\cl Psalm 19
 \s1 The Heavens Declare the Glory of God
 \d For the choirmaster. A Psalm of David.
 \q1
@@ -1018,7 +999,6 @@
 \q1 be pleasing in Your sight,
 \q2 O LORD, my Rock and my Redeemer.
 \c 20
-\cl Psalm 20
 \s1 The Day of Trouble
 \d For the choirmaster. A Psalm of David.
 \q1
@@ -1053,7 +1033,6 @@
 \v 9 O LORD, save\f + \fr 20:9 \ft Or give victory to\f* the king.
 \q2 Answer us on the day we call.
 \c 21
-\cl Psalm 21
 \s1 After the Battle
 \r (Proverbs 21:1–31)
 \d For the choirmaster. A Psalm of David.
@@ -1106,7 +1085,6 @@
 \v 13 Be exalted, O LORD, in Your strength;
 \q2 we will sing and praise Your power.
 \c 22
-\cl Psalm 22
 \s1 The Psalm of the Cross
 \r (Matthew 27:32–56; Mark 15:21–41; Luke 23:26–43; John 19:16–30)
 \d For the choirmaster. To the tune of “The Doe of the Dawn.” A Psalm of David.
@@ -1232,7 +1210,6 @@
 \q2 to a people yet unborn—
 \q2 all that He has done.
 \c 23
-\cl Psalm 23
 \s1 The LORD Is My Shepherd
 \r (Ezekiel 34:11–24; John 10:1–21)
 \d A Psalm of David.
@@ -1261,9 +1238,8 @@
 \v 6 Surely goodness and mercy will follow me
 \q2 all the days of my life,
 \q1 and I will dwell in the house of the LORD
-\q2 forever.
+\q2 forever\f + \fr 23:6 \ft Literally for a length of days\f*.
 \c 24
-\cl Psalm 24
 \s1 The Earth Is the LORDʼs
 \d A Psalm of David.
 \q1
@@ -1305,7 +1281,6 @@
 \q2 He is the King of Glory.
 \qr Selah
 \c 25
-\cl Psalm 25
 \s1 To You I Lift Up My Soul
 \d Of David.\f + \fr 25:0 \ft This psalm is an acrostic poem, each verse beginning with the successive letters of the Hebrew alphabet.\f*
 \q1
@@ -1316,7 +1291,7 @@
 \q2 do not let my enemies exult over me.
 \q1
 \v 3 Surely none who wait for You will be put to shame;
-\q2 but those who are faithless without cause will be disgraced.
+\q2 but those who engage in treachery without cause will be disgraced.
 \b
 \q1
 \v 4 Show me Your ways, O LORD;
@@ -1385,7 +1360,6 @@
 \v 22 Redeem Israel, O God,
 \q2 from all its distress.
 \c 26
-\cl Psalm 26
 \s1 Vindicate Me, O LORD
 \d Of David.
 \q1
@@ -1430,7 +1404,6 @@
 \v 12 My feet stand on level ground;
 \q2 in the congregations I will bless the LORD.
 \c 27
-\cl Psalm 27
 \s1 The LORD Is My Salvation
 \d Of David.
 \q1
@@ -1500,7 +1473,6 @@
 \b
 \q1 Wait patiently for the LORD!
 \c 28
-\cl Psalm 28
 \s1 The LORD Is My Strength
 \d Of David.
 \q1
@@ -1546,7 +1518,6 @@
 \v 9 Save Your people and bless Your inheritance;
 \q2 shepherd them and carry them forever.
 \c 29
-\cl Psalm 29
 \s1 Ascribe Glory to the LORD
 \d A Psalm of David.
 \q1
@@ -1588,7 +1559,6 @@
 \v 11 The LORD gives His people strength;
 \q2 the LORD blesses His people with peace.
 \c 30
-\cl Psalm 30
 \s1 You Turned My Mourning into Dancing
 \d A Psalm. A song for the dedication of the temple. Of David.
 \q1
@@ -1640,7 +1610,6 @@
 \v 12 that my heart may sing Your praises and not be silent.
 \q2 O LORD my God, I will give thanks forever.
 \c 31
-\cl Psalm 31
 \s1 Into Your Hands I Commit My Spirit
 \r (Luke 23:44–49)
 \d For the choirmaster. A Psalm of David.
@@ -1749,7 +1718,6 @@
 \v 24 Be strong and courageous,
 \q2 all you who hope in the LORD.
 \c 32
-\cl Psalm 32
 \s1 The Joy of Forgiveness
 \r (Romans 4:1–12)
 \d Of David. A Maskil.\f + \fr 32:0 \ft Maskil is probably a musical or liturgical term; used for Psalms 32, 42, 44–45, 52–55, 74, 78, 88–89, and 142.\f*
@@ -1802,9 +1770,8 @@
 \v 11 Be glad in the LORD and rejoice, O righteous ones;
 \q2 shout for joy, all you upright in heart.
 \c 33
-\cl Psalm 33
 \s1 Praise to the Creator
-\r (Psalm 148:1–14)
+\r (Psalms 148:1–14)
 \q1
 \v 1 Rejoice in the LORD, O righteous ones;
 \q2 it is fitting for the upright to praise Him.
@@ -1878,7 +1845,6 @@
 \v 22 May Your loving devotion rest on us, O LORD,
 \q2 as we put our hope in You.
 \c 34
-\cl Psalm 34
 \s1 Taste and See That the LORD Is Good
 \r (1 Samuel 21:8–15)
 \d Of David, when he pretended to be insane before Abimelech,\f + \fr 34:0 \ft Abimelech is another name for Achish; see 1 Samuel 21–29 and \+xt 1 Kings 2:39\+xt*.\f* so that the king drove him away.\f + \fr 34:0 \ft This psalm is an acrostic poem, each verse beginning with the successive letters of the Hebrew alphabet.\f*
@@ -1955,7 +1921,6 @@
 \v 22 The LORD redeems His servants,
 \q2 and none who take refuge in Him will be condemned.
 \c 35
-\cl Psalm 35
 \s1 Contend with My Opponents, O LORD
 \d Of David.
 \q1
@@ -2069,7 +2034,6 @@
 \v 28 Then my tongue will proclaim Your righteousness
 \q2 and Your praises all day long.
 \c 36
-\cl Psalm 36
 \s1 The Transgression of the Wicked
 \d For the choirmaster. A Psalm of David, the servant of the LORD.
 \q1
@@ -2116,7 +2080,6 @@
 \v 12 There the evildoers lie fallen,
 \q2 thrown down and unable to rise.
 \c 37
-\cl Psalm 37
 \s1 Delight Yourself in the LORD
 \r (1 Kings 2:1–9)
 \d Of David.\f + \fr 37:0 \ft This psalm is an acrostic poem, each stanza beginning with the successive letters of the Hebrew alphabet.\f*
@@ -2273,9 +2236,7 @@
 \q2 He rescues and saves them from the wicked,
 \q2 because they take refuge in Him.
 \c 38
-\cl Psalm 38
 \s1 Do Not Rebuke Me in Your Anger
-\r (Psalm 6:1–10)
 \d A Psalm of David, for remembrance.
 \q1
 \v 1 O LORD, do not rebuke me in Your anger
@@ -2352,7 +2313,6 @@
 \v 22 Come quickly to help me,
 \q2 O Lord my Savior.
 \c 39
-\cl Psalm 39
 \s1 I Will Watch My Ways
 \d For the choirmaster. For Jeduthun. A Psalm of David.
 \q1
@@ -2415,9 +2375,8 @@
 \q2 that I may again be cheered
 \q2 before I depart and am no more.”
 \c 40
-\cl Psalm 40
 \s1 I Waited Patiently for the LORD
-\r (Psalm 70:1–5; Hebrews 10:1–18)
+\r (Psalms 70:1–5; Hebrews 10:1–18)
 \d For the choirmaster. A Psalm of David.
 \q1
 \v 1 I waited patiently for the LORD;
@@ -2500,7 +2459,6 @@
 \q1 You are my helper and deliverer;
 \q2 O my God, do not delay.
 \c 41
-\cl Psalm 41
 \s1 Victory over Betrayal
 \r (John 13:18–30)
 \d For the choirmaster. A Psalm of David.
@@ -2510,7 +2468,7 @@
 \q1
 \v 2 The LORD will protect and preserve him;
 \q2 He will bless him in the land
-\q1 and refuse to surrender him
+\q1 and refuse to give him over
 \q2 to the will of his foes.
 \q1
 \v 3 The LORD will sustain him on his bed of illness
@@ -2555,7 +2513,6 @@
 \c 42
 \ms BOOK II
 \mr Psalms 42–72
-\cl Psalm 42
 \s1 As the Deer Pants for the Water
 \d For the choirmaster. A Maskil of the sons of Korah.\f + \fr 42:0 \ft In many Hebrew manuscripts Psalms 42 and 43 constitute one psalm. Maskil is probably a musical or liturgical term; used for Psalms 32, 42, 44–45, 52–55, 74, 78, 88–89, and 142.\f*
 \q1
@@ -2572,7 +2529,7 @@
 \q1
 \v 4 These things come to mind as I pour out my soul:
 \q2 how I walked with the multitude,
-\q1 leading the procession to the house of God
+\q1 leading the festive procession to the house of God
 \q2 with shouts of joy and praise.
 \b
 \q1
@@ -2613,7 +2570,6 @@
 \q1 Put your hope in God, for I will yet praise Him,
 \q2 my Savior and my God.
 \c 43
-\cl Psalm 43
 \s1 Send Out Your Light
 \q1
 \v 1 Vindicate me, O God, and plead my case
@@ -2642,7 +2598,6 @@
 \q1 Put your hope in God, for I will yet praise Him,
 \q2 my Savior and my God.
 \c 44
-\cl Psalm 44
 \s1 Redeem Us, O God
 \r (Romans 8:35–39)
 \d For the choirmaster. A Maskil\f + \fr 44:0 \ft Maskil is probably a musical or liturgical term; used for Psalms 32, 42, 44–45, 52–55, 74, 78, 88–89, and 142.\f* of the sons of Korah.
@@ -2739,9 +2694,8 @@
 \v 26 Rise up; be our help!
 \q2 Redeem us on account of Your loving devotion.
 \c 45
-\cl Psalm 45
 \s1 My Heart Is Stirred by a Noble Theme
-\r (1 Kings 3:1–15; 2 Chronicles 1:1–13; Psalm 72:1–20)
+\r (1 Kings 3:1–15; 2 Chronicles 1:1–13; Psalms 72:1–20)
 \d For the choirmaster. To the tune of “The Lilies.” A Maskil\f + \fr 45:0 \ft Maskil is probably a musical or liturgical term; used for Psalms 32, 42, 44–45, 52–55, 74, 78, 88–89, and 142.\f* of the sons of Korah. A love song.
 \q1
 \v 1 My heart is stirred by a noble theme
@@ -2749,8 +2703,8 @@
 \q2 my tongue is the pen of a skillful writer.
 \q1
 \v 2 You are the most handsome of men;
-\q2 grace has anointed your lips,
-\q2 since God has blessed you forever.
+\q2 grace has anointed your lips;
+\q2 therefore God has blessed you forever.
 \q1
 \v 3 Strap your sword at your side, O mighty warrior;
 \q2 appear in your majesty and splendor.
@@ -2807,7 +2761,6 @@
 \v 17 I will commemorate your name through all generations;
 \q2 therefore the nations will praise you forever and ever.
 \c 46
-\cl Psalm 46
 \s1 God Is Our Refuge and Strength
 \r (2 Kings 18:13–16; 2 Chronicles 32:1–8)
 \d For the choirmaster. Of the sons of Korah. According to Alamoth.\f + \fr 46:0 \ft Alamoth is probably a musical or liturgical term; here and in \+xt 1 Chronicles 15:20\+xt*.\f* A song.
@@ -2854,7 +2807,6 @@
 \q2 the God of Jacob is our fortress.
 \qr Selah
 \c 47
-\cl Psalm 47
 \s1 Clap Your Hands, All You Peoples
 \d For the choirmaster. A Psalm of the sons of Korah.
 \q1
@@ -2879,7 +2831,7 @@
 \q2 sing praises to our King, sing praises!
 \q1
 \v 7 For God is King of all the earth;
-\q2 sing profound praises to Him.\f + \fr 47:7 \ft Or sing a Maskil of praise or sing praises with understanding\f*
+\q2 sing to Him a psalm of praise.\f + \fr 47:7 \ft Or sing a Maskil of praise or sing praises with understanding\f*
 \b
 \q1
 \v 8 God reigns over the nations;
@@ -2890,7 +2842,6 @@
 \q1 for the shields of the earth belong to God;
 \q2 He is highly exalted.
 \c 48
-\cl Psalm 48
 \s1 Broken Bondage
 \d A song. A Psalm of the sons of Korah.
 \q1
@@ -2948,7 +2899,6 @@
 \v 14 For this God is our God forever and ever;
 \q2 He will be our guide even till death.\f + \fr 48:14 \ft Or He will guide us beyond death\f*
 \c 49
-\cl Psalm 49
 \s1 The Evanescence of Wealth
 \r (Ecclesiastes 5:8–20)
 \d For the choirmaster. A Psalm of the sons of Korah.
@@ -2994,7 +2944,7 @@
 \q2 he is like the beasts that perish.
 \b
 \q1
-\v 13 This is the fate of the self-confident\f + \fr 49:13 \ft Or the way of the foolish\f*
+\v 13 This is the fate of the foolish\f + \fr 49:13 \ft Or the way of the foolish\f*
 \q2 and their followers who endorse their sayings.
 \qr Selah
 \q1
@@ -3008,7 +2958,7 @@
 \q2 for He will surely take me to Himself.
 \qr Selah
 \q1
-\v 16 Do not be amazed when a man grows rich,
+\v 16 Do not be afraid when a man grows rich,
 \q2 when the splendor of his house increases.
 \q1
 \v 17 For when he dies, he will carry nothing away;
@@ -3023,7 +2973,6 @@
 \v 20 A man who has riches without understanding
 \q2 is like the beasts that perish.
 \c 50
-\cl Psalm 50
 \s1 The Mighty One Calls
 \d A Psalm of Asaph.
 \q1
@@ -3088,7 +3037,7 @@
 \q2 and throw in your lot with adulterers.
 \q1
 \v 19 You unleash your mouth for evil
-\q2 and unharness your tongue for deceit.
+\q2 and unharness your tongue to deceit.
 \q1
 \v 20 You sit and malign your brother;
 \q2 you slander your own motherʼs son.
@@ -3104,10 +3053,9 @@
 \q2 with no one to rescue you:
 \q1
 \v 23 He who sacrifices a thank offering honors Me,
-\q2 and to him who rights his way,
+\q2 and to him who rightly orders his way,
 \q2 I will show the salvation of God.”
 \c 51
-\cl Psalm 51
 \s1 Create in Me a Clean Heart, O God
 \r (2 Samuel 12:1–12)
 \d For the choirmaster. A Psalm of David. When Nathan the prophet came to him after his adultery with Bathsheba.
@@ -3180,7 +3128,6 @@
 \q2 in whole burnt offerings;
 \q2 then bulls will be offered on Your altar.
 \c 52
-\cl Psalm 52
 \s1 Why Do You Boast of Evil?
 \r (1 Samuel 22:6–23)
 \d For the choirmaster. A Maskil\f + \fr 52:0 \ft Maskil is probably a musical or liturgical term; used for Psalms 32, 42, 44–45, 52–55, 74, 78, 88–89, and 142.\f* of David. After Doeg the Edomite went to Saul and told him, “David has gone to the house of Ahimelech.”
@@ -3224,7 +3171,6 @@
 \q2 for it is good—
 \q2 in the presence of Your saints.
 \c 53
-\cl Psalm 53
 \s1 The Fool Says There Is No God
 \r (Psalm 14:1–7; Isaiah 59:1–17; Romans 3:9–20)
 \d For the choirmaster. According to Mahalath.\f + \fr 53:0 \ft Mahalath is probably a musical or liturgical term; see also \+xt Psalm 88:1\+xt*.\f* A Maskil\f + \fr 53:0 \ft Maskil is probably a musical or liturgical term; used for Psalms 32, 42, 44–45, 52–55, 74, 78, 88–89, and 142.\f* of David.
@@ -3265,7 +3211,6 @@
 \q1 When God restores His captive people,\f + \fr 53:6 \ft Or the fortunes of His people\f*
 \q2 let Jacob rejoice, let Israel be glad!
 \c 54
-\cl Psalm 54
 \s1 Save Me by Your Name
 \r (1 Samuel 23:7–29)
 \d For the choirmaster. With stringed instruments. A Maskil\f + \fr 54:0 \ft Maskil is probably a musical or liturgical term; used for Psalms 32, 42, 44–45, 52–55, 74, 78, 88–89, and 142.\f* of David. When the Ziphites went to Saul and said, “Is David not hiding among us?”
@@ -3291,9 +3236,8 @@
 \q2 I will praise Your name, O LORD, for it is good.
 \q1
 \v 7 For He has delivered me from every trouble,
-\q2 and my eyes have stared down my foes.
+\q2 and my eyes have looked in triumph on my foes.
 \c 55
-\cl Psalm 55
 \s1 Cast Your Burden upon the LORD
 \r (2 Samuel 17:15–29)
 \d For the choirmaster. With stringed instruments. A Maskil\f + \fr 55:0 \ft Maskil is probably a musical or liturgical term; used for Psalms 32, 42, 44–45, 52–55, 74, 78, 88–89, and 142.\f* of David.
@@ -3306,11 +3250,11 @@
 \q1 and distraught
 \v 3 at the voice of the enemy,
 \q2 at the pressure of the wicked.
-\q1 For they release disaster upon me
+\q1 For they bring down disaster upon me
 \q2 and revile me in their anger.
 \b
 \q1
-\v 4 My heart murmurs within me,
+\v 4 My heart pounds within me,
 \q2 and the terrors of death assail me.
 \q1
 \v 5 Fear and trembling grip me,
@@ -3390,7 +3334,6 @@
 \b
 \q1 But I will trust in You.
 \c 56
-\cl Psalm 56
 \s1 Be Merciful to Me, O God
 \r (1 Samuel 21:8–15)
 \d For the choirmaster. To the tune of “A Dove on Distant Oaks.” A Miktam\f + \fr 56:0 \ft Miktam is probably a musical or liturgical term; used for Psalms 16 and 56–60.\f* of David, when the Philistines seized him in Gath.
@@ -3447,9 +3390,8 @@
 \q1 that I may walk before God
 \q2 in the light of life.
 \c 57
-\cl Psalm 57
 \s1 In You My Soul Takes Refuge
-\r (1 Samuel 22:1–5; Psalm 108:1–13; Psalm 142:1–7)
+\r (1 Samuel 22:1–5; Psalms 108:1–13; Psalms 142:1–7)
 \d For the choirmaster. To the tune of “Do Not Destroy.” A Miktam\f + \fr 57:0 \ft Miktam is probably a musical or liturgical term; used for Psalms 16 and 56–60.\f* of David, when he fled from Saul into the cave.
 \q1
 \v 1 Have mercy on me, O God, have mercy,
@@ -3499,7 +3441,6 @@
 \v 11 Be exalted, O God, above the heavens;
 \q2 may Your glory cover all the earth.
 \c 58
-\cl Psalm 58
 \s1 God Judges the Earth
 \d For the choirmaster. To the tune of “Do Not Destroy.” A Miktam\f + \fr 58:0 \ft Miktam is probably a musical or liturgical term; used for Psalms 16 and 56–60.\f* of David.
 \q1
@@ -3546,7 +3487,6 @@
 \q2 “There is surely a reward for the righteous!
 \q2 There is surely a God who judges the earth!”
 \c 59
-\cl Psalm 59
 \s1 Deliver Me from My Enemies
 \r (1 Samuel 19:1–24)
 \d For the choirmaster. To the tune of “Do Not Destroy.” A Miktam\f + \fr 59:0 \ft Miktam is probably a musical or liturgical term; used for Psalms 16 and 56–60.\f* of David, when Saul sent men to watch Davidʼs house in order to kill him.
@@ -3622,9 +3562,8 @@
 \q2 for You, O God, are my fortress,
 \q2 my God of loving devotion.
 \c 60
-\cl Psalm 60
 \s1 Victory with God
-\r (2 Samuel 8:1–14; 1 Chronicles 18:1–13; Psalm 108:1–13)
+\r (2 Samuel 8:1–14; 1 Chronicles 18:1–13; Psalms 108:1–13)
 \d For the choirmaster. To the tune of “The Lily of the Covenant.” A Miktam\f + \fr 60:0 \ft Miktam is probably a musical or liturgical term; used for Psalms 16 and 56–60.\f* of David for instruction. When he fought Aram-naharaim\f + \fr 60:0 \ft That is, Mesopotamia; Aram-naharaim means Aram of the two rivers, likely the region between the Euphrates and Balih Rivers in northwestern Mesopotamia.\f* and Aram-zobah,\f + \fr 60:0 \ft That is, the land northeast of Damascus\f* and Joab returned and struck down 12,000 Edomites in the Valley of Salt.
 \q1
 \v 1 You have rejected us, O God;
@@ -3674,7 +3613,6 @@
 \v 12 With God we will perform with valor,
 \q2 and He will trample our enemies.
 \c 61
-\cl Psalm 61
 \s1 You Have Heard My Vows
 \d For the choirmaster. With stringed instruments. Of David.
 \q1
@@ -3708,7 +3646,6 @@
 \v 8 Then I will ever sing praise to Your name
 \q2 and fulfill my vows day by day.
 \c 62
-\cl Psalm 62
 \s1 Waiting on God
 \d For the choirmaster. According to Jeduthun. A Psalm of David.
 \q1
@@ -3745,8 +3682,8 @@
 \q2 God is our refuge.
 \qr Selah
 \q1
-\v 9 Lowborn men are but a vapor,
-\q2 the exalted but a lie.
+\v 9 Lowborn men are but a vapor;
+\q2 the exalted are but a lie.
 \q1 Weighed on the scale, they go up;
 \q2 together they are but a vapor.
 \q1
@@ -3764,7 +3701,6 @@
 \q1 For You will repay each man
 \q2 according to his deeds.\f + \fr 62:12 \ft Cited in \+xt Romans 2:6\+xt*\f*
 \c 63
-\cl Psalm 63
 \s1 Thirsting for God
 \r (2 Samuel 15:30–37)
 \d A Psalm of David, when he was in the Wilderness of Judah.
@@ -3809,7 +3745,6 @@
 \q2 all who swear by Him will exult,
 \q2 for the mouths of liars will be shut.
 \c 64
-\cl Psalm 64
 \s1 The Hurtful Tongue
 \r (James 3:1–12)
 \d For the choirmaster. A Psalm of David.
@@ -3852,7 +3787,6 @@
 \q2 and take refuge in Him;
 \q2 let all the upright in heart exult.
 \c 65
-\cl Psalm 65
 \s1 Praise Awaits God in Zion
 \d For the choirmaster. A Psalm of David. A song.
 \q1
@@ -3907,9 +3841,8 @@
 \q1 They shout in triumph;
 \q2 indeed, they sing.
 \c 66
-\cl Psalm 66
 \s1 Make a Joyful Noise
-\r (Psalm 100:1–5)
+\r (Psalms 100:1–5)
 \d For the choirmaster. A song. A Psalm.
 \q1
 \v 1 Make a joyful noise to God,
@@ -3984,7 +3917,6 @@
 \v 20 Blessed be God, who has not rejected my prayer
 \q2 or withheld from me His loving devotion!
 \c 67
-\cl Psalm 67
 \s1 May God Cause His Face to Shine upon Us
 \d For the choirmaster. With stringed instruments. A Psalm. A song.
 \q1
@@ -4014,7 +3946,6 @@
 \v 7 God blesses us,
 \q2 that all the ends of the earth shall fear Him.
 \c 68
-\cl Psalm 68
 \s1 Godʼs Enemies Are Scattered
 \d For the choirmaster. A Psalm of David. A song.
 \q1
@@ -4161,7 +4092,6 @@
 \b
 \q1 Blessed be God!
 \c 69
-\cl Psalm 69
 \s1 The Waters Are up to My Neck
 \d For the choirmaster. To the tune of “Lilies.” Of David.
 \q1
@@ -4299,9 +4229,8 @@
 \v 36 The descendants of His servants will inherit it,
 \q2 and those who love His name will settle in it.
 \c 70
-\cl Psalm 70
 \s1 Hurry, O LORD, to Help Me!
-\r (Psalm 40:1–17; Psalm 141:1–10)
+\r (Psalms 40:1–17; Psalms 141:1–10)
 \d For the choirmaster. Of David. To bring remembrance.
 \q1
 \v 1 Make haste, O God, to deliver me!
@@ -4327,7 +4256,6 @@
 \q1 You are my help and my deliverer;
 \q2 O LORD, do not delay.
 \c 71
-\cl Psalm 71
 \s1 Be My Rock of Refuge
 \q1
 \v 1 In You, O LORD, I have taken refuge;
@@ -4386,7 +4314,7 @@
 \q2 and Your salvation all day long,
 \q2 though I cannot know their full measure.
 \q1
-\v 16 I will enter in the strength of the Lord GOD;
+\v 16 I will come in the strength of the Lord GOD;
 \q2 I will proclaim Your righteousness—Yours alone.
 \b
 \q1
@@ -4427,9 +4355,8 @@
 \q1 for those who seek my harm
 \q2 are disgraced and confounded.
 \c 72
-\cl Psalm 72
 \s1 Endow the King with Your Justice
-\r (1 Kings 3:1–15; 2 Chronicles 1:1–13; Psalm 45:1–17)
+\r (1 Kings 3:1–15; 2 Chronicles 1:1–13; Psalms 45:1–17)
 \d Of Solomon.
 \q1
 \v 1 Endow the king with Your justice, O God,
@@ -4454,7 +4381,7 @@
 \q2 like spring showers that water the earth.
 \q1
 \v 7 May the righteous flourish in his days
-\q2 and prosperity abound,
+\q2 and prosperity abound
 \q2 until the moon is no more.
 \b
 \q1
@@ -4489,7 +4416,7 @@
 \v 16 May there be an abundance of grain in the land;
 \q2 may it sway atop the hills.
 \q1 May its fruit trees flourish like the forests of Lebanon,
-\q2 and its people like the grass of the field.
+\q2 the people of its cities like the grass of the field.
 \q1
 \v 17 May his name endure forever;
 \q2 may his name continue\f + \fr 72:17 \ft Or increase\f* as long as the sun shines.
@@ -4509,7 +4436,6 @@
 \c 73
 \ms BOOK III
 \mr Psalms 73–89
-\cl Psalm 73
 \s1 Surely God Is Good to Israel
 \d A Psalm of Asaph.
 \q1
@@ -4606,9 +4532,8 @@
 \q2 I have made the Lord GOD my refuge,
 \q2 that I may proclaim all Your works.
 \c 74
-\cl Psalm 74
 \s1 Why Have You Rejected Us Forever?
-\r (Psalm 79:1–13; Jeremiah 52:1–11)
+\r (Psalms 79:1–13; Jeremiah 52:1–11)
 \d A Maskil\f + \fr 74:0 \ft Maskil is probably a musical or liturgical term; used for Psalms 32, 42, 44–45, 52–55, 74, 78, 88–89, and 142.\f* of Asaph.
 \q1
 \v 1 Why have You rejected us forever, O God?
@@ -4618,7 +4543,6 @@
 \v 2 Remember Your congregation,
 \q2 which You purchased long ago
 \q1 and redeemed as the tribe of Your inheritance—
-\q2 Mount Zion where You dwell.
 \q1
 \v 3 Turn Your steps to the everlasting ruins,
 \q2 to everything in the sanctuary the enemy has destroyed.
@@ -4689,9 +4613,9 @@
 \v 23 Do not disregard the clamor of Your adversaries,
 \q2 the uproar of Your enemies that ascends continually.
 \c 75
-\cl Psalm 75
 \s1 Godʼs Righteous Judgment
 \r (Romans 2:1–16)
+<<<<<<< HEAD
 \d For the choirmaster: To the tune of “Do Not Destroy.” A Psalm of Asaph. A song.
 \q1
 \v 1 We give thanks to You, O God;
@@ -4733,7 +4657,6 @@
 \v 10 “All the horns of the wicked I will cut off,
 \q2 but the horns of the righteous will be exalted.”
 \c 76
-\cl Psalm 76
 \s1 Godʼs Name Is Great in Israel
 \d For the choirmaster. With stringed instruments. A Psalm of Asaph. A song.
 \q1
@@ -4778,8 +4701,7 @@
 \v 12 He breaks the spirits of princes;
 \q2 He is feared by the kings of the earth.
 \c 77
-\cl Psalm 77
-\s1 In the Day of Trouble I Sought the LORD
+\s1 In the Day of Trouble I Sought the Lord
 \d For the choirmaster. According to Jeduthun. A Psalm of Asaph.
 \q1
 \v 1 I cried out to God;
@@ -4853,7 +4775,6 @@
 \v 20 You led Your people like a flock
 \q2 by the hand of Moses and Aaron.
 \c 78
-\cl Psalm 78
 \s1 I Will Open My Mouth in Parables
 \r (Matthew 13:34–35)
 \d A Maskil\f + \fr 78:0 \ft Maskil is probably a musical or liturgical term; used for Psalms 32, 42, 44–45, 52–55, 74, 78, 88–89, and 142.\f* of Asaph.
@@ -5111,9 +5032,8 @@
 \v 72 So David shepherded them with integrity of heart
 \q2 and guided them with skillful hands.
 \c 79
-\cl Psalm 79
 \s1 A Prayer for Deliverance
-\r (Psalm 74:1–23; Jeremiah 52:1–11)
+<<<<<<< HEAD
 \d A Psalm of Asaph.
 \q1
 \v 1 The nations, O God, have invaded Your inheritance;
@@ -5171,7 +5091,6 @@
 \q1 from generation to generation
 \q2 we will declare Your praise.
 \c 80
-\cl Psalm 80
 \s1 Hear Us, O Shepherd of Israel
 \d For the choirmaster. To the tune of “The Lilies of the Covenant.” A Psalm of Asaph.
 \q1
@@ -5243,7 +5162,6 @@
 \q2 cause Your face to shine upon us,
 \q2 that we may be saved.
 \c 81
-\cl Psalm 81
 \s1 Sing for Joy to God Our Strength
 \d For the choirmaster. According to Gittith.\f + \fr 81:0 \ft Gittith is probably a musical or liturgical term; here and in Psalms 8 and 84.\f* Of Asaph.
 \q1
@@ -5302,7 +5220,6 @@
 \v 16 But I would feed you the finest wheat;
 \q2 with honey from the rock I would satisfy you.”
 \c 82
-\cl Psalm 82
 \s1 God Presides in the Divine Assembly
 \d A Psalm of Asaph.
 \q1
@@ -5334,7 +5251,6 @@
 \v 8 Arise, O God, judge the earth,
 \q2 for all the nations are Your inheritance.
 \c 83
-\cl Psalm 83
 \s1 O God, Be Not Silent
 \d A song. A Psalm of Asaph.
 \q1
@@ -5351,7 +5267,7 @@
 \q2 may the name of Israel be remembered no more.”
 \b
 \q1
-\v 5 For with one mind they plot together,
+\v 5 For with one mind they plot together;
 \q2 they form an alliance against You—
 \q1
 \v 6 the tents of Edom and the Ishmaelites,
@@ -5397,7 +5313,6 @@
 \q2 whose name is the LORD,
 \q2 are Most High over all the earth.
 \c 84
-\cl Psalm 84
 \s1 Better Is One Day in Your Courts
 \r (John 1:14–18)
 \d For the choirmaster. According to Gittith.\f + \fr 84:0 \ft Gittith is probably a musical or liturgical term; here and in Psalms 8 and 81.\f* A Psalm of the sons of Korah.
@@ -5452,7 +5367,6 @@
 \v 12 O LORD of Hosts,
 \q2 how blessed is the man who trusts in You!
 \c 85
-\cl Psalm 85
 \s1 You Showed Favor to Your Land
 \d For the choirmaster. A Psalm of the sons of Korah.
 \q1
@@ -5500,7 +5414,6 @@
 \v 13 Righteousness will go before Him
 \q2 to prepare the way for His steps.
 \c 86
-\cl Psalm 86
 \s1 Tried but Trusting
 \d A prayer of David.
 \q1
@@ -5551,8 +5464,8 @@
 \b
 \q1
 \v 14 The arrogant rise against me, O God;
-\q2 a band of ruthless men seeks my life,
-\q2 with no regard for You.
+\q2 a band of ruthless men seeks my life;
+\q2 they have no regard for You.
 \q1
 \v 15 But You, O Lord, are a compassionate and gracious God,
 \q2 slow to anger, abounding in loving devotion and faithfulness.
@@ -5566,7 +5479,6 @@
 \q2 that my enemies may see and be ashamed;
 \q2 for You, O LORD, have helped me and comforted me.
 \c 87
-\cl Psalm 87
 \s1 The LORD Loves the Gates of Zion
 \d A Psalm of the sons of Korah. A song.
 \q1
@@ -5598,9 +5510,8 @@
 \v 7 Singers and pipers will proclaim,
 \q2 “All my springs of joy are in You.”
 \c 88
-\cl Psalm 88
 \s1 I Cry Out before You
-\d A song. A Psalm of the sons of Korah. For the choirmaster. According to Mahalath Leannoth.\f + \fr 88:0 \ft Mahalath Leannoth is probably a musical or liturgical term; see also \+xt Psalm 53:1\+xt*.\f* A Maskil\f + \fr 88:0 \ft Maskil is probably a musical or liturgical term; used for Psalms 32, 42, 44–45, 52–55, 74, 78, 88–89, and 142.\f* of Heman the Ezrahite.
+\d A song. A Psalm of the sons of Korah. For the choirmaster. According to Mahalath Leannoth.\f + \fr 88:0 \ft Mahalath Leannoth is probably a musical or liturgical term; see also \+xt Psalms 53:1\+xt*.\f* A Maskil\f + \fr 88:0 \ft Maskil is probably a musical or liturgical term; used for Psalms 32, 42, 44–45, 52–55, 74, 78, 88–89, and 142.\f* of Heman the Ezrahite.
 \q1
 \v 1 O LORD, the God of my salvation,
 \q2 day and night I cry out before You.
@@ -5666,7 +5577,6 @@
 \v 18 You have removed my beloved and my friend;
 \q2 darkness is my closest companion.
 \c 89
-\cl Psalm 89
 \s1 I Will Sing of His Love Forever
 \d A Maskil\f + \fr 89:0 \ft Maskil is probably a musical or liturgical term; used for Psalms 32, 42, 44–45, 52–55, 74, 78, 88–89, and 142.\f* of Ethan the Ezrahite.
 \q1
@@ -5848,7 +5758,6 @@
 \c 90
 \ms BOOK IV
 \mr Psalms 90–106
-\cl Psalm 90
 \s1 From Everlasting to Everlasting
 \d A prayer of Moses the man of God.
 \q1
@@ -5868,7 +5777,7 @@
 \q2 are but a day that passes,\f + \fr 90:4 \ft See \+xt 2 Peter 3:8\+xt*.\f*
 \q2 or a watch of the night.
 \q1
-\v 5 You whisk them away in their sleep;
+\v 5 You sweep them away in their sleep;
 \q2 they are like the new grass of the morning—
 \q1
 \v 6 in the morning it springs up new,
@@ -5914,7 +5823,6 @@
 \q2 establish for us the work of our hands—
 \q2 yes, establish the work of our hands!
 \c 91
-\cl Psalm 91
 \s1 You Are My Refuge and My Fortress
 \q1
 \v 1 He who dwells in the shelter of the Most High
@@ -5973,7 +5881,6 @@
 \v 16 With long life I will satisfy him
 \q2 and show him My salvation.”
 \c 92
-\cl Psalm 92
 \s1 How Great Are Your Works!
 \d A Psalm. A song for the Sabbath day.
 \q1
@@ -6027,9 +5934,8 @@
 \v 15 to proclaim, “The LORD is upright; He is my Rock,
 \q2 and in Him there is no unrighteousness.”
 \c 93
-\cl Psalm 93
 \s1 The LORD Reigns!
-\r (Psalm 99:1–9)
+<<<<<<< HEAD
 \q1
 \v 1 The LORD reigns! He is robed in majesty;
 \q2 the LORD has clothed and armed Himself with strength.
@@ -6053,7 +5959,6 @@
 \q2 holiness adorns Your house, O LORD,
 \q2 for all the days to come.
 \c 94
-\cl Psalm 94
 \s1 The LORD Will Not Forget His People
 \q1
 \v 1 O LORD, God of vengeance,
@@ -6131,7 +6036,6 @@
 \q2 and destroy them for their wickedness.
 \q2 The LORD our God will destroy them.
 \c 95
-\cl Psalm 95
 \s1 Do Not Harden Your Hearts
 \r (Hebrews 3:7–11)
 \q1
@@ -6175,7 +6079,6 @@
 \v 11 So I swore on oath in My anger,
 \q2 “They shall never enter My rest.”\f + \fr 95:11 \ft Cited in \+xt Hebrews 3:7–11,\+xt* \+xt Hebrews 4:3,\+xt* and \+xt Hebrews 4:5\+xt*\f*
 \c 96
-\cl Psalm 96
 \s1 Sing to the LORD, All the Earth
 \r (1 Chronicles 16:23–36)
 \q1
@@ -6229,7 +6132,6 @@
 \q1 He will judge the world in righteousness
 \q2 and the peoples in His faithfulness.
 \c 97
-\cl Psalm 97
 \s1 Let the Earth Rejoice
 \q1
 \v 1 The LORD reigns, let the earth rejoice;
@@ -6275,9 +6177,8 @@
 \v 12 Rejoice in the LORD, you righteous ones,
 \q2 and praise His holy name.
 \c 98
-\cl Psalm 98
 \s1 Sing to the LORD a New Song
-\r (Psalm 149:1–9; Isaiah 42:10–17)
+\r (Psalms 149:1–9; Isaiah 42:10–17)
 \d A Psalm.
 \q1
 \v 1 Sing to the LORD a new song,
@@ -6315,9 +6216,8 @@
 \q1 He will judge the world with righteousness
 \q2 and the peoples with equity.
 \c 99
-\cl Psalm 99
 \s1 The LORD Reigns!
-\r (Psalm 93:1–5)
+\r (Psalms 93:1–5)
 \q1
 \v 1 The LORD reigns;
 \q2 let the nations tremble!
@@ -6357,9 +6257,8 @@
 \q2 and worship at His holy mountain,
 \q2 for the LORD our God is holy.
 \c 100
-\cl Psalm 100
 \s1 Make a Joyful Noise
-\r (Psalm 66:1–20)
+\r (Psalms 66:1–20)
 \d A Psalm of thanksgiving.
 \q1
 \v 1 Make a joyful noise to the LORD,
@@ -6382,7 +6281,6 @@
 \q2 and His loving devotion endures forever;
 \q2 His faithfulness continues to all generations.
 \c 101
-\cl Psalm 101
 \s1 I Will Set No Worthless Thing before My Eyes
 \d A Psalm of David.
 \q1
@@ -6423,7 +6321,6 @@
 \v 8 Every morning I will remove all the wicked of the land,
 \q2 that I may cut off every evildoer from the city of the LORD.
 \c 102
-\cl Psalm 102
 \s1 The Prayer of the Afflicted
 \d A prayer of one who is afflicted, when he grows faint and pours out his lament before the LORD.
 \q1
@@ -6443,7 +6340,7 @@
 \q2 I even forget to eat my bread.
 \q1
 \v 5 Through my loud groaning
-\q2 my flesh clings to my bones.
+\q2 my skin hangs on my bones.
 \q1
 \v 6 I am like a desert owl,
 \q2 like an owl among the ruins.
@@ -6522,7 +6419,6 @@
 \v 28 The children of Your servants will dwell securely,
 \q2 and their descendants will be established before You.”
 \c 103
-\cl Psalm 103
 \s1 Bless the LORD, O My Soul
 \d Of David.
 \q1
@@ -6601,7 +6497,6 @@
 \b
 \q1 Bless the LORD, O my soul!
 \c 104
-\cl Psalm 104
 \s1 How Many Are Your Works, O LORD!
 \q1
 \v 1 Bless the LORD, O my soul!
@@ -6736,7 +6631,6 @@
 \b
 \q1 Hallelujah!\f + \fr 104:35 \ft Or Hallelu YAH, meaning Praise the LORD\f*
 \c 105
-\cl Psalm 105
 \s1 Tell of His Wonders
 \r (1 Chronicles 16:7–22)
 \q1
@@ -6883,7 +6777,6 @@
 \b
 \q1 Hallelujah!\f + \fr 105:45 \ft Or Hallelu YAH, meaning Praise the LORD\f*
 \c 106
-\cl Psalm 106
 \s1 Give Thanks to the LORD, for He Is Good
 \q1
 \v 1 Hallelujah!\f + \fr 106:1 \ft Or Hallelu YAH, meaning Praise the LORD; also in verse 48\f*
@@ -7028,7 +6921,7 @@
 \v 41 He delivered them into the hand of the nations,
 \q2 and those who hated them ruled over them.
 \q1
-\v 42 Their enemies oppressed them,
+<<<<<<< HEAD
 \q2 and subdued them under their hand.
 \q1
 \v 43 Many times He rescued them,
@@ -7060,22 +6953,6 @@
 \q1 Hallelujah!
 \c 107
 \ms BOOK V
-\mr Psalms 107–150
-\cl Psalm 107
-\s1 Thanksgiving for Deliverance
-\r (Matthew 8:23–27; Mark 4:35–41; Luke 8:22–25)
-\q1
-\v 1 Give thanks to the LORD, for He is good;
-\q2 His loving devotion endures forever.
-\q1
-\v 2 Let the redeemed of the LORD say so,
-\q2 whom He has redeemed from the hand of the enemy
-\q1
-\v 3 and gathered from the lands,
-\q2 from east and west, from north and south.\f + \fr 107:3 \ft Hebrew north and the sea\f*
-\b
-\q1
-\v 4 Some wandered in desert wastelands,
 \q2 finding no path to a city in which to dwell.
 \q1
 \v 5 They were hungry and thirsty;
@@ -7202,9 +7079,8 @@
 \v 43 Let him who is wise pay heed to these things
 \q2 and consider the loving devotion of the LORD.
 \c 108
-\cl Psalm 108
 \s1 Israelʼs Kingdom Blessing
-\r (Psalm 57:1–11; Psalm 60:1–12)
+\r (Psalms 57:1–11; Psalms 60:1–12)
 \d A song. A Psalm of David.
 \q1
 \v 1 My heart is steadfast, O God;
@@ -7251,7 +7127,6 @@
 \v 13 With God we will perform with valor,
 \q2 and He will trample our enemies.
 \c 109
-\cl Psalm 109
 \s1 The Song of the Slandered
 \d For the choirmaster. A Psalm of David.
 \q1
@@ -7358,7 +7233,6 @@
 \v 31 For He stands at the right hand of the needy one,
 \q2 to save him from the condemners of his soul.
 \c 110
-\cl Psalm 110
 \s1 Godʼs Faithful Messiah
 \r (Genesis 14:17–24; Hebrews 5:1–10)
 \d A Psalm of David.
@@ -7393,7 +7267,6 @@
 \v 7 He will drink from the brook by the road;
 \q2 therefore He will lift up His head.
 \c 111
-\cl Psalm 111
 \s1 Majestic Is His Work
 \q1
 \v 1 Hallelujah!\f + \fr 111:1 \ft Or Hallelu YAH, meaning Praise the LORD. This psalm is an acrostic poem, each line beginning with the successive letters of the Hebrew alphabet.\f*
@@ -7434,9 +7307,8 @@
 \b
 \q1 His praise endures forever!
 \c 112
-\cl Psalm 112
 \s1 The Blessed Fear of the LORD
-\r (Psalm 128:1–6)
+\r (Psalms 128:1–6)
 \q1
 \v 1 Hallelujah!\f + \fr 112:1 \ft Or Hallelu YAH, meaning Praise the LORD. This psalm is an acrostic poem, each line beginning with the successive letters of the Hebrew alphabet.\f*
 \b
@@ -7474,7 +7346,6 @@
 \q2 he will gnash his teeth and waste away;
 \q2 the desires of the wicked will perish.
 \c 113
-\cl Psalm 113
 \s1 The LORD Exalts the Humble
 \r (1 Samuel 1:1–8)
 \q1
@@ -7511,7 +7382,6 @@
 \b
 \q1 Hallelujah!
 \c 114
-\cl Psalm 114
 \s1 A Psalm of Exodus
 \q1
 \v 1 When Israel departed from Egypt,
@@ -7540,9 +7410,8 @@
 \v 8 who turned the rock into a pool,
 \q2 the flint into a fountain of water!
 \c 115
-\cl Psalm 115
 \s1 To Your Name Be the Glory
-\r (Psalm 135:1–21)
+\r (Psalms 135:1–21)
 \q1
 \v 1 Not to us, O LORD, not to us,
 \q2 but to Your name be the glory,
@@ -7611,7 +7480,6 @@
 \b
 \q1 Hallelujah!\f + \fr 115:18 \ft Or Hallelu YAH, meaning Praise the LORD\f*
 \c 116
-\cl Psalm 116
 \s1 The LORD Has Heard My Voice
 \q1
 \v 1 I love the LORD, for He has heard my voice—
@@ -7681,7 +7549,6 @@
 \b
 \q1 Hallelujah!\f + \fr 116:19 \ft Or Hallelu YAH, meaning Praise the LORD\f*
 \c 117
-\cl Psalm 117
 \s1 Extol Him, All You Peoples
 \q1
 \v 1 Praise the LORD, all you nations!
@@ -7692,7 +7559,6 @@
 \b
 \q1 Hallelujah!\f + \fr 117:2 \ft Or Hallelu YAH, meaning Praise the LORD\f*
 \c 118
-\cl Psalm 118
 \s1 The LORD Is on My Side
 \q1
 \v 1 Give thanks to the LORD, for He is good;
@@ -7791,7 +7657,6 @@
 \v 29 Give thanks to the LORD, for He is good;
 \q2 His loving devotion endures forever.
 \c 119
-\cl Psalm 119
 \s1 Your Word Is a Lamp to My Feet
 \qa א
 \qa ALEPH
@@ -8328,7 +8193,7 @@
 \v 164 Seven times a day I praise You
 \q2 for Your righteous judgments.
 \q1
-\v 165 Abundant peace belongs to those who love Your instruction;
+\v 165 Abundant peace belongs to those who love Your law;
 \q2 nothing can make them stumble.
 \q1
 \v 166 I wait for Your salvation, O LORD,
@@ -8366,7 +8231,6 @@
 \v 176 I have strayed like a lost sheep;
 \q2 seek Your servant, for I have not forgotten Your commandments.
 \c 120
-\cl Psalm 120
 \s1 In My Distress I Cried to the LORD
 \d A song of ascents.
 \q1
@@ -8394,7 +8258,6 @@
 \v 7 I am in favor of peace;
 \q2 but when I speak, they want war.
 \c 121
-\cl Psalm 121
 \s1 I Lift Up My Eyes to the Hills
 \d A song of ascents.
 \q1
@@ -8425,7 +8288,6 @@
 \v 8 The LORD will watch over your coming and going,
 \q2 both now and forevermore.
 \c 122
-\cl Psalm 122
 \s1 Pray for the Peace of Jerusalem
 \d A song of ascents. Of David.
 \q1
@@ -8460,7 +8322,6 @@
 \v 9 For the sake of the house of the LORD our God,
 \q2 I will seek your prosperity.
 \c 123
-\cl Psalm 123
 \s1 I Lift Up My Eyes to You
 \d A song of ascents.
 \q1
@@ -8481,7 +8342,6 @@
 \v 4 We have endured much scorn from the arrogant,
 \q2 much contempt from the proud.
 \c 124
-\cl Psalm 124
 \s1 Our Help Is in the Name of the LORD
 \d A song of ascents. Of David.
 \q1
@@ -8510,7 +8370,6 @@
 \v 8 Our help is in the name of the LORD,
 \q2 the Maker of heaven and earth.
 \c 125
-\cl Psalm 125
 \s1 The LORD Surrounds His People
 \d A song of ascents.
 \q1
@@ -8536,7 +8395,6 @@
 \b
 \q1 Peace be upon Israel.
 \c 126
-\cl Psalm 126
 \s1 Zionʼs Captives Restored
 \d A song of ascents.
 \q1
@@ -8563,7 +8421,6 @@
 \q1 will surely return with shouts of joy,
 \q2 carrying sheaves of grain.
 \c 127
-\cl Psalm 127
 \s1 Children Are a Heritage from the LORD
 \d A song of ascents. Of Solomon.
 \q1
@@ -8589,7 +8446,6 @@
 \q1 He will not be put to shame
 \q2 when he confronts the enemies at the gate.
 \c 128
-\cl Psalm 128
 \s1 The Blessed Fear of the LORD
 \r (Psalm 112:1–10)
 \d A song of ascents.
@@ -8618,7 +8474,6 @@
 \b
 \q1 Peace be upon Israel!
 \c 129
-\cl Psalm 129
 \s1 The Cords of the Wicked
 \d A song of ascents.
 \q1
@@ -8648,7 +8503,6 @@
 \q2 “The blessing of the LORD be on you;
 \q2 we bless you in the name of the LORD.”
 \c 130
-\cl Psalm 130
 \s1 Out of the Depths
 \d A song of ascents.
 \q1
@@ -8681,7 +8535,6 @@
 \v 8 And He will redeem Israel
 \q2 from all iniquity.
 \c 131
-\cl Psalm 131
 \s1 I Have Stilled My Soul
 \d A song of ascents. Of David.
 \q1
@@ -8698,7 +8551,6 @@
 \v 3 O Israel, put your hope in the LORD,
 \q2 both now and forevermore.
 \c 132
-\cl Psalm 132
 \s1 The LORD Has Chosen Zion
 \d A song of ascents.
 \q1
@@ -8763,7 +8615,6 @@
 \v 18 I will clothe his enemies with shame,
 \q2 but the crown upon him will gleam.”
 \c 133
-\cl Psalm 133
 \s1 How Pleasant to Live in Harmony!
 \r (1 Corinthians 1:10–17; Ephesians 4:1–16)
 \d A song of ascents. Of David.
@@ -8781,7 +8632,6 @@
 \q1 For there the LORD has bestowed the blessing
 \q2 of life forevermore.
 \c 134
-\cl Psalm 134
 \s1 Bless the LORD, All You Servants
 \d A song of ascents.
 \q1
@@ -8797,9 +8647,8 @@
 \v 3 May the LORD, the Maker of heaven and earth,
 \q2 bless you from Zion.
 \c 135
-\cl Psalm 135
 \s1 Give Praise, O Servants of the LORD
-\r (Psalm 115:1–18)
+\r (Psalms 115:1–18)
 \q1
 \v 1 Hallelujah!\f + \fr 135:1 \ft Or Hallelu YAH, meaning Praise the LORD; also in verses 3 and 21\f*
 \b
@@ -8877,7 +8726,6 @@
 \b
 \q1 Hallelujah!
 \c 136
-\cl Psalm 136
 \s1 His Loving Devotion Endures Forever
 \r (2 Chronicles 7:1–3)
 \q1
@@ -8959,7 +8807,6 @@
 \v 26 Give thanks to the God of heaven!
 \qr His loving devotion endures forever.
 \c 137
-\cl Psalm 137
 \s1 By the Rivers of Babylon
 \r (Ezekiel 1:1–3)
 \q1
@@ -9001,7 +8848,6 @@
 \v 9 Blessed is he who seizes your infants
 \q2 and dashes them against the rocks.
 \c 138
-\cl Psalm 138
 \s1 A Thankful Heart
 \d Of David.
 \q1
@@ -9040,7 +8886,6 @@
 \q1 O LORD, Your loving devotion endures forever—
 \q2 do not abandon the works of Your hands.
 \c 139
-\cl Psalm 139
 \s1 You Have Searched Me and Known Me
 \d For the choirmaster. A Psalm of David.
 \q1
@@ -9130,7 +8975,6 @@
 \v 24 See if there is any offensive way in me;
 \q2 lead me in the way everlasting.
 \c 140
-\cl Psalm 140
 \s1 Rescue Me from Evil Men
 \d For the choirmaster. A Psalm of David.
 \q1
@@ -9182,16 +9026,15 @@
 \v 13 Surely the righteous will praise Your name;
 \q2 the upright will dwell in Your presence.
 \c 141
-\cl Psalm 141
 \s1 Come Quickly to Me
-\r (Psalm 70:1–5)
+\r (Psalms 70:1–5)
 \d A Psalm of David.
 \q1
 \v 1 I call upon You, O LORD; come quickly to me.
 \q2 Hear my voice when I call to You.
 \q1
-\v 2 May my prayer be set before You like incense,
-\q2 my uplifted hands like the evening offering.
+\v 2 May my prayer be set before You like incense;
+\q2 my uplifted hands, like the evening offering.
 \b
 \q1
 \v 3 Set a guard, O LORD, over my mouth;
@@ -9227,9 +9070,8 @@
 \v 10 Let the wicked fall into their own nets,
 \q2 while I pass by in safety.
 \c 142
-\cl Psalm 142
 \s1 I Lift My Voice to the LORD
-\r (1 Samuel 22:1–5; Psalm 57:1–11)
+\r (1 Samuel 22:1–5; Psalms 57:1–11)
 \d A Maskil\f + \fr 142:0 \ft Maskil is probably a musical or liturgical term; used for Psalms 32, 42, 44–45, 52–55, 74, 78, 88–89, and 142.\f* of David, when he was in the cave. A prayer.
 \q1
 \v 1 I cry aloud to the LORD;
@@ -9264,7 +9106,6 @@
 \q1 The righteous will gather around me
 \q2 because of Your goodness to me.
 \c 143
-\cl Psalm 143
 \s1 I Stretch Out My Hands to You
 \d A Psalm of David.
 \q1
@@ -9322,7 +9163,6 @@
 \q1 Destroy all who afflict me,
 \q2 for I am Your servant.
 \c 144
-\cl Psalm 144
 \s1 Blessed Be the LORD, My Rock
 \d Of David.
 \q1
@@ -9389,7 +9229,6 @@
 \v 15 Blessed are the people of whom this is so;
 \q2 blessed are the people whose God is the LORD.
 \c 145
-\cl Psalm 145
 \s1 I Will Exalt You, My God and King
 \d A Psalm of praise. Of David.\f + \fr 145:0 \ft This psalm is an acrostic poem, each verse beginning with the successive letters of the Hebrew alphabet.\f*
 \q1
@@ -9463,7 +9302,6 @@
 \q2 let every creature bless His holy name
 \q2 forever and ever.
 \c 146
-\cl Psalm 146
 \s1 Praise the LORD, O My Soul
 \q1
 \v 1 Hallelujah!\f + \fr 146:1 \ft Or Hallelu YAH, meaning Praise the LORD; also in verse 10\f*
@@ -9507,7 +9345,6 @@
 \b
 \q1 Hallelujah!
 \c 147
-\cl Psalm 147
 \s1 It Is Good to Sing Praises
 \q1
 \v 1 Hallelujah!\f + \fr 147:1 \ft Or Hallelu YAH, meaning Praise the LORD; also in verse 20\f*
@@ -9544,7 +9381,7 @@
 \b
 \q1
 \v 10 He does not delight in the strength of the horse;
-\q2 He takes no pleasure in the legpower of the man.
+\q2 He takes no pleasure in the legs of a man.
 \q1
 \v 11 The LORD is pleased with those who fear Him,
 \q2 who hope in His loving devotion.
@@ -9581,9 +9418,8 @@
 \b
 \q1 Hallelujah!
 \c 148
-\cl Psalm 148
 \s1 Praise the LORD from the Heavens
-\r (Psalm 33:1–22)
+\r (Psalms 33:1–22)
 \q1
 \v 1 Hallelujah!\f + \fr 148:1 \ft Or Hallelu YAH, meaning Praise the LORD; also in verse 14\f*
 \b
@@ -9635,9 +9471,8 @@
 \b
 \q1 Hallelujah!
 \c 149
-\cl Psalm 149
 \s1 Sing to the LORD a New Song
-\r (Psalm 98:1–9; Isaiah 42:10–17)
+\r (Psalms 98:1–9; Isaiah 42:10–17)
 \q1
 \v 1 Hallelujah!\f + \fr 149:1 \ft Or Hallelu YAH, meaning Praise the LORD; also in verse 9\f*
 \b
@@ -9671,13 +9506,12 @@
 \b
 \q1 Hallelujah!
 \c 150
-\cl Psalm 150
 \s1 Let Everything That Has Breath Praise the LORD
 \q1
 \v 1 Hallelujah!\f + \fr 150:1 \ft Or Hallelu YAH, meaning Praise the LORD; also in verse 6\f*
 \b
 \q1 Praise God in His sanctuary.
-\q2 Praise Him in His mighty heavens.\f + \fr 150:1 \ft Or in the expanse of his might or in the firmament of his might; see also \+xt Genesis 1:6–8\+xt*.\f*
+\q2 Praise Him in His mighty heavens.\f + \fr 150:1 \ft Or in the expanse of His might or in the firmament of his might; see also \+xt Genesis 1:6–8\+xt*.\f*
 \q1
 \v 2 Praise Him for His mighty acts;
 \q2 praise Him for His excellent greatness.

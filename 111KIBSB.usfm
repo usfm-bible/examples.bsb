@@ -1,5 +1,6 @@
-\id 1KI - Berean Study Bible
+\id 1KI - Berean Standard Bible
 \h 1 Kings
+\toc2 1 Kings
 \toc1 1 Kings
 \toc2 1 Kings
 \toc3 1 Kings
@@ -35,7 +36,7 @@
 \p
 \v 17 “My lord,” she replied, “you yourself swore to your maidservant by the LORD your God: ‘Surely your son Solomon will reign after me, and he will sit on my throne.’
 \v 18 But now, behold, Adonijah has become king, and you, my lord the king, did not know it.
-\v 19 And he has sacrificed an abundance of oxen, fattened calves, and sheep, and has invited all the other sons of the king, as well as Abiathar the priest and Joab the commander of the army. But he did not invite your servant Solomon.
+\v 19 And he has sacrificed an abundance of oxen, fattened calves, and sheep, and has invited all the other sons of the king, as well as Abiathar the priest and Joab the commander of the army. But he has not invited your servant Solomon.
 \v 20 And as for you, my lord the king, the eyes of all Israel are upon you to tell them who will sit on the throne of my lord the king after him.
 \v 21 Otherwise, when my lord the king rests with his fathers, I and my son Solomon will be counted as criminals.”
 \p
@@ -44,7 +45,7 @@
 \p
 \v 24 “My lord the king,” said Nathan, “did you say, ‘Adonijah will reign after me, and he will sit on my throne’?
 \v 25 For today he has gone down and sacrificed an abundance of oxen, fattened calves, and sheep, and has invited all the sons of the king, the commanders\f + \fr 1:25 \ft Hebrew; LXX Joab the commander\f* of the army, and Abiathar the priest. And behold, they are eating and drinking before him, saying, ‘Long live King Adonijah!’
-\v 26 But me your servant he did not invite, nor Zadok the priest, nor Benaiah son of Jehoiada, nor your servant Solomon.
+\v 26 But me your servant he has not invited, nor Zadok the priest, nor Benaiah son of Jehoiada, nor your servant Solomon.
 \v 27 Has my lord the king let this happen without informing your servant who should sit on the throne after my lord the king?”
 \s1 David Renews His Oath to Bathsheba
 \p
@@ -96,7 +97,7 @@
 \v 53 So King Solomon summoned Adonijah down from the altar, and he came and bowed down before King Solomon, who said to him, “Go to your home.”
 \c 2
 \s1 David Instructs Solomon
-\r (Psalm 37:1–40)
+\r (Psalms 37:1–40)
 \p
 \v 1 As the time drew near for David to die, he charged his son Solomon,
 \v 2 “I am about to go the way of all the earth. So be strong and prove yourself a man.
@@ -144,7 +145,7 @@
 \v 23 Then King Solomon swore by the LORD: “May God punish me, and ever so severely, if Adonijah has not made this request at the expense of his life.
 \v 24 And now, as surely as the LORD lives—the One who established me, who set me on the throne of my father David, and who founded for me a dynasty as He promised—surely Adonijah shall be put to death today!”
 \p
-\v 25 So King Solomon sent the order to Benaiah son of Jehoiada, who struck down Adonijah, and he died.
+\v 25 So King Solomon gave orders to Benaiah son of Jehoiada, and he struck down Adonijah, and he died.
 \p
 \v 26 Then the king said to Abiathar the priest, “Go back to your fields in Anathoth. Even though you deserve to die, I will not put you to death at this time, since you carried the ark of the Lord GOD before my father David, and you suffered through all that my father suffered.”
 \v 27 So Solomon banished Abiathar from the priesthood of the LORD and thus fulfilled the word that the LORD had spoken at Shiloh against the house of Eli.
@@ -186,7 +187,7 @@
 \v 46 Then the king commanded Benaiah son of Jehoiada, and he went out and struck Shimei down, and he died. Thus the kingdom was firmly established in the hand of Solomon.
 \c 3
 \s1 Solomonʼs Prayer for Wisdom
-\r (2 Chronicles 1:1–13; Psalm 45:1–17; Psalm 72:1–20)
+\r (2 Chronicles 1:1–13; Psalms 45:1–17; Psalms 72:1–20)
 \p
 \v 1 Later, Solomon formed an alliance with Pharaoh king of Egypt by marrying his daughter. Solomon brought her to the City of David until he had finished building his palace and the house of the LORD, as well as the wall around Jerusalem.
 \p
@@ -206,7 +207,7 @@
 \p
 \v 10 Now it pleased the Lord\f + \fr 3:10 \ft Hebrew Adonai; also in verse 15\f* that Solomon had made this request.
 \v 11 So God said to him, “Since you have asked for this instead of requesting long life or wealth for yourself or death for your enemies—but you have asked for discernment to administer justice—
-\v 12 behold, I will do what you have asked. I will give you a wise and discerning heart, so that there has never been nor will ever be another like you.
+\v 12 behold, I will do what you have asked. I will give you a wise and discerning heart, so that there will never have been another like you, nor will ever be.
 \p
 \v 13 Moreover, I will give you what you did not request—both riches and honor—so that during all your days no man in any kingdom will be your equal.
 \v 14 So if you walk in My ways and keep My statutes and commandments, just as your father David did, I will prolong your days.”
@@ -333,6 +334,7 @@
 \v 1 Now when Hiram king of Tyre heard that Solomon had been anointed king in his fatherʼs place, he sent envoys to Solomon; for Hiram had always been a friend of David.
 \p
 \v 2 And Solomon relayed this message to Hiram:
+\b
 \pmo
 \v 3 “As you are well aware, due to the wars waged on all sides against my father David, he could not build a house for the Name of the LORD his God until the LORD had put his enemies under his feet.
 \v 4 But now the LORD my God has given me rest on every side, and there is no adversary or crisis.
@@ -368,7 +370,7 @@
 \s1 Temple Construction Begins
 \r (2 Chronicles 3:1–2)
 \p
-\v 1 In the four hundred and eightieth\f + \fr 6:1 \ft Hebrew; LXX four hundred and fortieth\f* year after the Israelites had come out of the land of Egypt, in the month of Ziv,\f + \fr 6:1 \ft Ziv was the second month of the ancient Hebrew lunar calendar, usually occurring within the months of April and May; also in verse 37.\f* the second month of the fourth year of Solomonʼs reign over Israel, he began to build the house of the LORD.
+\v 1 In the four hundred and eightieth\f + \fr 6:1 \ft Hebrew; LXX four hundred and fortieth\f* year after the Israelites had come out of the land of Egypt, fourth year of Solomonʼs reign over Israel, in the month of Ziv,\f + \fr 6:1 \ft Ziv was the second month of the ancient Hebrew lunar calendar, usually occurring within the months of April and May; also in verse 37.\f* the second month of the  he began to build the house of the LORD.
 \p
 \v 2 The house that King Solomon built for the LORD was sixty cubits long, twenty cubits wide, and thirty cubits high.\f + \fr 6:2 \ft The house was approximately 90 feet long, 30 feet wide, and 45 feet high (27.4 meters long, 9.1 meters wide, and 13.7 meters high).\f*
 \v 3 The portico at the front of the main hall of the temple was twenty cubits\f + \fr 6:3 \ft 20 cubits is approximately 30 feet or 9.1 meters; also in verses 16 and 20.\f* long, extending across the width of the temple and projecting out ten cubits\f + \fr 6:3 \ft 10 cubits is approximately 15 feet or 4.6 meters; also in verses 23–26.\f* in front of the temple.
@@ -432,7 +434,7 @@
 \v 36 Solomon built the inner courtyard with three rows of dressed stone and one row of trimmed cedar beams.
 \p
 \v 37 The foundation of the house of the LORD was laid in the fourth year of Solomonʼs reign, in the month of Ziv.
-\v 38 In his eleventh year and eighth month, the month of Bul,\f + \fr 6:38 \ft Bul was the eighth month of the ancient Hebrew lunar calendar, usually occurring within the months of October and November.\f* the temple was finished in every detail and according to every specification. So he built the temple in seven years.
+\v 38 In the eleventh year, the month of Bul,\f + \fr 6:38 \ft Bul was the eighth month of the ancient Hebrew lunar calendar, usually occurring within the months of October and November.\f* the eigth month, the temple was finished in every detail and according to every specification. So he built the temple in seven years.
 \c 7
 \s1 Solomonʼs Palace Complex
 \p
@@ -452,7 +454,7 @@
 \p
 \v 9 All these buildings were constructed with costly stones, cut to size and trimmed with saws inside and out from the foundation to the eaves, and from the outside to the great courtyard.
 \v 10 The foundations were laid with large, costly stones, some ten cubits long\f + \fr 7:10 \ft 10 cubits is approximately 15 feet or 4.6 meters.\f* and some eight cubits long.\f + \fr 7:10 \ft 8 cubits is approximately 12 feet or 3.7 meters.\f*
-\v 11 Above these were high-grade stones, cut to size, and cedar beams.
+\v 11 Above these were costly stones, cut to size, and cedar beams.
 \p
 \v 12 The great courtyard was surrounded by three rows of dressed stone and a row of trimmed cedar beams, as were the inner courtyard and portico of the house of the LORD.
 \s1 The Pillars and Capitals
@@ -580,7 +582,7 @@
 \r (2 Chronicles 6:1–11)
 \p
 \v 12 Then Solomon declared:
-\q1 “The LORD\f + \fr 8:12 \ft Some LXX Manuscripts The Lord has set the sun in the heavens, but\f* has said that He would dwell
+\q1 “The LORD\f + \fr 8:12 \ft Some LXX manuscripts The Lord has set the sun in the heavens, but\f* has said that He would dwell
 \q2 in the thick cloud.
 \q1
 \v 13 I have indeed built You an exalted house,
@@ -588,6 +590,7 @@
 \p
 \v 14 And as the whole assembly of Israel stood there, the king turned around and blessed them all
 \v 15 and said:
+\b
 \pmo “Blessed be the LORD, the God of Israel, who has fulfilled with His own hand what He spoke with His mouth to my father David, saying,
 \v 16 ‘Since the day I brought My people Israel out of Egypt, I have not chosen a city from any tribe of Israel in which to build a house so that My Name would be there. But I have chosen David to be over My people Israel.’
 \b
@@ -612,7 +615,7 @@
 \v 26 And now, O God of Israel, please confirm what You promised to Your servant, my father David.
 \b
 \pmo
-\v 27 But will God indeed dwell upon the earth? Even heaven, the highest heaven, cannot contain You, much less this temple I have built.
+\v 27 But will God indeed dwell upon the earth? The heavens, even the highest heavens, cannot contain You, much less this temple I have built.
 \v 28 Yet regard the prayer and plea of Your servant, O LORD my God, so that You may hear the cry and the prayer that Your servant is praying before You today.
 \b
 \pmo
@@ -656,11 +659,12 @@
 \pmo
 \v 51 For they are Your people and Your inheritance; You brought them out of Egypt, out of the furnace for iron.
 \v 52 May Your eyes be open to the pleas of Your servant and of Your people Israel, and may You listen to them whenever they call to You.
-\v 53 For You, O Lord GOD, as Your inheritance, have set them apart from all the peoples of the earth, as You spoke through Your servant Moses when You brought our fathers out of Egypt.”
+\v 53 For You, O Lord GOD, have set them apart from all the peoples of the earth, as Your inheritance, as You spoke through Your servant Moses when You brought our fathers out of Egypt.”
 \s1 Solomonʼs Benediction
 \p
 \v 54 Now when Solomon had finished praying this entire prayer and petition to the LORD, he got up before the altar of the LORD, where he had been kneeling with his hands spread out toward heaven.
 \v 55 And he stood and blessed the whole assembly of Israel in a loud voice, saying:
+\b
 \pmo
 \v 56 “Blessed be the LORD, who has given rest to His people Israel according to all that He promised. Not one word has failed of all the good promises He made through His servant Moses.
 \b
@@ -692,7 +696,7 @@
 \v 1 Now when Solomon had finished building the house of the LORD and the royal palace, and had achieved all that he had desired to do,
 \v 2 the LORD appeared to him a second time, as He had appeared to him at Gibeon.
 \v 3 And the LORD said to him:
-\pmo “I have heard your prayer and petition before Me. I have consecrated this temple you have built by putting My Name there forever; My eyes and My heart will be there for all time.
+\pmo “I have heard your prayer and petition before Me. I have consecrated this temple, which you have built, by putting My Name there forever; My eyes and My heart will be there for all time.
 \b
 \pmo
 \v 4 And as for you, if you walk before Me as your father David walked, with a heart of integrity and uprightness, doing all I have commanded you, and if you keep My statutes and ordinances,
@@ -734,26 +738,26 @@
 \v 25 Three times a year Solomon offered burnt offerings and peace offerings on the altar he had built for the LORD, burning incense with them before the LORD. So he completed the temple.
 \p
 \v 26 King Solomon also assembled a fleet of ships at Ezion-geber, which is near Eloth\f + \fr 9:26 \ft Eloth is a variant of Elath; see LXX, \+xt 2 Kings 14:22,\+xt* and \+xt 2 Kings 16:6\+xt*.\f* in Edom, on the shore of the Red Sea.\f + \fr 9:26 \ft Or the Sea of Reeds\f*
-\v 27 And Hiram sent his servants, men who knew the sea, to serve in the fleet with Solomonʼs servants.
+\v 27 And Hiram sent his servants, sailors who knew the sea, to serve in the fleet with Solomonʼs servants.
 \v 28 They sailed to Ophir and imported gold from there—420 talents\f + \fr 9:28 \ft 420 talents is approximately 15.8 tons or 14.4 metric tons of gold.\f*—and delivered it to Solomon.
 \c 10
 \s1 The Queen of Sheba
 \r (2 Chronicles 9:1–12)
 \p
 \v 1 Now when the queen of Sheba heard about the fame of Solomon concerning the name of the LORD, she came to test him with difficult questions.
-\v 2 She arrived in Jerusalem with a very large caravan—with camels bearing spices, gold in great abundance, and precious stones.
+\v 2 And she arrived in Jerusalem with a very large caravan—with camels bearing spices, gold in great abundance, and precious stones.
 \p So she came to Solomon and spoke to him all that was on her mind.
 \v 3 And Solomon answered all her questions; nothing was too difficult for the king to explain.
 \p
 \v 4 When the queen of Sheba saw all the wisdom of Solomon, the palace he had built,
-\v 5 the food at his table, the seating of his servants, the service and attire of his attendants and cupbearers, and the burnt offerings he presented at the house of the LORD, it took her breath away.
+\v 5 the food at his table, the seating of his servants, the service and attire of his attendants, his cupbearers, and the burnt offerings he presented at the house of the LORD, it took her breath away.
 \p
 \v 6 She said to the king, “The report I heard in my own country about your words and wisdom is true.
 \v 7 But I did not believe these things until I came and saw with my own eyes. Indeed, not even half was told to me. Your wisdom and prosperity have far exceeded the report I heard.
 \v 8 How blessed are your men!\f + \fr 10:8 \ft LXX, Syriac, and Vulgate your wives\f* How blessed are these servants of yours who stand continually before you and hear your wisdom!
 \v 9 Blessed be the LORD your God, who has delighted in you to set you on the throne of Israel. Because of the LORDʼs eternal love for Israel, He has made you king to carry out justice and righteousness.”
 \p
-\v 10 Then she gave the king 120 talents of gold,\f + \fr 10:10 \ft 120 talents is approximately 4.52 tons or 4.1 metric tons of gold.\f* a great quantity of spices, and precious stones. Never again was such an abundance of spices brought in as those the queen of Sheba gave to King Solomon.
+\v 10 Then she gave the king 120 talents of gold,\f + \fr 10:10 \ft 120 talents is approximately 4.52 tons or 4.1 metric tons of gold.\f* a great quantity of spices, and precious stones. Never again were spices in such an abundance brought in as those the queen of Sheba gave to King Solomon.
 \p
 \v 11 (The fleet of Hiram that brought gold from Ophir also brought from Ophir a great cargo of almug\f + \fr 10:11 \ft Almug is probably a variant of algum; also in verse 12; see \+xt 2 Chronicles 2:8\+xt*.\f* wood and precious stones.
 \v 12 The king made the almug wood into steps for the house of the LORD and for the kingʼs palace, and into lyres and harps for the singers. Never before had such almug wood been brought in, nor has such been seen to this day.)
@@ -866,7 +870,7 @@
 \v 1 Then Rehoboam went to Shechem, for all Israel had gone there to make him king.
 \v 2 When Jeroboam son of Nebat heard about this, he was still\f + \fr 12:2 \ft Or he remained\f* in Egypt where he had fled from King Solomon and had been living ever since.
 \v 3 So they sent for Jeroboam, and he and the whole assembly of Israel came to Rehoboam and said,
-\v 4 “Your father put a heavy yoke on us. But now you should lighten the burden of your fatherʼs service and the heavy yoke he put on us, and we will serve you.”
+\v 4 “Your father put a heavy yoke on us. But now you must lighten the burden of your fatherʼs service and the heavy yoke he put on us, and we will serve you.”
 \p
 \v 5 Rehoboam answered, “Go away for three days and then return to me.” So the people departed.
 \p
@@ -877,7 +881,7 @@
 \v 8 But Rehoboam rejected the advice of the elders; instead, he consulted the young men who had grown up with him and served him.
 \v 9 He asked them, “What message do you advise that we send back to these people who have spoken to me, saying, ‘Lighten the yoke your father put on us’?”
 \p
-\v 10 The young men who had grown up with him replied, “This is how you should answer these people who said to you, ‘Your father made our yoke heavy, but you should make it lighter.’ This is what you should tell them: ‘My little finger is thicker than my fatherʼs waist!
+\v 10 The young men who had grown up with him replied, “This is how you should answer these people who said to you, ‘Your father made our yoke heavy, but you must make it lighter.’ This is what you should tell them: ‘My little finger is thicker than my fatherʼs waist!
 \v 11 Whereas my father burdened you with a heavy yoke, I will add to your yoke. Whereas my father scourged you with whips, I will scourge you with scorpions.’”
 \p
 \v 12 After three days, Jeroboam and all the people returned to Rehoboam, since the king had said, “Come back to me on the third day.”
@@ -889,6 +893,7 @@
 \r (2 Chronicles 10:16–19)
 \p
 \v 16 When all Israel saw that the king had refused to listen to them, they answered the king:
+\b
 \q1 “What portion do we have in David,
 \q2 and what inheritance in the son of Jesse?
 \q1 To your tents, O Israel!
@@ -907,7 +912,7 @@
 \p
 \v 22 But the word of God came to Shemaiah the man of God:
 \v 23 “Tell Rehoboam son of Solomon king of Judah, all the house of Judah and Benjamin, and the rest of the people
-\v 24 that this is what the LORD says: ‘You are not to go up and fight against your brothers, the Israelites. Each of you must return home, for this word is from Me.’”
+\v 24 that this is what the LORD says: ‘You are not to go up and fight against your brothers, the Israelites. Each of you must return home, for this is My doing.’”
 \p So they listened to the word of the LORD and turned back according to the word of the LORD.
 \s1 Jeroboamʼs Idolatry
 \p
@@ -937,7 +942,7 @@
 \v 4 Now when King Jeroboam, who was at the altar in Bethel, heard the word that the man of God had cried out against it, he stretched out his hand and said, “Seize him!” But the hand he stretched out toward him withered, so that he could not pull it back.
 \v 5 And the altar was split apart, and the ashes poured out, according to the sign that the man of God had given by the word of the LORD.
 \p
-\v 6 Then the king responded to the man of God, “Intercede with the LORD your God and pray that my hand may be restored.”
+\v 6 Then the king responded to the man of God, “Intercede with the LORD your God and pray for me that my hand may be restored.”
 \p So the man of God interceded with the LORD, and the kingʼs hand was restored to him as it was before.
 \p
 \v 7 Then the king said to the man of God, “Come home with me and refresh yourself, and I will give you a reward.”
@@ -959,7 +964,7 @@
 \p
 \v 15 So the prophet said to the man of God, “Come home with me and eat some bread.”
 \p
-\v 16 But the man replied, “I cannot return with you or eat bread or drink water with you in this place.
+\v 16 But the man replied, “I cannot go home with you, and I will not eat bread or drink water with you in this place.
 \v 17 For I have been told by the word of the LORD: ‘You must not eat bread or drink water there or return by the way you came.’”
 \p
 \v 18 Then the prophet replied, “I too am a prophet like you, and an angel spoke to me by the word of the LORD, saying, ‘Bring him back with you to your house, so that he may eat bread and drink water.’”
@@ -999,10 +1004,11 @@
 \p
 \v 6 So when Ahijah heard the sound of her feet entering the door, he said, “Come in, wife of Jeroboam! Why are you disguised? For I have been sent to you with bad news.
 \v 7 Go, tell Jeroboam that this is what the LORD, the God of Israel, says: ‘I raised you up from among the people and appointed you ruler over My people Israel.
-\v 8 I tore the kingdom away from the house of David and gave it to you. But you were not like My servant David, who kept My commandments and followed Me with all his heart, doing only what was right in My eyes.
+\v 8 I tore the kingdom away from the house of David and gave it to you. But you have not been like My servant David, who kept My commandments and followed Me with all his heart, doing only what was right in My eyes.
 \p
 \v 9 You have done more evil than all who came before you. You have proceeded to make for yourself other gods and molten images to provoke Me, and you have flung Me behind your back.
 \v 10 Because of all this, behold, I am bringing disaster on the house of Jeroboam:
+\b
 \q1 I will cut off from Jeroboam every male,\f + \fr 14:10 \ft Literally (all) those who urinate against a wall\f*
 \q2 both slave and free,
 \q2 in Israel;
@@ -1084,8 +1090,8 @@
 \v 16 Now there was war between Asa and Baasha king of Israel throughout their days.
 \v 17 Baasha king of Israel went to war against Judah and fortified Ramah to prevent anyone from leaving or entering the territory of Asa king of Judah.
 \p
-\v 18 So Asa withdrew all the silver and gold that remained in the treasuries of the house of the LORD and the royal palace. He entrusted it to his servants and sent them with this message to Ben-hadad son of Tabrimmon, the son of Hezion king of Aram, who was ruling in Damascus:
-\v 19 “Let there be a treaty\f + \fr 15:19 \ft Forms of the Hebrew berit are translated in most passages as covenant; twice in this verse.\f* between me and you, between my father and your father. See, I have sent you a gift of silver and gold. Now go and break your treaty with Baasha king of Israel, so that he will withdraw from me.”
+\v 18 So Asa withdrew all the silver and gold that remained in the treasuries of the house of the LORD and the royal palace. He entrusted it to his servants and sent them with this message to Ben-hadad son of Tabrimmon, the son of Hezion, the king of Aram, who was ruling in Damascus:
+\v 19 “Let there be a treaty\f + \fr 15:19 \ft Forms of the Hebrew berit are translated in most passages as covenant; twice in this verse.\f* between me and you as there was between my father and your father. See, I have sent you a gift of silver and gold. Now go and break your treaty with Baasha king of Israel, so that he will withdraw from me.”
 \p
 \v 20 And Ben-hadad listened to King Asa and sent the commanders of his armies against the cities of Israel, conquering Ijon, Dan, Abel-beth-maacah, and the whole land of Naphtali, including the region of Chinnereth.
 \p
@@ -1105,7 +1111,7 @@
 \v 27 Then Baasha son of Ahijah of the house of Issachar conspired against Nadab, and Baasha struck him down at Gibbethon of the Philistines while Nadab and all Israel were besieging the city.
 \v 28 In the third year of Asaʼs reign over Judah, Baasha killed Nadab and reigned in his place.
 \p
-\v 29 As soon as Baasha became king, he struck down the entire household of Jeroboam. He did not leave to Jeroboam anyone that breathed, but destroyed them all according to the word that the LORD had spoken through His servant Ahijah the Shilonite,
+\v 29 As soon as Baasha became king, he struck down the entire household of Jeroboam. He did not leave to Jeroboam anyone who breathed, but destroyed them all according to the word that the LORD had spoken through His servant Ahijah the Shilonite,
 \v 30 because of the sins Jeroboam had committed and had caused Israel to commit, and because he had provoked the LORD, the God of Israel, to anger.
 \p
 \v 31 As for the rest of the acts of Nadab, along with all his accomplishments, are they not written in the Book of the Chronicles of the Kings of Israel?
@@ -1121,6 +1127,7 @@
 \v 1 Then the word of the LORD came to Jehu son of Hanani against Baasha, saying:
 \v 2 “Even though I lifted you out of the dust and made you ruler over My people Israel, you have walked in the way of Jeroboam and have caused My people Israel to sin and to provoke Me to anger by their sins.
 \v 3 So now I will consume Baasha and his house, and I will make your house like that of Jeroboam son of Nebat:
+\b
 \q1
 \v 4 Anyone belonging to Baasha who dies in the city
 \q2 will be eaten by dogs,
@@ -1146,7 +1153,7 @@
 \s1 Zimri Reigns in Israel
 \p
 \v 15 In the twenty-seventh year of Asaʼs reign over Judah, Zimri reigned in Tirzah for seven days. Now the troops were encamped against Gibbethon of the Philistines,
-\v 16 and the people in the camp heard that Zimri had not only conspired but had also struck down the king. So there in the camp that very day, all Israel proclaimed Omri, the commander of the army, king over Israel.
+\v 16 and the people in the camp heard that Zimri had conspired against the king and struck hime down. So there in the camp that very day, all Israel proclaimed Omri, the commander of the army, king over Israel.
 \p
 \v 17 Then Omri and all the Israelites marched up from Gibbethon and besieged Tirzah.
 \v 18 When Zimri saw that the city was captured, he entered the citadel of the royal palace and burned it down upon himself. So he died
@@ -1181,7 +1188,7 @@
 \c 17
 \s1 The Ravens Feed Elijah
 \p
-\v 1 Now Elijah the Tishbite, who was among the settlers of Gilead,\f + \fr 17:1 \ft Or who was from Tishbe in Gilead\f* said to Ahab, “As surely as the LORD lives—the God of Israel before whom I stand—there will be neither dew nor rain in these years except at my word!”
+\v 1 Now Elijah the Tishbite, who was among the settlers of Gilead,\f + \fr 17:1 \ft Or who was from Tishbe in Gilead\f* said to Ahab, “As surely as the LORD, the God of Israel, lives, before whom I stand, there will be neither dew nor rain in these years except at my word!”
 \p
 \v 2 Then a revelation from the LORD came to Elijah:
 \v 3 “Leave here, turn eastward, and hide yourself by the Brook of Cherith, east of the Jordan.\f + \fr 17:3 \ft Or the Cherith Ravine, near the Jordan; also in verse 5\f*
@@ -1280,7 +1287,7 @@
 \v 32 And with the stones, Elijah built an altar in the name of the LORD. Then he dug a trench around the altar large enough to hold two seahs of seed.\f + \fr 18:32 \ft 2 seahs is approximately 13.2 dry quarts or 14.6 liters (probably about 25.4 pounds or 11.5 kilograms of seed).\f*
 \p
 \v 33 Next, he arranged the wood, cut up the bull, placed it on the wood,
-\v 34 and said, “Fill four waterpots and pour the water on the offering and on the wood.”\f + \fr 18:34 \ft Some texts break verse 33 and begin verse 34 at this point.\f*
+\v 34 and said, “Fill four waterpots and pour the water on the offering and on the wood.”\f + \fr 18:34 \ft Some texts continue verse 33 to this point.\f*
 \p “Do it a second time,” he said, and they did it a second time.
 \p “Do it a third time,” he said, and they did it a third time.
 \p
@@ -1314,10 +1321,10 @@
 \s1 Elijah Flees from Jezebel
 \p
 \v 1 Now Ahab told Jezebel everything that Elijah had done and how he had killed all the prophets with the sword.
-\v 2 So Jezebel sent a messenger to Elijah, saying, “May the gods deal with me, and ever so severely, if by this time tomorrow I do not make your life like the lives of those you killed!”
+\v 2 So Jezebel sent a messenger to Elijah, saying, “May the gods deal with me, and ever so severely, if by this time tomorrow I have not made your life like the lives of those you killed!”
 \p
 \v 3 And Elijah was afraid and ran for his life. When he came to Beersheba in Judah, he left his servant there,
-\v 4 while he himself traveled on a dayʼs journey into the wilderness. He sat down under a broom tree and prayed that he might die. “I have had enough, LORD,” he said. “Take my life, for I am no better than my fathers.”
+\v 4 while he himself went on a dayʼs journey into the wilderness. He sat down under a broom tree and prayed that he might die. “I have had enough, LORD,” he said. “Take my life, for I am no better than my fathers.”
 \p
 \v 5 Then he lay down under the broom tree and fell asleep.
 \p Suddenly an angel touched him and said, “Get up and eat.”
@@ -1356,7 +1363,7 @@
 \v 20 So Elisha left the oxen, ran after Elijah, and said, “Please let me kiss my father and mother goodbye, and then I will follow you.”
 \p “Go on back,” Elijah replied, “for what have I done to you?”
 \p
-\v 21 So Elisha turned back from him, took his pair of oxen, and slaughtered them. With the oxenʼs equipment, he cooked the meat and gave it to the people, and they ate. Then he set out to follow and serve Elijah.
+\v 21 So Elisha turned back from him, took his pair of oxen, and slaughtered them. Using the oxenʼs equipment for fuel, he cooked the meat and gave it to the people, and they ate. Then he set out to follow and serve Elijah.
 \c 20
 \s1 Ben-hadad Attacks Samaria
 \p
@@ -1415,7 +1422,7 @@
 \v 27 The Israelites also mobilized, gathered supplies, and marched out to meet them.
 \p The Israelites camped before them like two small flocks of goats, while the Arameans covered the countryside.
 \p
-\v 28 Then the man of God approached the king of Israel and said, “This is what the LORD says: ‘Because the Arameans think the LORD is a god of the hills and not of the valleys, I will deliver all this great army into your hand. Then you will know that I am the LORD.’”
+\v 28 Then the man of God approached the king of Israel and said, “This is what the LORD says: ‘Because the Arameans have said that the LORD is a god of the hills and not of the valleys, I will deliver all this great army into your hand. Then you will know that I am the LORD.’”
 \p
 \v 29 For seven days the armies camped opposite each other, and on the seventh day the battle ensued, and the Israelites struck down the Arameans—a hundred thousand foot soldiers in one day.
 \p
@@ -1457,7 +1464,7 @@
 \c 21
 \s1 Nabothʼs Vineyard
 \p
-\v 1 Some time later, Naboth the Jezreelite happened to own a vineyard in Jezreel next to the palace of Ahab king of Samaria.
+\v 1 Some time after these events, Naboth the Jezreelite owned a vineyard in Jezreel next to the palace of Ahab king of Samaria.
 \v 2 So Ahab said to Naboth, “Give me your vineyard to use as a vegetable garden, since it is next to my palace. I will give you a better vineyard in its place—or if you prefer, I will give you its value in silver.”
 \p
 \v 3 But Naboth replied, “The LORD forbid that I should give you the inheritance of my fathers.”
@@ -1473,6 +1480,7 @@
 \p
 \v 8 Then Jezebel wrote letters in Ahabʼs name, sealed them with his seal, and sent them to the elders and nobles who lived with Naboth in his city.
 \v 9 In the letters she wrote:
+\b
 \pmo “Proclaim a fast and give Naboth a seat of honor among the people.
 \v 10 But seat two scoundrels opposite him and have them testify, ‘You have cursed both God and the king!’ Then take him out and stone him to death.”
 \p
@@ -1489,7 +1497,7 @@
 \s1 Elijah Denounces Ahab and Jezebel
 \p
 \v 17 Then the word of the LORD came to Elijah the Tishbite, saying,
-\v 18 “Get up and go down to meet Ahab king of Israel, who is in Samaria. See, he is in the vineyard of Naboth, of which he has gone to take possession.
+\v 18 “Get up and go down to meet Ahab king of Israel, who is in Samaria. See, he is in the vineyard of Naboth, where he has gone to take possession of it.
 \p
 \v 19 Tell him that this is what the LORD says: ‘Have you not murdered a man and seized his land?’
 \p Then tell him that this is also what the LORD says: ‘In the place where the dogs licked up the blood of Naboth, there also the dogs will lick up your blood—yes, yours!’\f + \fr 21:19 \ft See \+xt 1 Kings 22:38\+xt*\f*”
@@ -1497,6 +1505,7 @@
 \v 20 When Elijah arrived, Ahab said to him, “So you have found me out, my enemy.”
 \p He replied, “I have found you out because you have sold yourself to do evil in the sight of the LORD.
 \v 21 This is what the LORD says:\f + \fr 21:21 \ft See LXX; the source of the quotation is clarified in verses 17 and 23; Hebrew Behold.\f*
+\b
 \q1 ‘I will bring calamity on you
 \q2 and consume your descendants;
 \q1 I will cut off from Ahab every male in Israel,
@@ -1508,6 +1517,7 @@
 \q2 and caused Israel to sin.’
 \p
 \v 23 And the LORD also speaks concerning Jezebel:
+\b
 \q1 ‘The dogs will devour Jezebel
 \q2 by the wall of Jezreel.’\f + \fr 21:23 \ft Most Hebrew manuscripts; a few Hebrew manuscripts, Vulgate, and Syriac (see also \+xt 2 Kings 9:36\+xt*) ‘The dogs will devour Jezebel at the plot of ground at Jezreel.’\f*
 \b
@@ -1535,7 +1545,7 @@
 \v 3 who said to his servants, “Do you not know that Ramoth-gilead is ours, but we have failed to take it from the hand of the king of Aram?”
 \p
 \v 4 So he asked Jehoshaphat, “Will you go with me to fight against Ramoth-gilead?”
-\p Jehoshaphat answered the king of Israel, “I am like you, my people are your people, and my horses are your horses.”
+\p Jehoshaphat answered the king of Israel, “I am as you are, my people are your people, and my horses are your horses.”
 \p
 \v 5 But Jehoshaphat also said to the king of Israel, “Please inquire first for the word of the LORD.”
 \p
@@ -1544,7 +1554,7 @@
 \p
 \v 7 But Jehoshaphat asked, “Is there not still a prophet of the LORD here of whom we can inquire?”
 \p
-\v 8 The king of Israel answered, “There is still one man who can ask the LORD, but I hate him because he never prophesies anything good for me, but only bad. He is Micaiah son of Imlah.”
+\v 8 The king of Israel answered, “There is still one man through whoe we can inquire of the LORD, but I hate him because he never prophesies anything good for me, but only bad. He is Micaiah son of Imlah.”
 \p “The king should not say that!” Jehoshaphat replied.
 \p
 \v 9 So the king of Israel called one of his officials and said, “Bring Micaiah son of Imlah at once.”
@@ -1553,7 +1563,7 @@
 \p
 \v 11 Now Zedekiah son of Chenaanah had made for himself iron horns and declared, “This is what the LORD says: ‘With these you shall gore the Arameans until they are finished off.’”
 \p
-\v 12 And all the prophets were prophesying the same, saying, “Go up to Ramoth-gilead and prosper, for the LORD will deliver it into the hand of the king.”
+\v 12 And all the prophets were prophesying the same, saying, “Go up to Ramoth-gilead and triumph, for the LORD will deliver it into the hand of the king.”
 \s1 Micaiah Prophesies against Ahab
 \r (2 Chronicles 18:12–27)
 \p
@@ -1562,11 +1572,12 @@
 \v 14 But Micaiah said, “As surely as the LORD lives, I will speak whatever the LORD tells me.”
 \p
 \v 15 When Micaiah arrived, the king asked him, “Micaiah, should we go to war against Ramoth-gilead, or should we refrain?”
-\p “Go up and triumph,” Micaiah replied, “for the LORD will give it into the hand of the king.”
+\p “Go up and triumph,” Micaiah replied, “for the LORD will deliver it into the hand of the king.”
 \p
 \v 16 But the king said to him, “How many times must I make you swear not to tell me anything but the truth in the name of the LORD?”
 \p
 \v 17 So Micaiah declared:
+\b
 \q1 “I saw all Israel scattered on the hills
 \q2 like sheep without a shepherd.
 \q1 And the LORD said, ‘These people have no master;
@@ -1610,6 +1621,7 @@
 \p
 \v 35 The battle raged throughout that day, and the king was propped up in his chariot facing the Arameans. And the blood from his wound ran out onto the floor of the chariot, and that evening he died.
 \v 36 As the sun was setting, the cry rang out in the army:
+\b
 \q1 “Every man to his own city,
 \q2 and every man to his own land!”
 \p
